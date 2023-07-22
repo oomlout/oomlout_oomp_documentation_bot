@@ -1,5 +1,5 @@
 # None
-![None](projects/electrolama/minik/oomp/current/working/working_3d.png)
+![None](current/working/working_3d.png)
 ## Description
 None/
 ## Bill of Materials
@@ -20,7 +20,6 @@ None/
 | 13 | XT101 | XTAL-4P-3225 | 1 | 12MHz |  |  |
 
 ## Images
-![projects/electrolama/minik/git/module/Revision A2/prod/minik-RevA2-placement.png](projects/electrolama/minik/git/module/Revision A2/prod/minik-RevA2-placement.png)
-![projects/electrolama/minik/oomp/current/working/working_3d.png](projects/electrolama/minik/oomp/current/working/working_3d.png)
-![projects/electrolama/minik/oomp/current/working/working_3d_back.png](projects/electrolama/minik/oomp/current/working/working_3d_back.png)
-![projects/electrolama/minik/oomp/current/working/working_3d_front.png](projects/electrolama/minik/oomp/current/working/working_3d_front.png)
+![current/working/working_3d.png](current/working/working_3d.png)
+![current/working/working_3d_back.png](current/working/working_3d_back.png)
+![current/working/working_3d_front.png](current/working/working_3d_front.png)
