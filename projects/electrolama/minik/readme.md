@@ -1,4 +1,5 @@
 # None
+![None](projects/electrolama/minik/oomp/current/working/kicad_pcb_3d.png)
 ## Description
 None/
 
