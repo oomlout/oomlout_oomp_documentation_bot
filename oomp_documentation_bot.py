@@ -117,6 +117,8 @@ def document_project(**kwargs):
     oom_kicad.generate_outputs(board_file = f'{directory}/oomp/current/working/working.kicad_pcb', **kwargs)
 
     #generate the readme
+    # copy kwargs to readme_kwargs
+    kwargs["oomp_in_output"] = True
     oom_kicad.generate_readme(**kwargs)
 
 
