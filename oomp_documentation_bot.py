@@ -98,9 +98,19 @@ def document_project(**kwargs):
             dst = f'{directory}/oomp/{dir}/working'
             #copy files across if a check if each file exists if it does overwrite it
             for file in os.listdir(src):
+                #replace doub
                 if os.path.exists(f'{dst}/{file}'):
                     os.remove(f'{dst}/{file}')
-                shutil.copyfile(f'{src}/{file}', f'{dst}/{file}')
+                src_file = f'{src}/{file}'
+                dst_file = f'{dst}/{file}'
+                #replace double slashes with single slashes
+                dst_file = dst_file.replace('//', '/')
+                src_file = src_file.replace('//', '/')
+                #if destination directory doesn't exist create it
+                if not os.path.exists(dst):
+                    os.makedirs(dst)
+                shutil.copyfile(src_file, dst_file)
+                
             
             
     #generate all the kicad files
