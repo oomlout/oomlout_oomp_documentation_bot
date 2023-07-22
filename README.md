@@ -1,2 +1,8 @@
-# oomlout_oomp_documentation_bot
-a bot that goes around generating rough documentation for kicad projects
+# None
+## Description
+None/
+
+## Images
+![projects/electrolama/minik/git/module/Revision A2/prod/minik-RevA2-placement.png](projects/electrolama/minik/git/module/Revision A2/prod/minik-RevA2-placement.png)
+![projects/electrolama/minik/oomp/current/working/rr.png](projects/electrolama/minik/oomp/current/working/rr.png)
+![projects/electrolama/minik/oomp/current/working/z.png](projects/electrolama/minik/oomp/current/working/z.png)
