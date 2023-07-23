@@ -73,6 +73,9 @@ def document_project(**kwargs):
             #copy the eagle board file to the /oomp_documentation/eagle directory 
             eagle_board_file_dst = f'{directory}/oomp_documentation/src/{key}/working.brd'
             eagle_board_file_src_c = f'{directory}/git/{eagle_board_file_src[key]}'
+            ## remove double slashes
+            eagle_board_file_dst = eagle_board_file_dst.replace("//","/")
+            eagle_board_file_src_c = eagle_board_file_src_c.replace("//","/")
             #copy file using os
             import shutil
             shutil.copyfile(eagle_board_file_src_c, eagle_board_file_dst)

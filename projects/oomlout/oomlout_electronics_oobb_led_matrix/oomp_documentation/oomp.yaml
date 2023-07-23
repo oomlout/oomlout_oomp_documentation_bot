@@ -1,0 +1,8 @@
+directory: projects/oomlout/oomlout_electronics_oobb_led_matrix/
+github: https://github.com/oomlout/oomlout_electronics_oobb_led_matrix
+github_project: oomlout_electronics_oobb_led_matrix
+github_user: oomlout
+kicad_directory: projects/oomlout/oomlout_electronics_oobb_led_matrix/oomp_documentation/src/version_current/working/
+kicad_src_directory:
+  version_current: oomp/current/working
+oomp_in_output: true

@@ -427,8 +427,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "working.step",
-      "vrml": "working.wrl"
+      "step": "",
+      "vrml": ""
     },
     "page_layout_descr_file": ""
   },

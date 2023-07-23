@@ -1,0 +1,10 @@
+directory: projects/omerk/zig-a-zig-ah/
+eagle_board_file_src:
+  version_current: zzh/Revision A/zzh.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: zzh/Revision A/zzh.sch
+github: https://github.com/omerk/zig-a-zig-ah
+github_project: zig-a-zig-ah
+github_user: omerk
+oomp_in_output: true
