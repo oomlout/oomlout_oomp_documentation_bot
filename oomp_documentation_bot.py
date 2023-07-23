@@ -22,8 +22,10 @@ def document_project(**kwargs):
     kwargs['directory'] = directory
     #set directory_oomp
 
-    #do git clone or pull    
-    kwargs = git_project(**kwargs)
+
+    ######
+    ###### directory section
+    ######
 
     #create a /oomp directory in the project directory
     if not os.path.exists(f'{directory}/oomp'):
@@ -32,7 +34,22 @@ def document_project(**kwargs):
     if not os.path.exists(f'{directory}/oomp/src'):
         os.makedirs(f'{directory}/oomp/src')
 
+    #######
+    ####### git section
+    #######
+
+    #do git clone or pull    
+    kwargs = git_project(**kwargs)
+
+    #######
+    ####### eagle conversion section
+    #######
+
     if eagle_board_file_src:
+        #if eagle board sile is a string convert it to a dict with the string value as current
+        if isinstance(eagle_board_file_src, str):
+            eagle_board_file_src = {'current': eagle_board_file_src}
+            kwargs['eagle_board_file_src'] = eagle_board_file_src
         for key in eagle_board_file_src:
             #make the directory with key
             if not os.path.exists(f'{directory}/oomp/src/{key}'):
@@ -44,32 +61,19 @@ def document_project(**kwargs):
             import shutil
             shutil.copyfile(eagle_board_file_src_c, eagle_board_file_dst)
         
+            #if eagle_board_file_source isnt defined get it from board source just chage suffix to .sch
+            if not eagle_schematic_file_src:
+                eagle_schematic_file_src = {}
+                eagle_schematic_file_src[key] = eagle_board_file_src[key].replace('.brd', '.sch')
+                #add it back to kwargs
+                kwargs['eagle_schematic_file_src'] = {}
+                kwargs['eagle_schematic_file_src'][key] = eagle_schematic_file_src
+
             #do the same for the schematic
             eagle_schematic_file_dst = f'{directory}/oomp/src/{key}/working.sch'
             eagle_schematic_file_src_c = f'{directory}/git/{eagle_schematic_file_src[key]}'
             #copy using os
             shutil.copyfile(eagle_schematic_file_src_c, eagle_schematic_file_dst)
-        
-    #copy the kicad source diretory to src/working
-    ###### untested
-    if kicad_src_directory:
-        #copy the kicad source directory to src/working
-        kicad_src_directory_dst = f'{directory}/oomp/src/working'
-        kicad_src_directory_src = f'{directory}/git/{kicad_src_directory}'
-        #copy all files in the source directory to the destination directory using os
-        import shutil
-        shutil.copytree(kicad_src_directory_src, kicad_src_directory_dst)
-        #rename all the files in the destination directory to working
-        #find the name of the file with the .kicad_pcb extension in the dst directory
-        for file in os.listdir(kicad_src_directory_dst):
-            if file.endswith('.kicad_pcb'):
-                file_prefix = file.replace('.kicad_pcb', '')
-        #rename every file in the dst directory with the file_prefix to working
-        for file in os.listdir(kicad_src_directory_dst):
-            if file.startswith(file_prefix):
-                os.rename(f'{kicad_src_directory_dst}/{file}', f'{kicad_src_directory_dst}/working{file.replace(file_prefix, "")}')
-        #add the eagle schematic file to the kwargs
-        kwargs['kicad_directory'] = kicad_src_directory_dst
 
     #### if eagle sorc files convert to kicad
     if eagle_board_file_src:
@@ -87,6 +91,62 @@ def document_project(**kwargs):
             else:
                 print(f'kicad file already exists for {kicad_directory}' )
 
+
+    #######
+    ####### kicad copy section
+    #######
+
+    #copy the kicad source diretory to src/working
+    ###### untested
+    if kicad_src_directory:
+        #if kicad_src_directory is a string convert it to a dict with the string value as current
+        if isinstance(kicad_src_directory, str):
+            kicad_src_directory = {'current': kicad_src_directory}
+            kwargs['kicad_src_directory'] = kicad_src_directory
+        for dir in kicad_src_directory:
+            import shutil
+            #copy the kicad source directory to src/working
+            kicad_src_directory_dst = f'{directory}/oomp/src/{dir}/working/'
+            kicad_src_directory_src = f'{directory}/git/{kicad_src_directory[dir]}'
+            #remove double slashes
+            kicad_src_directory_dst = kicad_src_directory_dst.replace('//', '/')
+            kicad_src_directory_src = kicad_src_directory_src.replace('//', '/')
+            #go through each file and copy all kicad_pcb and kicad_sch files if the file already exists delete it first
+            #make dst if it doesn't exist
+            if not os.path.exists(kicad_src_directory_dst):
+                os.makedirs(kicad_src_directory_dst)
+
+            for file in os.listdir(kicad_src_directory_src):
+                #if the file is a kicad_pcb or kicad_sch file copy it
+                if file.endswith('.kicad_pcb') or file.endswith('.kicad_sch'):
+                    #delete the file if it exists
+                    if os.path.exists(f'{kicad_src_directory_dst}/{file}'):
+                        os.remove(f'{kicad_src_directory_dst}/{file}')
+                    #copy the file
+                    shutil.copyfile(f'{kicad_src_directory_src}/{file}', f'{kicad_src_directory_dst}/{file}')
+
+
+            
+            #rename all the files in the destination directory to working
+            #find the name of the file with the .kicad_pcb extension in the dst directory
+            for file in os.listdir(kicad_src_directory_dst):
+                if file.endswith('.kicad_pcb'):
+                    file_prefix = file.replace('.kicad_pcb', '')
+            #rename every file in the dst directory with the file_prefix to working
+            for file in os.listdir(kicad_src_directory_dst):
+                if file.startswith(file_prefix):
+                    src_file = f'{kicad_src_directory_dst}/{file}'
+                    src_removed = kicad_src_directory_dst.replace("src/", "")
+                    
+                    
+            #add the eagle schematic file to the kwargs
+            kwargs['kicad_directory'] = kicad_src_directory_dst
+
+    
+    #######
+    ####### move from src to oomp section
+    #######
+
     #### by this point a kicad directory should exist in src copy this to oomp directory with the version name like current
     #go through each directory in {directory}oomp/src
     for dir in os.listdir(f'{directory}/oomp/src'):
@@ -96,31 +156,66 @@ def document_project(**kwargs):
             import shutil
             src = f'{directory}/oomp/src/{dir}/working'
             dst = f'{directory}/oomp/{dir}/working'
+            #remove double slashes
+            src = src.replace('//', '/')
+            dst = dst.replace('//', '/')
+            #make dst if it doesn't exist
+            if not os.path.exists(dst):
+                os.makedirs(dst)
             #copy files across if a check if each file exists if it does overwrite it
             for file in os.listdir(src):
-                #replace doub
+                #copy files from src to dst folder if they exist overwrite
                 if os.path.exists(f'{dst}/{file}'):
                     os.remove(f'{dst}/{file}')
-                src_file = f'{src}/{file}'
-                dst_file = f'{dst}/{file}'
-                #replace double slashes with single slashes
-                dst_file = dst_file.replace('//', '/')
-                src_file = src_file.replace('//', '/')
-                #if destination directory doesn't exist create it
-                if not os.path.exists(dst):
-                    os.makedirs(dst)
-                shutil.copyfile(src_file, dst_file)
-                
+                shutil.copyfile(f'{src}/{file}', f'{dst}/{file}')
+            #count the number of files with the kicad_pcb extension in the dst directory
+            kicad_pcb_count = 0
+            for file in os.listdir(dst):
+                if file.endswith('.kicad_pcb'):
+                    kicad_pcb_count += 1
+            #if there is only one kicad_pcb file in the dst directory rename it to working.kicad_pcb
+            if kicad_pcb_count == 1:
+                for file in os.listdir(dst):
+                    if file.endswith('.kicad_pcb'):
+                        os.rename(f'{dst}/{file}', f'{dst}/working.kicad_pcb')
+            else:
+                raise Exception(f'Error: {kicad_pcb_count} kicad_pcb files in {dst} directory')
+            #do the same for kicad_sch files
+            kicad_sch_count = 0
+            for file in os.listdir(dst):
+                if file.endswith('.kicad_sch'):
+                    kicad_sch_count += 1
+            #if there is only one kicad_sch file in the dst directory rename it to working.kicad_sch
+            if kicad_sch_count == 1:
+                for file in os.listdir(dst):
+                    if file.endswith('.kicad_sch'):
+                        os.rename(f'{dst}/{file}', f'{dst}/working.kicad_sch')
+            else:
+                raise Exception(f'Error: {kicad_sch_count} kicad_sch files in {dst} directory')
             
+                
+                
+                
+    ######
+    ###### generate kicad file section
+    ######
             
     #generate all the kicad files
     oom_kicad.generate_outputs(board_file = f'{directory}/oomp/current/working/working.kicad_pcb', **kwargs)
+
+    ######
+    ###### generate readme section
+    ######
 
     #generate the readme
     # copy kwargs to readme_kwargs
     kwargs["oomp_in_output"] = True
     oom_kicad.generate_readme(**kwargs)
 
+
+    ######
+    ###### generate json section
+    ######
 
     #dump a json file of the kwargs to /oomp directory
     import json
