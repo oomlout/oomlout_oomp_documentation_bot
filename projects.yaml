@@ -1,0 +1,4 @@
+- github: https://github.com/sparkfunX/Qwiic_Mux_PCA9846
+  eagle_board_file_src: Hardware/Qwiic_Mux_PCA9846.brd
+- github: https://github.com/MeArm/MeArm_microbit_pcb
+  kicad_src_directory: /  

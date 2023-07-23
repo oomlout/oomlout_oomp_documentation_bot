@@ -1,0 +1,21 @@
+### Footprint positions - created on Sun Jul 23 13:54:56 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                 Package                                    PosX       PosY       Rot  Side
+          BarrelJack_CUI_PJ-102AH_Horizontal  BarrelJack_CUI_PJ-102AH_Horizontal     154.0000   -67.0000   90.0000  top
+C1        10uF                                C_0805                                 128.8542   -79.0000  -90.0000  top
+C2        10uF                                C_0805                                 124.8410   -79.0000  -90.0000  top
+C3        100uF                               C_1206                                 122.4280   -79.5020  -90.0000  top
+D1        BAT60AE6327                         SOD-323                                126.8222   -79.0000   90.0000  top
+D2        BAT60AE6327                         SOD-323                                147.2184   -80.6958  -90.0000  top
+D3        BAT60AE6327                         SOD-323                                152.8318   -75.0000    0.0000  top
+G***      LOGO                                LOGO                                   116.0780   -73.6600    0.0000  top
+J1        microbit_edge_connector             Microbit_Connector_RA_TH                95.9358   -84.2010    0.0000  top
+P1        CONN_02X03                          IDC-Header_2x03_Pitch2.54mm_Straight   118.0975   -60.0000   90.0000  top
+P2        USB_OTG                             MOLEX_MICRO_USB                        159.7904   -80.2894   90.0000  top
+P4        CONN_01X04                          Pin_Header_Angled_1x04                  89.3826   -86.6648  180.0000  top
+RV1       DUAL_POT_JOYSTICK                   JOYSTICK                               141.2750   -70.0000  180.0000  top
+RV2       DUAL_POT_JOYSTICK                   JOYSTICK                               100.0000   -70.0000  180.0000  top
+U1        LD1117S33CTR                        SOT-223                                125.8824   -72.1868    0.0000  top
+## End

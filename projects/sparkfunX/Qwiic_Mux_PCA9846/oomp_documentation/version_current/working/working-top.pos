@@ -1,0 +1,47 @@
+### Footprint positions - created on Sun Jul 23 13:40:28 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                     PosX       PosY       Rot  Side
+C1        2.2uF                          0402-TIGHT              147.1041  -101.1936    0.0000  top
+C2        0.1uF                          0402-TIGHT              149.8981  -101.1936  180.0000  top
+C3        2.2uF                          0402-TIGHT              142.1511  -105.0036    0.0000  top
+C4        2.2uF                          0402-TIGHT              154.8511  -105.0036  180.0000  top
+D1        RED                            LED-0603                153.5811   -94.8436   90.0000  top
+FD1       FIDUCIAL1X2                    FIDUCIAL-1X2            141.5161   -93.5736    0.0000  top
+FD2       FIDUCIAL1X2                    FIDUCIAL-1X2            155.4861  -116.4336    0.0000  top
+FRAME1    FRAME-LETTER                   CREATIVE_COMMONS        195.4911  -131.6736    0.0000  top
+H1        STAND-OFF                      STAND-OFF               158.6611  -115.1636    0.0000  top
+H2        STAND-OFF                      STAND-OFF               138.3411  -115.1636    0.0000  top
+H3        STAND-OFF                      STAND-OFF               158.6611   -94.8436    0.0000  top
+H4        STAND-OFF                      STAND-OFF               138.3411   -94.8436    0.0000  top
+IN0       QWIIC_RIGHT_ANGLE              JST04_1MM_RA            148.5011   -97.3836  180.0000  top
+J1                                       1X04_NO_SILK            143.4211  -116.4336   90.0000  top
+J7                                       1X02_NO_SILK            143.4211   -93.5736  -90.0000  top
+LOGO1     SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS   172.6311   -70.7136    0.0000  top
+LOGO4     OSHW-LOGOMINI                  OSHW-LOGO-MINI          153.5811  -115.1636    0.0000  top
+OUT0      QWIIC_RIGHT_ANGLE              JST04_1MM_RA            148.5011  -112.6236    0.0000  top
+PORT0     QWIIC_RIGHT_ANGLE              JST04_1MM_RA            140.8811  -101.1936  -90.0000  top
+PORT1     QWIIC_RIGHT_ANGLE              JST04_1MM_RA            140.8811  -108.8136  -90.0000  top
+PORT2     QWIIC_RIGHT_ANGLE              JST04_1MM_RA            156.1211  -108.8136   90.0000  top
+PORT3     QWIIC_RIGHT_ANGLE              JST04_1MM_RA            156.1211  -101.1936   90.0000  top
+R1        100k                           0402-TIGHT              153.5811  -101.1936  180.0000  top
+R2        2.2k                           0402-TIGHT              143.4211   -99.9236   90.0000  top
+R3        2.2k                           0402-TIGHT              143.4211  -102.4636  -90.0000  top
+R4        2.2k                           0402-TIGHT              145.9611  -108.8136    0.0000  top
+R5        2.2k                           0402-TIGHT              145.9611  -110.0836    0.0000  top
+R6        2.2k                           0402-TIGHT              154.2161  -108.8136   90.0000  top
+R7        2.2k                           0402-TIGHT              152.9461  -108.8136  -90.0000  top
+R8        2.2k                           0402-TIGHT              153.5811   -99.9236  180.0000  top
+R9        2.2k                           0402-TIGHT              153.5811   -98.6536  180.0000  top
+R10       2.2k                           0402-TIGHT              153.4541  -110.9726    0.0000  top
+R11       2.2k                           0402-TIGHT              153.4541  -112.2426    0.0000  top
+R12       1k                             0402-TIGHT              153.5811   -97.3836    0.0000  top
+R13       100k                           0402-TIGHT              144.6911   -99.9236  -90.0000  top
+U$2                                      PWR43214                155.1051   -94.4626   90.0000  top
+U$3                                      043215                  141.3891   -97.3836    0.0000  top
+U$4                                      10                      141.3891  -112.6236    0.0000  top
+U$5                                      211                     155.6131  -112.6236    0.0000  top
+U$6                                      3212                    155.6131   -97.3836    0.0000  top
+U1        PCA9846                        SOT403-1                148.5011  -105.0036  -90.0000  top
+## End

@@ -1,0 +1,10 @@
+directory: projects/sparkfunX/Qwiic_Mux_PCA9846/
+eagle_board_file_src:
+  version_current: Hardware/Qwiic_Mux_PCA9846.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/Qwiic_Mux_PCA9846.sch
+github: https://github.com/sparkfunX/Qwiic_Mux_PCA9846
+github_project: Qwiic_Mux_PCA9846
+github_user: sparkfunX
+oomp_in_output: true

@@ -1,0 +1,38 @@
+### Footprint positions - created on Sun Jul 23 13:40:28 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+ADDR0     JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     143.4211  -105.0036   90.0000  bottom
+ADDR1     JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           145.9611  -105.0036  -90.0000  bottom
+ADDR2     JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           148.5011  -105.0036   90.0000  bottom
+ADDR3     JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           151.0411  -105.0036  -90.0000  bottom
+ADDR4     JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           153.5811  -105.0036  -90.0000  bottom
+FD3       FIDUCIAL1X2                   FIDUCIAL-1X2                   141.5161   -93.5736  180.0000  bottom
+FD4       FIDUCIAL1X2                   FIDUCIAL-1X2                   155.4861  -116.4336  180.0000  bottom
+I2C0      JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   150.4061  -115.1636  180.0000  bottom
+JP0       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   138.3411  -101.1936   90.0000  bottom
+JP1       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   138.3411  -108.8136   90.0000  bottom
+JP2       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   158.6611  -108.8136   90.0000  bottom
+JP3       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   158.6611  -101.1936  -90.0000  bottom
+LED0      JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     153.5811   -94.8436  -90.0000  bottom
+U$1       SPARKX-LOGO3                  SPARKX-SMALL                   156.2481  -111.9886  180.0000  bottom
+U$7                                     ##RST##8                       146.7231   -96.1136  180.0000  bottom
+U$8                                     #0#9                           140.2461  -101.1936  180.0000  bottom
+U$9                                     #1#9                           139.9921  -108.8136  180.0000  bottom
+U$10                                    #2#9                           156.8831  -108.8136  180.0000  bottom
+U$11                                    #3#9                           156.8831  -101.1936  180.0000  bottom
+U$12                                    #3V3#7                         146.4691  -113.8936  180.0000  bottom
+U$13                                    #A0#0                          143.4211  -102.4636   90.0000  bottom
+U$14                                    #A1#1                          145.9611  -102.5906   90.0000  bottom
+U$15                                    #A2#2                          148.5011  -102.4636   90.0000  bottom
+U$16                                    #A3#3                          151.0411  -102.4636   90.0000  bottom
+U$17                                    #A4#4                          153.5811  -102.4636   90.0000  bottom
+U$18                                    #GND#7                         146.4691  -116.4336  180.0000  bottom
+U$19                                    #GND#7                         146.4691   -93.5736  180.0000  bottom
+U$21                                    #SCL#5                         146.7231  -108.8136  180.0000  bottom
+U$22                                    #SDA#6                         146.8501  -111.3536  180.0000  bottom
+U$23                                    #LED#0                         155.2321   -94.8436   90.0000  bottom
+U$24                                    QWIIC_MUX_PCA98461             148.5011   -99.2886  180.0000  bottom
+U$25                                    #I�C#0                       153.5811  -115.1636  180.0000  bottom
+## End
