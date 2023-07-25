@@ -1,0 +1,10 @@
+directory: projects/sparkfunX/Qwiic_High_Performance_Magnetometer_MMC5983MA/
+eagle_board_file_src:
+  version_current: Hardware/Qwiic_High_Performance_Magnetometer_X01.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/Qwiic_High_Performance_Magnetometer_X01.sch
+github: https://github.com/sparkfunX/Qwiic_High_Performance_Magnetometer_MMC5983MA
+github_project: Qwiic_High_Performance_Magnetometer_MMC5983MA
+github_user: sparkfunX
+oomp_in_output: true

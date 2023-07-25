@@ -1,0 +1,10 @@
+directory: projects/sparkfunX/PoE_Power_Supply/
+eagle_board_file_src:
+  version_current: Hardware/PoE_Power_Supply.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/PoE_Power_Supply.sch
+github: https://github.com/sparkfunX/PoE_Power_Supply
+github_project: PoE_Power_Supply
+github_user: sparkfunX
+oomp_in_output: true

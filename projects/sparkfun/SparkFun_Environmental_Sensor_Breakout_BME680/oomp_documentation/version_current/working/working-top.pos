@@ -1,0 +1,45 @@
+### Footprint positions - created on Mon Jul 24 15:05:55 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                         Package                            PosX       PosY       Rot  Side
+C1        0.1uF                       0603                           144.6911  -105.0036   90.0000  top
+C2        0.1uF                       0603                           152.3111  -105.0036  -90.0000  top
+D1        RED                         LED-0603                       158.6611  -111.3536    0.0000  top
+FD1       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO                 159.9311   -97.3836    0.0000  top
+FD4       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO                 137.0711  -116.4336    0.0000  top
+FRAME1    FRAME-LETTER                CREATIVE_COMMONS               119.2911  -127.8636    0.0000  top
+H1        STAND-OFFTIGHT              STAND-OFF-TIGHT                138.3411   -94.8436    0.0000  top
+H2        STAND-OFFTIGHT              STAND-OFF-TIGHT                158.6611   -94.8436    0.0000  top
+I2CPU0    I2C_PU                      SMT-JUMPER_3_2-NC_TRACE_SILK   148.5011  -110.0836    0.0000  top
+J1        I2C                         1X04_NO_SILK                   144.6911  -116.4336    0.0000  top
+J2        SPI                         1X06_NO_SILK                   142.1511   -93.5736    0.0000  top
+J5        QWIIC                       JST04_1MM_RA                   140.8811  -105.0036  -90.0000  top
+J7        QWIIC                       JST04_1MM_RA                   156.1211  -105.0036   90.0000  top
+LOGO3     REVISION                    REVISION                       130.7211  -130.4036    0.0000  top
+LOGO4     SFE_LOGO_FLAME.1_INCH       SFE_LOGO_FLAME_.1              138.9761   -99.1616    0.0000  top
+PWRLED0   JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK     158.6611  -115.1636  -90.0000  top
+R1        4.7k                        0603@1                         152.3111  -101.1936    0.0000  top
+R2        1k                          0603                           158.6611  -113.0046    0.0000  top
+R3        4.7k                        0603@1                         152.3111  -110.0836  180.0000  top
+R4        4.7k                        0603@1                         144.6911  -110.0836    0.0000  top
+R5        4.7k                        0603@1                         144.6911  -101.1936    0.0000  top
+U$1                                   MISO_O                         147.2311   -99.1616   90.0000  top
+U$3                                   !CS_I                          142.1511   -97.3836   90.0000  top
+U$5                                   MOSI_I                         144.6911   -99.1616   90.0000  top
+U$7                                   SCK_I                          149.7711   -98.5266   90.0000  top
+U$9                                   3V3_P                          152.3111   -98.5266   90.0000  top
+U$11                                  GND_P                          154.8511   -98.6536   90.0000  top
+U$14                                  GND_P                          144.6911  -116.1796   90.0000  top
+U$15                                  I2C                            146.5961  -108.1786    0.0000  top
+U$16                                  3V3_P                          147.2311  -116.1796   90.0000  top
+U$18                                  SDA_IO                         149.7711  -116.0526   90.0000  top
+U$20                                  SCL_IO                         152.3111  -116.0526   90.0000  top
+U$22                                  BME6800                        135.8011  -111.3536    0.0000  top
+U$23                                  AIR1                           135.8011  -112.6236    0.0000  top
+U$24                                  QUALITY2                       135.8011  -113.8936    0.0000  top
+U$25                                  SENSOR3                        135.8011  -115.1636    0.0000  top
+U$32                                  QWIIC_5MM                      158.0261  -100.3046    0.0000  top
+U$34                                  PWR_TO                         156.2481  -109.9566    0.0000  top
+U1        BME680_Air_Quality_Sensor   LGA3.0X3.0                     148.5011  -105.0036  -90.0000  top
+## End

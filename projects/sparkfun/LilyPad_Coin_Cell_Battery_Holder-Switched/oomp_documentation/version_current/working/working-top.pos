@@ -1,0 +1,16 @@
+### Footprint positions - created on Mon Jul 24 13:07:23 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                  PosX       PosY       Rot  Side
+BAT1      20mm_coincell      BATTCON_20MM_4LEGS   148.3614  -109.0006    0.0000  top
+BATB-0    SEWTAP6            PETAL-SMALL-2SIDE    139.9032  -117.8906    0.0000  top
+BATB-2    SEWTAP6            PETAL-SMALL-2SIDE    157.5308  -117.8906    0.0000  top
+BATT+0    SEWTAP6            PETAL-SMALL-2SIDE    137.9474   -97.0626  -115.0000  top
+BATT+2    SEWTAP6            PETAL-SMALL-2SIDE    158.9532   -97.0626  115.0000  top
+FD1       FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL       162.1434  -102.9884    0.0000  top
+FD2       FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL       137.1117  -115.1778    0.0000  top
+FRAME1    FRAME-LETTER       CREATIVE_COMMONS     123.3932  -129.7244    0.0000  top
+S1                           AYZ0202              148.3614   -94.2686  180.0000  top
+U$1       REVISION           REVISION             134.7826  -132.3000    0.0000  top
+## End

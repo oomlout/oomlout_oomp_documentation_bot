@@ -1,0 +1,10 @@
+directory: projects/adafruit/Adafruit-METRO-328-PCB/
+eagle_board_file_src:
+  version_current: Metro THM+LDO Rev C - CP2104.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Metro THM+LDO Rev C - CP2104.sch
+github: https://github.com/adafruit/Adafruit-METRO-328-PCB
+github_project: Adafruit-METRO-328-PCB
+github_user: adafruit
+oomp_in_output: true

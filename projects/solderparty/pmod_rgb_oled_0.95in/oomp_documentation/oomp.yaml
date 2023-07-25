@@ -1,0 +1,6 @@
+directory: projects/solderparty/pmod_rgb_oled_0.95in/
+github: https://github.com/solderparty/pmod_rgb_oled_0.95in
+github_project: pmod_rgb_oled_0.95in
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

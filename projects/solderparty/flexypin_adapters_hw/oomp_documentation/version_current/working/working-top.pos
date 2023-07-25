@@ -1,0 +1,16 @@
+### Footprint positions - created on Tue Jul 25 17:37:56 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                       Package                                         PosX       PosY       Rot  Side
+G***      LOGO                      SolderParty-New-Logo_7.5x6.4mm_SilkScreen   148.6000   -87.2581    0.0000  top
+J2        Conn_01x02                FlexyPin_1x02_P2.54mm                       137.7250   -82.9000    0.0000  top
+J3        Conn_01x02                FlexyPin_1x02_P2.54mm                       137.7250   -87.9750    0.0000  top
+J4        Conn_01x02                FlexyPin_1x02_P2.54mm                       137.7250   -93.0500    0.0000  top
+J5        Conn_01x01                FlexyPin_1x01_P2.54mm                       137.7250   -98.1500    0.0000  top
+J6        Conn_01x02                FlexyPin_1x02_P2.54mm                       158.3750   -85.4400  180.0000  top
+J7        Conn_01x02                FlexyPin_1x02_P2.54mm                       158.3750   -90.5150  180.0000  top
+J8        Conn_01x02                FlexyPin_1x02_P2.54mm                       158.3750   -95.5900  180.0000  top
+J9        Conn_01x01                FlexyPin_1x01_P2.54mm                       158.3750   -98.1500  180.0000  top
+REF**     Fiducial_0.5mm_Mask1.5mm  Fiducial_0.5mm_Mask1.5mm                    148.0750   -90.5500    0.0000  top
+## End

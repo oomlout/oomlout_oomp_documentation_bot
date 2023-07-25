@@ -1,0 +1,8 @@
+directory: projects/solderparty/flexypin_adapters_hw/
+github: https://github.com/solderparty/flexypin_adapters_hw
+github_project: flexypin_adapters_hw
+github_user: solderparty
+kicad_directory: projects/solderparty/flexypin_adapters_hw/oomp_documentation/src/version_current/working/
+kicad_src_directory:
+  version_current: xiao_qtpy_flexypin/
+oomp_in_output: true

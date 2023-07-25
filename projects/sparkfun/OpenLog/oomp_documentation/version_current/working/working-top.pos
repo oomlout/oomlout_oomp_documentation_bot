@@ -1,0 +1,29 @@
+### Footprint positions - created on Mon Jul 24 12:43:57 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+C1        10uF                   0603-POL            153.7081  -106.0196   90.0000  top
+C2        0.1uF                  0603-CAP            142.1511  -109.4486  -90.0000  top
+C3        0.1uF                  0603-CAP            142.1511  -103.0986  -90.0000  top
+C4        0.1uF                  0603-CAP            154.9273  -106.0196  -90.0000  top
+D1        BLUE                   LED-0603            154.2415   -98.7298   90.0000  top
+D3        GREEN                  LED-0603            142.7429   -98.7146  -90.0000  top
+FID1      FIDUCIALUFIDUCIAL      MICRO-FIDUCIAL      151.0411   -96.0628    0.0000  top
+FID2      FIDUCIALUFIDUCIAL      MICRO-FIDUCIAL      143.4211  -114.0206    0.0000  top
+FRAME1    FRAME-LETTER           CREATIVE_COMMONS    119.8190  -129.7686    0.0000  top
+JP2                              1X06_NO_SILK        154.8511  -113.2586  180.0000  top
+LOGO1     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   142.5321  -111.0996    0.0000  top
+LOGO2     OSHW-LOGOMINI          OSHW-LOGO-MINI      142.6591   -97.0026    0.0000  top
+Q1        16MHZ                  RESONATOR-SMD       154.6885  -102.6338  -90.0000  top
+R1        1K                     0603-RES            154.2644  -100.0150    0.0000  top
+R2        10K                    0603-RES            142.1511  -106.2736   90.0000  top
+R6        330                    0603-RES            142.7251  -100.0785  180.0000  top
+TP1       TEST-POINT3            PAD.03X.03          154.8511   -96.7486    0.0000  top
+TP2       TEST-POINT3            PAD.03X.03          152.3111   -96.7486  -90.0000  top
+TP3       TEST-POINT3            PAD.03X.03          149.7711   -96.7486  -90.0000  top
+TP4       TEST-POINT3            PAD.03X.03          147.2311   -96.7486  -90.0000  top
+TP5       TEST-POINT3            PAD.03X.03          144.6911   -96.7486  -90.0000  top
+U1        ATMEGA328P_TQFP        TQFP32-08           147.9931  -104.3686  180.0000  top
+U2        3.3V_MIC5205           SOT23-5             153.6141  -109.4511  -90.0000  top
+## End

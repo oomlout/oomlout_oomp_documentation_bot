@@ -1,0 +1,6 @@
+directory: projects/solderparty/lipo_disconnector_hw/
+github: https://github.com/solderparty/lipo_disconnector_hw
+github_project: lipo_disconnector_hw
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

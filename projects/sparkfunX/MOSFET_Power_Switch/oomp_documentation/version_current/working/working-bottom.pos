@@ -1,0 +1,19 @@
+### Footprint positions - created on Sun Jul 23 23:22:29 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                       PosX       PosY       Rot  Side
+JP2       JUMPER-COMBO_2_NC_TRACE  COMBO-JUMPER_2_NC_TRACE   147.2311  -105.6386  -90.0000  bottom
+LOGO1     OSHW-LOGOS               OSHW-LOGO-S               163.7411  -115.7986  180.0000  bottom
+U$15                               GND0                      162.3441  -101.8286  180.0000  bottom
+U$16                               CTL0                      162.3441  -104.3686  180.0000  bottom
+U$17                               3V32                      162.3441  -106.9086  180.0000  bottom
+U$18                               VCC3                      162.3441  -109.4486  180.0000  bottom
+U$19                               LOAD0                     134.7851  -111.7346   90.0000  bottom
+U$20                               #0                        131.9911  -108.6866  -90.0000  bottom
+U$21      SPARKX-LOGO5             SPARKX-LARGE              148.5011  -118.3386  180.0000  bottom
+U$22                               #1                        131.9911  -115.7986  -90.0000  bottom
+U$24                               MOSFET_0                  147.9931  -109.4486  180.0000  bottom
+U$25                               POWER_1                   148.1201  -111.9886  180.0000  bottom
+U$26                               SWITCH_2                  148.1201  -114.5286  180.0000  bottom
+## End

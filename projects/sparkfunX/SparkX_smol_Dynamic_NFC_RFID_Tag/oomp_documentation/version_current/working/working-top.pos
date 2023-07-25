@@ -1,0 +1,24 @@
+### Footprint positions - created on Mon Jul 24 10:17:45 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                     PosX       PosY       Rot  Side
+ANT0      4.7μH                         W3102                   148.5011  -105.0036   90.0000  top
+C1        0.1uF                          0402-TIGHT              146.0881   -89.3826  180.0000  top
+C2        2.2uF                          0402-TIGHT              146.0881   -90.3986  180.0000  top
+C3        DNP                            0402-TIGHT_NO_CREAM     148.5011  -100.3681    0.0000  top
+C4        0.5pF                          0402-TIGHT              148.5011   -99.2886    0.0000  top
+FD1       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          143.8021   -85.3186    0.0000  top
+FD3       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          153.2001  -124.6886    0.0000  top
+FRAME1    FRAME-LEDGER                   CREATIVE_COMMONS        188.8871  -135.4836    0.0000  top
+LOGO1     SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS   162.2171   -74.5236    0.0000  top
+LOGO2     OSHW-LOGOMINI                  OSHW-LOGO-MINI          148.5011  -110.7186    0.0000  top
+OUT0                                     FPC_16_0.5MM            148.5011  -123.2281  180.0000  top
+R2        4.7k                           0402-TIGHT              148.5011  -112.6236  180.0000  top
+R3        4.7k                           0402-TIGHT              148.5011  -113.7666  180.0000  top
+U$1       SPARKX-LOGO3                   SPARKX-SMALL            148.5011  -115.7986    0.0000  top
+U$2                                      SM�L_NFC#RFID_TAG0    152.4381   -94.8436   90.0000  top
+U$3       SMOL_LOGOSMALL                 SMOL_SMALL              148.5011  -118.9101    0.0000  top
+U$17                                     OUT0                    148.5011  -120.7516    0.0000  top
+U1        ST25DV64KC                     SO08                    148.5011   -94.8436    0.0000  top
+## End

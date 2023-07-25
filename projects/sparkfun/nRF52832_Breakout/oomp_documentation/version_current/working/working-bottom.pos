@@ -1,0 +1,15 @@
+### Footprint positions - created on Mon Jul 24 13:30:19 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                                 PosX       PosY       Rot  Side
+JP1       VDD-EN                SMT-JUMPER_2_NC_TRACE_SILK          148.5011  -125.3236  180.0000  bottom
+JP2       NFC1                  SMT-JUMPER_2_NO_SILK                147.2311  -107.5436    0.0000  bottom
+JP3       NFC2                  SMT-JUMPER_2_NO_SILK                149.7711  -107.5436  180.0000  bottom
+JP4       XL1                   PAD-JUMPER-2-NC_BY_TRACE_YES_SILK   147.2311  -103.0986    0.0000  bottom
+JP5       XL2                   PAD-JUMPER-2-NC_BY_TRACE_YES_SILK   149.7711  -103.0986  180.0000  bottom
+JP6       PWR-LED               PAD-JUMPER-2-NC_BY_TRACE_YES_SILK   148.5011  -115.7986  180.0000  bottom
+LOGO3     SFE_LOGO_NAME.1_INCH  SFE_LOGO_NAME_.1                    154.4701   -82.7786  180.0000  bottom
+TP1       TEST-POINT3X4         PAD.03X.04                          147.2311  -109.3470  180.0000  bottom
+TP2       TEST-POINT3X4         PAD.03X.04                          149.7711  -109.3470  180.0000  bottom
+## End

@@ -1,5 +1,0 @@
-# None
-## Description
-None/
-
-## Images

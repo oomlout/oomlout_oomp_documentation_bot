@@ -1,0 +1,21 @@
+### Footprint positions - created on Sun Jul 23 23:33:38 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                          PosX       PosY       Rot  Side
+FD3       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               161.8361  -132.9436  -90.0000  bottom
+FD4       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               135.1661   -77.0636  -90.0000  bottom
+LOAD0     JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   153.5811  -119.6086   90.0000  bottom
+LOGO3     OSHW-LOGOMINI               OSHW-LOGO-MINI               159.9311  -125.9586  180.0000  bottom
+POE_LED0  JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   140.8811  -124.6886    0.0000  bottom
+U$1                                   #POE#0                       148.5011  -108.1786  180.0000  bottom
+U$8                                   #LED#0                       140.8811  -122.7836  180.0000  bottom
+U$9                                   #LOAD#0                      157.1371  -119.6086  180.0000  bottom
+U$10                                  #3V3#0                       149.7711  -126.0856  -90.0000  bottom
+U$11                                  #5V#2                        144.6911  -125.7046  -90.0000  bottom
+U$12                                  #GND#1                       147.2311  -126.2126  -90.0000  bottom
+U$13                                  #GND#1                       152.3111  -126.2126  -90.0000  bottom
+U$17                                  POWER_0                      147.9931  -110.7186  180.0000  bottom
+U$19      SPARKX-LOGO4                SPARKX-LARGE                 148.5011  -100.5586  180.0000  bottom
+U$22                                  SUPPLY_1                     147.9931  -113.2586  180.0000  bottom
+## End

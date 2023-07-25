@@ -1,0 +1,33 @@
+### Footprint positions - created on Mon Jul 24 10:40:16 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                     PosX       PosY       Rot  Side
+C1        0.1uF                          0603                    148.5011  -102.8446  180.0000  top
+D1        RED                            LED-0603                139.6111  -103.7336  -90.0000  top
+FRAME1    FRAME-LETTER                   CREATIVE_COMMONS        198.0311  -131.6736    0.0000  top
+J2        QWIIC_RIGHT_ANGLE              JST04_1MM_RA            140.8811  -111.3536  -90.0000  top
+J3                                       1X01_NO_SILK            153.5811  -116.4336    0.0000  top
+J4        QWIIC_RIGHT_ANGLE              JST04_1MM_RA            156.1211  -111.3536   90.0000  top
+JP2       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          160.3121  -116.8146    0.0000  top
+JP3       STAND-OFF                      STAND-OFF               139.6111   -97.3836    0.0000  top
+JP4       STAND-OFF                      STAND-OFF               157.3911   -97.3836    0.0000  top
+JP6       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          136.5631   -93.0656    0.0000  top
+LOGO1     SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS   177.7111   -71.9836    0.0000  top
+R1        4.7k                           0603                    144.0561  -107.5436    0.0000  top
+R2        4.7k                           0603                    152.9461  -107.5436  180.0000  top
+R3        1k                             0603                    142.1511  -103.7336  -90.0000  top
+R4        1.20k                          0603                    154.8511  -103.7336  -90.0000  top
+R5        2.7k                           0603                    157.3911  -103.7336  -90.0000  top
+U$5                                      ##INT##0                153.5811  -113.8936   90.0000  top
+U$16                                     QWIIC_5MM               138.9761  -116.4336    0.0000  top
+U$17                                     HIGH0                   142.1511  -101.1936    0.0000  top
+U$19                                     LOW0                    154.8511  -101.1936    0.0000  top
+U$20      SPARKX-LOGO3                   SPARKX-SMALL            148.5011  -105.0036    0.0000  top
+U$32                                     #PWR#0                  137.9601  -103.7336   90.0000  top
+U$33                                     #GND#0                  143.4211  -113.6396   90.0000  top
+U$34                                     #3#3V#0                 145.9611  -113.5126   90.0000  top
+U$35                                     #SDA#0                  148.5011  -113.6396   90.0000  top
+U$36                                     #SCL#0                  151.0411  -113.7666   90.0000  top
+U1        SDP31                          SDP3X                   148.5011   -97.3836    0.0000  top
+## End

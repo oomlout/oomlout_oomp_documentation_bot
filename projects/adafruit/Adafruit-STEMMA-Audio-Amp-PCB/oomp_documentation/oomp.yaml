@@ -1,0 +1,10 @@
+directory: projects/adafruit/Adafruit-STEMMA-Audio-Amp-PCB/
+eagle_board_file_src:
+  version_current: Adafruit STEMMA Audio Amp.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Adafruit STEMMA Audio Amp.sch
+github: https://github.com/adafruit/Adafruit-STEMMA-Audio-Amp-PCB
+github_project: Adafruit-STEMMA-Audio-Amp-PCB
+github_user: adafruit
+oomp_in_output: true

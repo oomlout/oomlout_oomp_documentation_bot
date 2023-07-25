@@ -1,0 +1,27 @@
+### Footprint positions - created on Mon Jul 24 15:05:55 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                      PosX       PosY       Rot  Side
+ADDR0     JUMPER-SMT_2_NO_SILK        SMT-JUMPER_2_NO_SILK     147.2311  -100.8126   90.0000  bottom
+FD2       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO           159.9311   -97.3836  180.0000  bottom
+FD3       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO           137.0711  -116.4336  180.0000  bottom
+LOGO1     OSHW-LOGOMINI               OSHW-LOGO-MINI           156.1211  -116.1796  180.0000  bottom
+LOGO2     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1   148.5011  -106.2736  180.0000  bottom
+U$2                                   MISO_O                   147.2311   -93.7006  -90.0000  bottom
+U$4                                   !CS_I                    142.1511   -93.7006  -90.0000  bottom
+U$6                                   MOSI_I                   144.6911   -93.7006  -90.0000  bottom
+U$8                                   SCK_I                    149.7711   -93.9546  -90.0000  bottom
+U$10                                  3V3_P                    152.3111   -93.8276  -90.0000  bottom
+U$12                                  GND_P                    154.8511   -93.8276  -90.0000  bottom
+U$13                                  GND_P                    144.6911  -111.3536  -90.0000  bottom
+U$17                                  3V3_P                    147.2311  -111.4806  -90.0000  bottom
+U$19                                  SDA_IO                   149.7711  -111.3536  -90.0000  bottom
+U$21                                  SCL_IO                   152.3111  -111.6076  -90.0000  bottom
+U$26                                  BME6800                  143.4211  -111.3536  180.0000  bottom
+U$27                                  AIR1                     143.4211  -112.6236  180.0000  bottom
+U$28                                  QUALITY2                 143.4211  -113.8936  180.0000  bottom
+U$29                                  SENSOR3                  143.4211  -115.1636  180.0000  bottom
+U$30                                  ADR4                     146.7231  -100.8126  180.0000  bottom
+U$33                                  ADR#_0X770               152.9461  -108.3056  180.0000  bottom
+## End

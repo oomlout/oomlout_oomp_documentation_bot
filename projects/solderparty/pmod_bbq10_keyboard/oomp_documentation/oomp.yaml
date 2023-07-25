@@ -1,0 +1,6 @@
+directory: projects/solderparty/pmod_bbq10_keyboard/
+github: https://github.com/solderparty/pmod_bbq10_keyboard
+github_project: pmod_bbq10_keyboard
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

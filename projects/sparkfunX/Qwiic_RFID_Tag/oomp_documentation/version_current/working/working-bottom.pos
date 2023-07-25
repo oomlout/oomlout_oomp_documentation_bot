@@ -1,0 +1,24 @@
+### Footprint positions - created on Mon Jul 24 10:29:00 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+FD1       FIDUCIAL1X2                   FIDUCIAL-1X2                   134.0231   -83.5406  180.0000  bottom
+FD3       FIDUCIAL1X2                   FIDUCIAL-1X2                   162.9791  -126.4666  180.0000  bottom
+JP1       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   143.4211  -117.0686   90.0000  bottom
+JP2       JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     153.5811  -119.6086    0.0000  bottom
+JP3       JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     153.5811  -117.0686    0.0000  bottom
+LOGO1     OSHW-LOGOMINI                 OSHW-LOGO-MINI                 161.9631  -111.9886  180.0000  bottom
+U$2       SPARKX-LOGO5                  SPARKX-LARGE                   148.5011   -98.0186  180.0000  bottom
+U$11                                    DYNAMIC_RFID_TAG0              148.5011   -86.5886  180.0000  bottom
+U$15                                    #I2C#11                        143.4211  -114.6556  180.0000  bottom
+U$16                                    ##GPO##9                       154.4701  -119.6086  180.0000  bottom
+U$17                                    #LED#10                        154.4701  -117.0686  180.0000  bottom
+U$18                                    #GND#4                         142.1511  -125.4506   90.0000  bottom
+U$19                                    #3#3V#0                        144.6911  -125.4506   90.0000  bottom
+U$20                                    #SDA#5                         147.2311  -125.4506   90.0000  bottom
+U$21                                    #SCL#6                         149.7711  -125.4506   90.0000  bottom
+U$22                                    ##GPO##8                       152.3111  -125.4506   90.0000  bottom
+U$23                                    #VEH#7                         154.8511  -125.4506   90.0000  bottom
+U$24                                    ST25DV64KC5984                 148.5011   -84.5566  180.0000  bottom
+## End

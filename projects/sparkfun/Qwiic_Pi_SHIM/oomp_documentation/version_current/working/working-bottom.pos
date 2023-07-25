@@ -1,0 +1,10 @@
+### Footprint positions - created on Mon Jul 24 15:17:06 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+FD3       FIDUCIALUFIDUCIAL      FIDUCIAL-MICRO      144.0307  -110.3122  180.0000  bottom
+FD4       FIDUCIALUFIDUCIAL      FIDUCIAL-MICRO      148.5011   -98.6282  180.0000  bottom
+LOGO1     OSHW-LOGOMINI          OSHW-LOGO-MINI      146.0119  -110.3630  180.0000  bottom
+U$1       SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   152.8445  -111.6330  180.0000  bottom
+## End

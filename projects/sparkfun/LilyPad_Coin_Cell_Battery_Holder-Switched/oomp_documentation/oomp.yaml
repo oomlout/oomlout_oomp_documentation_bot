@@ -1,0 +1,10 @@
+directory: projects/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun_LilyPad-Switched-Battery.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun_LilyPad-Switched-Battery.sch
+github: https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched
+github_project: LilyPad_Coin_Cell_Battery_Holder-Switched
+github_user: sparkfun
+oomp_in_output: true

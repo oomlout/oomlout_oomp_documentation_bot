@@ -1,0 +1,16 @@
+- eagle_board_file_src: disaster01.brd
+  github: https://github.com/electrolama/disaster01
+- eagle_board_file_src: hardware/esp8266-lab-kit.brd
+  github: https://github.com/electrolama/esp8266-workshop
+- eagle_board_file_src: hardware/Revision A1/mcore-h616-breakout-RevA1.brd
+  github: https://github.com/electrolama/mcore-h616-breakout
+- eagle_board_file_src: module/Revision A2/minik-RevA2.brd
+  github: https://github.com/electrolama/minik
+- eagle_board_file_src: pum.brd
+  github: https://github.com/electrolama/pic16-usb-module
+- eagle_board_file_src: hardware/Revision A1/riscystick-RevA1.brd
+  github: https://github.com/electrolama/riscystick
+- eagle_board_file_src: Debug-Adapter/zzh-debug.brd
+  github: https://github.com/electrolama/zig-a-zig-ah
+- eagle_board_file_src: Revision A/pi-zigbee-poe-rtc.brd
+  github: https://github.com/electrolama/zoe

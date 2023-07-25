@@ -1,0 +1,10 @@
+directory: projects/sparkfun/HTU21D_Breakout/
+eagle_board_file_src:
+  version_current: hardware/SparkFun_HTU21D_Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: hardware/SparkFun_HTU21D_Breakout.sch
+github: https://github.com/sparkfun/HTU21D_Breakout
+github_project: HTU21D_Breakout
+github_user: sparkfun
+oomp_in_output: true

@@ -1,0 +1,10 @@
+directory: projects/adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB/
+eagle_board_file_src:
+  version_current: Adafruit I2C Quad Rotary Encoder Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Adafruit I2C Quad Rotary Encoder Breakout.sch
+github: https://github.com/adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB
+github_project: Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB
+github_user: adafruit
+oomp_in_output: true

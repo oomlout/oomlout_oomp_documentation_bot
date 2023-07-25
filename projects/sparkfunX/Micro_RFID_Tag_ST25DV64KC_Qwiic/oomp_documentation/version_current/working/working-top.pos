@@ -1,0 +1,23 @@
+### Footprint positions - created on Mon Jul 24 09:53:15 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                     PosX       PosY       Rot  Side
+!GPO!0                                   1X01_1MM_NO_SILK        145.9611   -95.4786    0.0000  top
+ANT0      4.7μH                         W3102                   148.5011  -110.7186  180.0000  top
+C1        0.1uF                          0402-TIGHT              145.9611   -96.7486  180.0000  top
+C2        2.2uF                          0402-TIGHT              145.4531   -98.2726  -90.0000  top
+C3        0.5pF                          0402-TIGHT              148.5011  -105.6386    0.0000  top
+FD1       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          151.6761   -94.8436    0.0000  top
+FD3       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          145.3261  -120.2436    0.0000  top
+FRAME2    FRAME-LETTER                   CREATIVE_COMMONS        185.3311  -131.0386    0.0000  top
+GND.0                                    1X01_1MM_NO_SILK        151.0411  -105.6386    0.0000  top
+H1        STAND-OFFTIGHT                 STAND-OFF-TIGHT         148.5011  -118.3386    0.0000  top
+J1        QWIIC_RIGHT_ANGLE              JST04_1MM_RA            148.5011   -94.2086  180.0000  top
+LOGO1     SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS   157.3911   -70.0786    0.0000  top
+R1        2.2k                           0402-TIGHT              149.1361   -96.4946   90.0000  top
+R2        2.2k                           0402-TIGHT              150.4061   -96.4946   90.0000  top
+U$1       SPARKX-LOGO2                   SPARKX-TINY             148.5011  -115.7351    0.0000  top
+U1        ST25DV64KC                     SO08                    148.5011  -101.4476    0.0000  top
+VEH0                                     1X01_1MM_NO_SILK        145.9611  -105.6386    0.0000  top
+## End

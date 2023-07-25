@@ -1,0 +1,31 @@
+### Footprint positions - created on Mon Jul 24 10:40:16 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+I2C0      JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   148.5011  -107.5436  180.0000  bottom
+J1                                      1X04_NO_SILK                   143.4211  -116.4336    0.0000  bottom
+JP1       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 136.5631   -93.0656  180.0000  bottom
+JP5       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 160.3121  -116.8146  180.0000  bottom
+JP7       JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     152.3111  -103.7336  -90.0000  bottom
+JP8       JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           154.8511  -103.7336   90.0000  bottom
+JP9       JUMPER-SMT_2_NO_SILK          SMT-JUMPER_2_NO_SILK           157.3911  -103.7336   90.0000  bottom
+LOGO5     OSHW-LOGOS                    OSHW-LOGO-S                    139.6111  -113.8936  180.0000  bottom
+PWR0      JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     142.1511  -103.7336   90.0000  bottom
+U$1                                     #GND#0                         143.4211  -113.6396   90.0000  bottom
+U$2                                     #3#3V#0                        145.9611  -113.5126   90.0000  bottom
+U$3                                     #SDA#0                         148.5011  -113.6396   90.0000  bottom
+U$4                                     #SCL#0                         151.0411  -113.7666   90.0000  bottom
+U$6                                     ##INT##0                       153.5811  -113.8936   90.0000  bottom
+U$7                                     #0X21#0                        152.3111  -106.9086   90.0000  bottom
+U$8                                     #0X22#0                        154.8511  -107.0356   90.0000  bottom
+U$9                                     #0X23#0                        157.3911  -107.0356   90.0000  bottom
+U$10                                    DIFFERENTIAL0                  148.5011   -96.3676  180.0000  bottom
+U$11                                    PRESSURE0                      148.5011   -97.6376  180.0000  bottom
+U$12                                    SENSOR0                        148.5011   -98.9076  180.0000  bottom
+U$13                                    SDP310                         148.5011   -95.0976  180.0000  bottom
+U$14                                    #LED#0                         142.1511  -101.8286  180.0000  bottom
+U$15                                    I2C                            150.4061  -105.6386  180.0000  bottom
+U$18      SPARKX-LOGO3                  SPARKX-SMALL                   140.2461  -107.5436  180.0000  bottom
+U$21                                    #ADDRESS#0                     154.8511  -101.8286  180.0000  bottom
+## End

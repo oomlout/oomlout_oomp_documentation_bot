@@ -1,0 +1,10 @@
+directory: projects/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680/
+eagle_board_file_src:
+  version_current: Hardware/Qwiic Environmental BME680.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/Qwiic Environmental BME680.sch
+github: https://github.com/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680
+github_project: SparkFun_Environmental_Sensor_Breakout_BME680
+github_user: sparkfun
+oomp_in_output: true

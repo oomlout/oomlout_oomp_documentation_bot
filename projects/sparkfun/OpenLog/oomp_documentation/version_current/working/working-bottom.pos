@@ -1,0 +1,9 @@
+### Footprint positions - created on Mon Jul 24 12:43:57 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                PosX       PosY       Rot  Side
+FID3      FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL     151.0411  -113.9952  180.0000  bottom
+FID4      FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL     141.5161   -96.0882  180.0000  bottom
+U3        microSD_Socket     MICROSD_1_1        155.6131  -111.0996  180.0000  bottom
+## End

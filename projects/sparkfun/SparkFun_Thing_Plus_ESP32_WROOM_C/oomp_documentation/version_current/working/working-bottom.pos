@@ -1,0 +1,52 @@
+### Footprint positions - created on Mon Jul 24 12:10:11 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                          PosX       PosY       Rot  Side
+FD2       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               138.3411   -78.9686  180.0000  bottom
+FD4       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               159.2961  -131.5466  180.0000  bottom
+J2        MICRO-SDFRICTION            MICROSD_TINY                 149.2123  -124.1044  180.0000  bottom
+JP1       JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   144.6911  -108.1786  180.0000  bottom
+JP2       JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   147.3581  -105.6386  -90.0000  bottom
+JP3       JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   141.8971  -128.7526  -90.0000  bottom
+LOGO1     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1       144.0815  -116.8908  180.0000  bottom
+LOGO2     OSHW-LOGOMINI               OSHW-LOGO-MINI               139.5349  -121.8692  180.0000  bottom
+TP1       TEST-POINT3X5               PAD.03X.05                   157.3911  -124.6886  180.0000  bottom
+TP2       TEST-POINT3X5               PAD.03X.05                   158.9151   -78.5876  180.0000  bottom
+TP3       TEST-POINT3X5               PAD.03X.05                   150.2791   -83.1596  180.0000  bottom
+TP4       TEST-POINT3X5               PAD.03X.05                   146.0881   -94.8436  180.0000  bottom
+U$1                                   SFE_LOGO_FLAME_STOP_.1       158.4071  -127.9906  180.0000  bottom
+U$2                                   #23#PICO#0                   158.1531   -92.9386  180.0000  bottom
+U$3                                   #19#POCI#0                   158.1531   -90.3986  180.0000  bottom
+U$4                                   #4#FREE#0                    158.1531   -82.7786  180.0000  bottom
+U$5                                   #CHG_LED#0                   147.3073   -97.2312  -90.0000  bottom
+U$6                                   ESP32#WROOM0                 148.5011   -77.6986  180.0000  bottom
+U$7                                   THING_PLUS_C0                148.5011   -80.2386  180.0000  bottom
+U$8                                   #SHLD#0                      141.8971  -127.9144   90.0000  bottom
+U$9                                   #_GND#0                      158.4071  -113.2586  180.0000  bottom
+U$10                                  #_NC#0                       158.4071  -115.7986  180.0000  bottom
+U$11                                  #_3V3#0                      158.4071  -118.3386  180.0000  bottom
+U$72                                  #17#TX#0                     158.1531   -85.3186  180.0000  bottom
+U$81                                  #16#RX#0                     158.1531   -87.8586  180.0000  bottom
+U$83                                  #18#SCK#0                    158.1531   -95.4786  180.0000  bottom
+U$84                                  #35#A5#0                     158.1531   -98.0186  180.0000  bottom
+U$85                                  #36#A4#0                     158.1531  -100.5586  180.0000  bottom
+U$86                                  #25#A1#2                     158.1531  -108.1786  180.0000  bottom
+U$87                                  #26#A0#3                     158.1531  -110.7186  180.0000  bottom
+U$88                                  #34#A2#1                     158.1531  -105.6386  180.0000  bottom
+U$89                                  #39#A3#0                     158.1531  -103.0986  180.0000  bottom
+U$90                                  #12#4                        138.7221  -100.5586  180.0000  bottom
+U$91                                  #14#9                        138.7221   -87.8586  180.0000  bottom
+U$92                                  #15#7                        138.7221   -92.9386  180.0000  bottom
+U$93                                  #27#5                        138.7221   -98.0186  180.0000  bottom
+U$94                                  #32#8                        138.7221   -90.3986  180.0000  bottom
+U$95                                  #33#6                        138.7221   -95.4786  180.0000  bottom
+U$96                                  #EN#1                        138.7221  -108.1786  180.0000  bottom
+U$97                                  #VBAT#0                      138.7221  -110.7186  180.0000  bottom
+U$98                                  #VUSB#2                      138.7221  -105.6386  180.0000  bottom
+U$99                                  #13#LED#0                    138.7221  -103.0986  180.0000  bottom
+U$100                                 #21#SDA#1                    138.5951   -82.7786  180.0000  bottom
+U$101                                 #22#SCL#0                    138.5951   -85.3186  180.0000  bottom
+U$102                                 #PWR#0                       145.5801  -108.1786  180.0000  bottom
+U$109                                 #RST#0                       156.8831  -121.0056  -90.0000  bottom
+## End

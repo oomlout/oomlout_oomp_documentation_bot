@@ -1,0 +1,10 @@
+### Footprint positions - created on Mon Jul 24 12:32:44 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                       Package                                               PosX       PosY       Rot  Side
+LOGO3     SFE_LOGO_NAME.2_INCH      SFE_LOGO_NAME_.2                                  159.5501   -81.3816  180.0000  bottom
+SJ1       JUMPER-PAD-2-NC_BY_TRACE  PAD-JUMPER-2-NC_BY_TRACE_YES_SILK                 154.2161  -119.8626    0.0000  bottom
+SJ2       JUMPER-PAD-2-NC_BY_TRACE  PAD-JUMPER-2-NC_BY_TRACE_YES_SILK                 149.1361  -128.1176    0.0000  bottom
+SJ3                                 PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX   147.2311  -108.4326  -90.0000  bottom
+## End

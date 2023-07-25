@@ -1,0 +1,36 @@
+### Footprint positions - created on Mon Jul 24 11:47:33 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref           Val                          Package                        PosX       PosY       Rot  Side
+ATMEGA328P-AU0  ATMEGA328P-AU                TQFP32-08                  132.6261  -122.7836  180.0000  top
+C1              0.1uF                        0603-CAP                   141.5161  -121.5136    0.0000  top
+C3              0.1uF                        0603-CAP                   122.7963  -115.0620  180.0000  top
+C4              0.1uF                        0603-CAP                   127.5461  -129.1336   90.0000  top
+FRAME1          FRAME-LETTER                 CREATIVE_COMMONS           127.5461  -148.1836    0.0000  top
+JP1                                          1X06                       119.9261  -116.4336  -90.0000  top
+JP2                                          1X02                       173.2661   -85.9536  180.0000  top
+JP3             NC                           SJ_2S                      151.6761   -84.6836  -90.0000  top
+JP4             NC                           SJ_2S                      149.1361   -84.6836  -90.0000  top
+JP9             FIDUCIALUFIDUCIAL            MICRO-FIDUCIAL             174.5361   -83.4136    0.0000  top
+JP10            FIDUCIALUFIDUCIAL            MICRO-FIDUCIAL             125.0061  -129.1336    0.0000  top
+LOGO1           LOGO-SFENEW                  SFE-NEW-WEBLOGO            151.9301  -124.8156    0.0000  top
+R1              10k                          0603-RES                   125.9205  -115.8748    0.0000  top
+R2              100                          0603-RES                   144.0561   -85.9536   90.0000  top
+R3              100                          0603-RES                   154.2161   -85.9536   90.0000  top
+R4              100                          0603-RES                   149.1361  -116.2304  -90.0000  top
+R5              100                          0603-RES                   144.0561  -116.2558  -90.0000  top
+R6              100                          0603-RES                   141.5161  -116.2558  -90.0000  top
+R7              100                          0603-RES                   146.5961   -85.9536   90.0000  top
+R8              100                          0603-RES                   151.6507  -116.2050  -90.0000  top
+R9              100                          0603-RES                   146.5961  -116.2812  -90.0000  top
+R10             1k                           0603-RES                   141.8717   -85.4456   90.0000  top
+R11             1k                           0603-RES                   140.5001   -85.4456   90.0000  top
+R12             1k                           0603-RES                   139.1031   -85.4456   90.0000  top
+R13             1k                           0603-RES                   137.7061   -85.4456   90.0000  top
+R14             10k                          0603-RES                   134.2771  -130.3274    0.0000  top
+R15             10k                          0603-RES                   137.6807  -129.9972  180.0000  top
+U$1             7-SEGMENT-4DIGIT-COUNTERPTH  7-SEGMENT-4DIGIT-COUNTER   147.8661  -101.1936    0.0000  top
+U$4             OSHW-LOGOS                   OSHW-LOGO-S                174.5361  -118.9736    0.0000  top
+U1              ARDUINO_SHIELDLABEL          DUEMILANOVE_SHIELD         118.6561   -78.3336  -90.0000  top
+## End

@@ -1,0 +1,58 @@
+### Footprint positions - created on Mon Jul 24 13:19:06 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                  Package                            PosX       PosY       Rot  Side
+C1        10uF                                 0603                           151.2951  -111.1250   90.0000  top
+C2        1.0uF                                0402                           152.7937  -111.5314   90.0000  top
+C3        10uF                                 0603                           147.0025  -109.0168   90.0000  top
+C4        1.0uF                                0402                           139.4282  -105.3160  -90.0000  top
+D1        1A/23V/620mV                         SOD-323                        152.6667   -97.1804    0.0000  top
+D2        BLUE                                 LED-0603                       142.6591  -115.3922    0.0000  top
+D3        RED                                  LED-0603                       154.2161  -115.3922    0.0000  top
+FD2       FIDUCIALUFIDUCIAL                    FIDUCIAL-MICRO                 136.5631  -116.9416    0.0000  top
+FD3       FIDUCIALUFIDUCIAL                    FIDUCIAL-MICRO                 160.5153   -92.9894    0.0000  top
+FRAME1    FRAME-LETTER                         CREATIVE_COMMONS               122.0851  -137.7696    0.0000  top
+H1        STAND-OFF                            STAND-OFF                      158.6611  -115.1636    0.0000  top
+H2        STAND-OFF                            STAND-OFF                      158.6611   -94.8436    0.0000  top
+H3        STAND-OFF                            STAND-OFF                      138.3411  -115.1636    0.0000  top
+J1        QWIIC_RIGHT_ANGLE                    JST04_1MM_RA                   148.5011  -112.6236    0.0000  top
+J2                                             1X04_NO_SILK                   159.9311  -111.3536   90.0000  top
+J3                                             1X07_NO_SILK                   137.0711  -111.3536   90.0000  top
+J4                                             1X04_1.27MM_NO_SILK            155.1051  -106.5276  180.0000  top
+J5                                             USB-MICROB-PTH-MILL            142.7861   -97.0026  180.0000  top
+J7                                             1X02_NO_SILK                   159.9311  -101.1936   90.0000  top
+LOGO2     SFE_LOGO_FLAME.2_INCH                SFE_LOGO_FLAME_.2              148.2471  -100.9396    0.0000  top
+LOGO4     QWIIC_LOGO_3MM                       QWIIC_3MM                      148.4630  -111.2393    0.0000  top
+Q1        3.1A/30V/105mΩ                      SOT23-3                        152.7175   -99.4918  180.0000  top
+R1        10k                                  0402                           155.9306   -98.2091  180.0000  top
+R2        10k                                  0402                           152.4635  -104.2162  -90.0000  top
+R3        1K                                   0402                           153.9621  -116.7384    0.0000  top
+R4        10k                                  0402                           153.8351  -104.2162  -90.0000  top
+R5        1K                                   0402                           142.4051  -116.6622    0.0000  top
+S1                                             SWITCH_SPST_SMD_A              151.5491   -93.9800    0.0000  top
+S2        MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  TACTILE_SWITCH_SMD_4.6X2.8MM   156.0449  -102.2096   90.0000  top
+TP1       TEST-POINTTP_15TH_THRU               TP_15TH                        152.6413   -97.2058    0.0000  top
+TP2       TEST-POINTTP_15TH_THRU               TP_15TH                        151.6253  -100.7618    0.0000  top
+TP3       TEST-POINTTP_15TH_THRU               TP_15TH                        150.0759  -104.4702    0.0000  top
+U$5                                            3#3V10                         158.1785  -110.6424   90.0000  top
+U$6                                            D12                            137.0711   -95.6056   90.0000  top
+U$7                                            D166                           158.1531  -100.1776   90.0000  top
+U$8                                            D177                           158.1531  -102.7176   90.0000  top
+U$12                                           D75                            137.5791  -111.3536    0.0000  top
+U$21                                           RESET0                         150.2537  -102.0826    0.0000  top
+U$28                                           D21                            137.5791   -98.6536    0.0000  top
+U$29                                           D136                           141.2113  -113.9444    0.0000  top
+U$36                                           D33                            137.5791  -101.1936    0.0000  top
+U$37                                           D41                            137.5791  -103.7336    0.0000  top
+U$38                                           D52                            137.5918  -107.0356    0.0000  top
+U$39                                           D65                            137.5791  -108.8136    0.0000  top
+U$44                                           GND11                          158.1785  -113.1824   90.0000  top
+U$45                                           OFF13                          146.6850   -97.0788    0.0000  top
+U$46                                           ON12                           153.7208   -97.0661    0.0000  top
+U$47                                           PWR16                          152.4381  -114.1349    0.0000  top
+U$49                                           SCL8                           158.1785  -105.1814   90.0000  top
+U$50                                           SDA9                           158.1785  -107.7722   90.0000  top
+U1        3.3V                                 SOT23-5                        155.0289  -111.3282    0.0000  top
+U3        ATSAMD21E18A-U                       QFN-32_SAMD                    143.4211  -106.2736   90.0000  top
+## End

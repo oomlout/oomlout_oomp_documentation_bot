@@ -1,0 +1,35 @@
+### Footprint positions - created on Mon Jul 24 10:06:34 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+FD3       FIDUCIAL1X2                   FIDUCIAL-1X2                   136.5631   -93.0656  180.0000  bottom
+FD4       FIDUCIAL1X2                   FIDUCIAL-1X2                   160.4391  -116.9416  180.0000  bottom
+JP1       JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   148.5011   -99.9236  180.0000  bottom
+JP2       JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     156.1211   -99.9236    0.0000  bottom
+JP3       JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     143.4211   -99.9236  180.0000  bottom
+LOGO1     OSHW-LOGOMINI                 OSHW-LOGO-MINI                 138.8491  -108.0516  180.0000  bottom
+LOGO2     QWIIC_LOGO_5MM                QWIIC_5MM                      138.8491  -110.0836  180.0000  bottom
+U$1                                     HIGH_PERFORMANCE11             148.2471  -108.1786  180.0000  bottom
+U$12                                    #3#3V#0                        151.0411   -93.9546  -90.0000  bottom
+U$13                                    #GND#4                         153.5811   -93.9546  -90.0000  bottom
+U$16                                    #INT#7                         143.4211   -93.9546  -90.0000  bottom
+U$21                                    #LED#8                         143.4211  -101.7016  180.0000  bottom
+U$22                                    #I2C#9                         148.5011  -101.7016  180.0000  bottom
+U$23                                    #SPI#9                         156.1211  -101.7016  180.0000  bottom
+U$24                                    MAGNETOMETER12                 148.5011  -109.7026  180.0000  bottom
+U$25                                    X15                            160.4391  -106.2736  180.0000  bottom
+U$26                                    Y16                            157.8991  -103.2256  180.0000  bottom
+U$27                                    Z17                            155.8671  -107.6706  180.0000  bottom
+U$28                                    #GND#4                         142.1511  -111.6076  -90.0000  bottom
+U$29                                    #3#3V#0                        144.6911  -111.2266  -90.0000  bottom
+U$30                                    #COPI#12                       147.2311  -116.0526  -90.0000  bottom
+U$31                                    #CIPO#11                       149.7711  -116.0526  -90.0000  bottom
+U$32                                    #SCK#13                        152.3111  -116.0526  -90.0000  bottom
+U$33                                    ##CS##10                       154.8511  -116.0526  -90.0000  bottom
+U$34                                    MADE_IN_THE_USA20              136.5631  -102.7176   90.0000  bottom
+U$35                                    #SCL#6                         148.5011   -93.9546  -90.0000  bottom
+U$37      SPARKX-LOGO3                  SPARKX-SMALL                   148.7551  -103.7336  180.0000  bottom
+U$38                                    #SDA#5                         145.9611   -93.9546  -90.0000  bottom
+U$42                                    MMC5983MA0                     148.3741  -106.5276  180.0000  bottom
+## End

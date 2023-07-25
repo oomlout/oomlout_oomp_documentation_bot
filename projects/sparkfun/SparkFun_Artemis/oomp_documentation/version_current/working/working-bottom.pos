@@ -1,0 +1,65 @@
+### Footprint positions - created on Mon Jul 24 13:41:34 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+J1        PAD.4X.6    MODULE_PAD         152.5011  -100.5036  -90.0000  bottom
+J2        PAD.4X.6    MODULE_PAD         152.0011  -101.3036  -90.0000  bottom
+J3        PAD.4X.6    MODULE_PAD         151.5011  -100.5036   90.0000  bottom
+J4        PAD.4X.6    MODULE_PAD         151.0011  -101.3036  -90.0000  bottom
+J5        PAD.4X.6    MODULE_PAD         150.5011  -100.5036  -90.0000  bottom
+J6        PAD.4X.6    MODULE_PAD         150.0011  -101.3036  -90.0000  bottom
+J7        PAD.4X.6    MODULE_PAD         149.5011  -100.5036  -90.0000  bottom
+J8        PAD.4X.6    MODULE_PAD         149.0011  -101.3036  -90.0000  bottom
+J9        PAD.4X.6    MODULE_PAD         148.5011  -100.5036   90.0000  bottom
+J10       PAD.4X.6    MODULE_PAD         148.0011  -101.3036   90.0000  bottom
+J11       PAD.4X.6    MODULE_PAD         147.5011  -100.5036  -90.0000  bottom
+J12       PAD.4X.6    MODULE_PAD         147.0011  -101.3036  -90.0000  bottom
+J13       PAD.4X.6    MODULE_PAD         146.5011  -100.5036  -90.0000  bottom
+J14       PAD.4X.6    MODULE_PAD         146.0011  -101.3036   90.0000  bottom
+J15       PAD.4X.6    MODULE_PAD         145.5011  -100.5036  -90.0000  bottom
+J16       PAD.4X.6    MODULE_PAD         145.0011  -101.3036   90.0000  bottom
+J17       PAD.4X.6    MODULE_PAD         144.5011  -100.5036  -90.0000  bottom
+J18       PAD.4X.6    MODULE_PAD         144.0011  -101.3036   90.0000  bottom
+J19       PAD.4X.6    MODULE_PAD         143.5011  -100.5036   90.0000  bottom
+J20       PAD.4X.6    MODULE_PAD         143.0011  -101.3036   90.0000  bottom
+J21       PAD.4X.6    MODULE_PAD         142.5011  -100.5036   90.0000  bottom
+J22       PAD.35X.35  MODULE_MINI_PAD    141.5011  -100.5036   90.0000  bottom
+J23       PAD.4X.6    MODULE_PAD         141.5011  -101.5036    0.0000  bottom
+J24       PAD.4X.6    MODULE_PAD         142.3011  -102.0036  180.0000  bottom
+J25       PAD.4X.6    MODULE_PAD         141.5011  -102.5036  180.0000  bottom
+J26       PAD.4X.6    MODULE_PAD         142.3011  -103.0036    0.0000  bottom
+J27       PAD.4X.6    MODULE_PAD         141.5011  -103.5036  180.0000  bottom
+J28       PAD.4X.6    MODULE_PAD         142.3011  -104.0036    0.0000  bottom
+J29       PAD.4X.6    MODULE_PAD         141.5011  -104.5036  180.0000  bottom
+J30       PAD.4X.6    MODULE_PAD         142.3011  -105.0036    0.0000  bottom
+J31       PAD.4X.6    MODULE_PAD         141.5011  -105.5036    0.0000  bottom
+J32       PAD.4X.6    MODULE_PAD         142.3011  -106.0036  180.0000  bottom
+J33       PAD.4X.6    MODULE_PAD         141.5011  -106.5036    0.0000  bottom
+J34       PAD.4X.6    MODULE_PAD         142.3011  -107.0036  180.0000  bottom
+J35       PAD.4X.6    MODULE_PAD         141.5011  -107.5036  180.0000  bottom
+J36       PAD.4X.6    MODULE_PAD         142.3011  -108.0036    0.0000  bottom
+J37       PAD.4X.6    MODULE_PAD         141.5011  -108.5036  180.0000  bottom
+J38       PAD.35X.35  MODULE_MINI_PAD    141.5011  -109.5036  180.0000  bottom
+J39       PAD.4X.6    MODULE_PAD         142.5011  -109.5036   90.0000  bottom
+J40       PAD.4X.6    MODULE_PAD         143.0011  -108.7036  -90.0000  bottom
+J41       PAD.4X.6    MODULE_PAD         143.5011  -109.5036  -90.0000  bottom
+J42       PAD.4X.6    MODULE_PAD         144.0011  -108.7036  -90.0000  bottom
+J43       PAD.4X.6    MODULE_PAD         144.5011  -109.5036  -90.0000  bottom
+J44       PAD.4X.6    MODULE_PAD         145.0011  -108.7036   90.0000  bottom
+J45       PAD.4X.6    MODULE_PAD         145.5011  -109.5036  -90.0000  bottom
+J46       PAD.4X.6    MODULE_PAD         146.0011  -108.7036  -90.0000  bottom
+J47       PAD.4X.6    MODULE_PAD         146.5011  -109.5036  -90.0000  bottom
+J48       PAD.4X.6    MODULE_PAD         147.0011  -108.7036  -90.0000  bottom
+J49       PAD.4X.6    MODULE_PAD         147.5011  -109.5036  -90.0000  bottom
+J50       PAD.4X.6    MODULE_PAD         148.0011  -108.7036   90.0000  bottom
+J51       PAD.4X.6    MODULE_PAD         148.5011  -109.5036  -90.0000  bottom
+J52       PAD.4X.6    MODULE_PAD         149.0011  -108.7036   90.0000  bottom
+J53       PAD.4X.6    MODULE_PAD         149.5011  -109.5036   90.0000  bottom
+J54       PAD.4X.6    MODULE_PAD         150.0011  -108.7036  -90.0000  bottom
+J55       PAD.4X.6    MODULE_PAD         150.5011  -109.5036   90.0000  bottom
+J56       PAD.4X.6    MODULE_PAD         151.0011  -108.7036  -90.0000  bottom
+J57       PAD.4X.6    MODULE_PAD         151.5011  -109.5036  -90.0000  bottom
+J58       PAD.4X.6    MODULE_PAD         152.0011  -108.7036  -90.0000  bottom
+J59       PAD.4X.6    MODULE_PAD         152.5011  -109.5036  -90.0000  bottom
+## End

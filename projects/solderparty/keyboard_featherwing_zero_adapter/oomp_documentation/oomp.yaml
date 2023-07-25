@@ -1,0 +1,6 @@
+directory: projects/solderparty/keyboard_featherwing_zero_adapter/
+github: https://github.com/solderparty/keyboard_featherwing_zero_adapter
+github_project: keyboard_featherwing_zero_adapter
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

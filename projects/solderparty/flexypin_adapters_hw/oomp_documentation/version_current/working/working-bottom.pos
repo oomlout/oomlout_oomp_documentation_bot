@@ -1,0 +1,9 @@
+### Footprint positions - created on Tue Jul 25 17:37:56 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                                         PosX       PosY       Rot  Side
+G***      LOGO        SolderParty-New-Logo_7.5x6.4mm_SilkScreen   148.0000   -89.8581  180.0000  bottom
+J1        Conn_01x07  PinHeader_1x07_P2.54mm_Vertical             134.1000   -82.9000  180.0000  bottom
+J10       Conn_01x07  PinHeader_1x07_P2.54mm_Vertical             162.0500   -82.9000  180.0000  bottom
+## End

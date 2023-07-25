@@ -1,0 +1,34 @@
+### Footprint positions - created on Mon Jul 24 13:19:06 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                          PosX       PosY       Rot  Side
+FD1       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO               160.5153   -92.9894  180.0000  bottom
+FD4       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO               136.5631  -116.9416  180.0000  bottom
+J6                              JST-2-SMD                    145.1991   -96.4438  180.0000  bottom
+JP1       LED                   SMT-JUMPER_2_NC_TRACE_SILK   154.0891  -115.6716   90.0000  bottom
+LOGO1     SFE_LOGO_NAME.1_INCH  SFE_LOGO_NAME_.1             149.0091  -110.0836  180.0000  bottom
+LOGO3     OSHW-LOGOS            OSHW-LOGO-S                  152.0571   -99.6696  180.0000  bottom
+U$1                             D00                          159.5247  -106.0704  180.0000  bottom
+U$2                             GND-03                       159.5755  -111.2012  180.0000  bottom
+U$3                             #23                          149.0091   -99.9236  180.0000  bottom
+U$4                             #24                          144.3101  -100.1776  180.0000  bottom
+U$9                             D16#TX4                      159.4993   -98.6790  180.0000  bottom
+U$10                            QWIIC2                       153.0731  -111.8616  180.0000  bottom
+U$11                            D17#RX3                      159.4993  -101.2444  180.0000  bottom
+U$13                            DAC1                         137.0711   -95.6056   90.0000  bottom
+U$14                            MISO0                        141.4780  -101.2444  180.0000  bottom
+U$15                            SAMD213                      151.0411  -113.6396  180.0000  bottom
+U$16                            MOSI2                        141.4907   -98.6536  180.0000  bottom
+U$17                            3V3-03                       159.6263  -108.6104  180.0000  bottom
+U$18                            ON12                         155.7274   -96.0501  180.0000  bottom
+U$19                            OFF13                        152.6032   -96.0628  180.0000  bottom
+U$20                            SCK7                         141.0335  -103.7336  180.0000  bottom
+U$22                            D85                          159.4993  -103.4796  180.0000  bottom
+U$23                            MICRO2                       147.7391  -111.8616  180.0000  bottom
+U$24                            LED1                         155.9687  -117.3099   90.0000  bottom
+U$25                            D50                          140.1699  -106.2736  180.0000  bottom
+U$26                            D61                          140.1699  -108.8136  180.0000  bottom
+U$27                            D72                          140.1699  -111.3282  180.0000  bottom
+U2        W25Q32FV              SOIC-8                       145.4531  -105.5878  -90.0000  bottom
+## End

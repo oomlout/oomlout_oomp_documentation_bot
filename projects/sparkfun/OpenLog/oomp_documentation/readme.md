@@ -1,0 +1,32 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | LOGO2 | OSHW-LOGO-MINI | 1 | OSHW-LOGOMINI |  |  |
+| 2 | C4,C3,C2 | 0603-CAP | 3 | 0.1uF |  |  |
+| 3 | D3 | LED-0603 | 1 | GREEN |  |  |
+| 4 | TP5,TP3,TP4,TP1,TP2 | PAD.03X.03 | 5 | TEST-POINT3 |  |  |
+| 5 | D1 | LED-0603 | 1 | BLUE |  |  |
+| 6 | Q1 | RESONATOR-SMD | 1 | 16MHZ |  |  |
+| 7 | R1 | 0603-RES | 1 | 1K |  |  |
+| 8 | U2 | SOT23-5 | 1 | 3.3V MIC5205 |  |  |
+| 9 | R2 | 0603-RES | 1 | 10K |  |  |
+| 10 | JP2 | 1X06_NO_SILK | 1 |  |  |  |
+| 11 | C1 | 0603-POL | 1 | 10uF |  |  |
+| 12 | LOGO1 | SFE_LOGO_FLAME_.1 | 1 | SFE_LOGO_FLAME.1_INC<br>H |  |  |
+| 13 | FID2,FID1,FID3,FID4 | MICRO-FIDUCIAL | 4 | FIDUCIALUFIDUCIAL |  |  |
+| 14 | U1 | TQFP32-08 | 1 | ATMEGA328P_TQFP |  |  |
+| 15 | FRAME1 | CREATIVE_COMMONS | 1 | FRAME-LETTER |  |  |
+| 16 | R6 | 0603-RES | 1 | 330 |  |  |
+| 17 | U3 | MICROSD_1_1 | 1 | microSD Socket |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

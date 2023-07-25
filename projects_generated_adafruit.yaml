@@ -1,0 +1,1086 @@
+eagle_board_file_src: joystick.brd
+github: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes
+eagle_board_file_src: Adafruit 2.8 TFT Breakout v2.brd
+github: https://github.com/adafruit/2.8-TFT-Breakout-PCB
+eagle_board_file_src: Adafruit 3.5in 480x320.brd
+github: https://github.com/adafruit/3.5inch-TFT-Breakout-PCB
+eagle_board_file_src: Adafruit FET 4-Channel Shifter.brd
+github: https://github.com/adafruit/4-Channel-Level-Shifter-PCB
+eagle_board_file_src: Adafruit 0.96in 160x80 TFT Display.brd
+github: https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB
+eagle_board_file_src: Adafruit Monochrome 1.12in 128x128 OLED.brd
+github: https://github.com/adafruit/Adafruit-1.12in-128x128-OLED-PCB
+eagle_board_file_src: Adafruit 1.14-inch 240x135 Color TFT.brd
+github: https://github.com/adafruit/Adafruit-1.14-inch-240x135-TFT-PCB
+eagle_board_file_src: Adafruit 1.27 128x96 RGB OLED.brd
+github: https://github.com/adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB
+eagle_board_file_src: Adafruit 1.3in 240x240 IPS TFT.brd
+github: https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
+eagle_board_file_src: Adafruit 1.3in Color TFT Bonnet.brd
+github: https://github.com/adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB
+eagle_board_file_src: Adafruit 1.3in 128x64 OLED STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB
+eagle_board_file_src: Adafruit EYESPI 1.44 inch TFT Breakout.brd
+github: https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB
+eagle_board_file_src: Adafruit 1.47in 320x172 Round Rectangle TFT.brd
+github: https://github.com/adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB
+eagle_board_file_src: Adafruit 1.54inch 240x240 rev E.brd
+github: https://github.com/adafruit/Adafruit-1.54-inch-240x240-TFT-PCB
+eagle_board_file_src: Adafruit_1.5_128x128_RGB_OLED.brd
+github: https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB
+eagle_board_file_src: Adafruit 1.69in 280x240 Round Rectangle TFT.brd
+github: https://github.com/adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB
+eagle_board_file_src: Adafruit 1.8 TFTshield rev B.brd
+github: https://github.com/adafruit/Adafruit-1.8-TFT-Shield-PCB
+eagle_board_file_src: Adafruit 1.9in 320x170 Color IPS TFT.brd
+github: https://github.com/adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB
+eagle_board_file_src: Adafruit OLED 128x32 Mono I2C STEMMA QT rev B.brd
+github: https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
+eagle_board_file_src: Adafruit OLED 128x32 Mono.brd
+github: https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB
+eagle_board_file_src: Adafruit 0.96in 128x64 OLED STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB
+eagle_board_file_src: Adafruit 128x64 OLED Bonnet.brd
+github: https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB
+eagle_board_file_src: Adafruit PCA9685 rev C.brd
+github: https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB
+eagle_board_file_src: Adafruit PWM Servo Shield.brd
+github: https://github.com/adafruit/Adafruit-16-channel-PWM-Servo-Shield
+eagle_board_file_src: adafruit_rgblcdplate.brd
+github: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
+eagle_board_file_src: Adafruit 2.13in eInk Bonnet.brd
+github: https://github.com/adafruit/Adafruit-2-13in-eInk-Bonnet-PCB
+eagle_board_file_src: Adafruit 2.0 inch 240x320 IPS TFT.brd
+github: https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
+eagle_board_file_src: Adafruit-2.2-SPI-TFT-v0.2.brd
+github: https://github.com/adafruit/Adafruit-2.2-SPI-TFT
+eagle_board_file_src: Adafruit 2.23-inch Monochrome OLED Bonnet.brd
+github: https://github.com/adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB
+eagle_board_file_src: Adafruit 2.4in TFT Breakout.brd
+github: https://github.com/adafruit/Adafruit-2.4-TFT-Breakout-PCB
+eagle_board_file_src: Adafruit 2.4in TFT FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-2.4-TFT-FeatherWing-PCB
+eagle_board_file_src: Adafruit tftcaptouchshield rev C.brd
+github: https://github.com/adafruit/Adafruit-2.8-TFT-Shield-v2-PCB
+eagle_board_file_src: Adafruit 2.8 inch TFT w Capacitive Touch.brd
+github: https://github.com/adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB
+eagle_board_file_src: Adafruit 24LC32 I2C EEPROM.brd
+github: https://github.com/adafruit/Adafruit-24LC32-PCB
+eagle_board_file_src: Adafruit 3.2in TFT 320x240.brd
+github: https://github.com/adafruit/Adafruit-3.2-TFT-Breakout-PCB
+eagle_board_file_src: Adafruit 3.5in 480x320 FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-3.5in-TFT-Featherwing-PCB
+eagle_board_file_src: Adafruit 40pin TFT friend.brd
+github: https://github.com/adafruit/Adafruit-40-pin-TFT-Friend
+eagle_board_file_src: Adafruit 5in HDMI Backpack.brd
+github: https://github.com/adafruit/Adafruit-5-HDMI-Backpack-PCB
+eagle_board_file_src: Adafruit 50pin to 40pin TFT with AR1100 Adapter.brd
+github: https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB
+eagle_board_file_src: Adafruit_5x5_NeoPixel_Grid_BFF.brd
+github: https://github.com/adafruit/Adafruit-5x5-NeoPixel-Grid-BFF-PCB
+eagle_board_file_src: Adafruit 7in HDMI Backpack.brd
+github: https://github.com/adafruit/Adafruit-7-HDMI-Backpack-PCB
+eagle_board_file_src: Adafruit CharlieWing.brd
+github: https://github.com/adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing
+eagle_board_file_src: Adafuit_10DOF.brd
+github: https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs
+eagle_board_file_src: Adafruit 96x64 RGB OLED Breakout v2.0.brd
+github: https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB
+eagle_board_file_src: Adafruit AD849x_Thermo.brd
+github: https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB
+eagle_board_file_src: adalogger featherwing.brd
+github: https://github.com/adafruit/Adafruit-Adalogger-FeatherWing-PCB
+eagle_board_file_src: Adafruit ADT7410 I2C Temperature Sensor.brd
+github: https://github.com/adafruit/Adafruit-ADT7410-PCB
+eagle_board_file_src: Adafruit ADXL343 ADT7410 Featherwing.brd
+github: https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB
+eagle_board_file_src: Adafruit AHT20 Temperature & Humidity.brd
+github: https://github.com/adafruit/Adafruit-AHT20-PCB
+eagle_board_file_src: Adafruit Airlift Bitsy Add-On.brd
+github: https://github.com/adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB
+eagle_board_file_src: Adafruit AirLift Breakout.brd
+github: https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB
+eagle_board_file_src: Adafruit AirLift FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB
+eagle_board_file_src: Adafruit AirLift Shield.brd
+github: https://github.com/adafruit/Adafruit-Airlift-Shield-PCB
+eagle_board_file_src: Adafruit ALS-PT19-315C Breakout.brd
+github: https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit AMG8833 FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB
+eagle_board_file_src: Adafruit ADXL326.brd
+github: https://github.com/adafruit/Adafruit-Analog-Accelerometers-PCBs
+eagle_board_file_src: Adafruit Eyes Bonnet.brd
+github: https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB
+eagle_board_file_src: Adafruit ANO Rotary Encoder Breakout.brd
+github: https://github.com/adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB
+eagle_board_file_src: Adafruit ANO Rotary Encoder to I2C.brd
+github: https://github.com/adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C
+eagle_board_file_src: AP3429 3.3 Buck rev A.brd
+github: https://github.com/adafruit/Adafruit-AP3429A-PCB
+eagle_board_file_src: Adafruit AP6302.brd
+github: https://github.com/adafruit/Adafruit-AP3602A-PCB
+eagle_board_file_src: Adafruit APDS9960 Proximity Sensor.brd
+github: https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB
+eagle_board_file_src: Adafruit AR1100.brd
+github: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+eagle_board_file_src: Adafruit Arcade Bonnet.brd
+github: https://github.com/adafruit/Adafruit-Arcade-Bonnet-PCB
+eagle_board_file_src: AS726x-Spectral_REV-D.brd
+github: https://github.com/adafruit/Adafruit-AS7262-Breakout-PCB
+eagle_board_file_src: Adafruit_AS7341.brd
+github: https://github.com/adafruit/Adafruit-AS7341-PCB
+eagle_board_file_src: Adafruit ATECC608.brd
+github: https://github.com/adafruit/Adafruit-ATECC608-PCB
+eagle_board_file_src: Adafruit ATtiny8x7 Breakout.brd
+github: https://github.com/adafruit/Adafruit-ATtiny8x7-Breakout-PCB
+eagle_board_file_src: Adafruit ATtiny1616 Breakout.brd
+github: https://github.com/adafruit/Adafruit-ATtinyx16-Breakouts-PCB
+eagle_board_file_src: Adafruit WINC1500 Breakout.brd
+github: https://github.com/adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB
+eagle_board_file_src: Adafruit Audio BFF PCB.brd
+github: https://github.com/adafruit/Adafruit-Audio-BFF-PCB
+eagle_board_file_src: Adafruit EZ-SFX Mini.brd
+github: https://github.com/adafruit/Adafruit-Audio-FX-Sound-Board-PCBs
+eagle_board_file_src: Adafruit AW9523.brd
+github: https://github.com/adafruit/Adafruit-AW9523-PCB
+eagle_board_file_src: Adafruit-BeagleBone-ProtoBoard-v0.1.brd
+github: https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB
+eagle_board_file_src: Adafruit BH1750.brd
+github: https://github.com/adafruit/Adafruit-BH1750-PCB
+eagle_board_file_src: Adafruit EZ-Link Breakout.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs
+eagle_board_file_src: Adafruit Bluefruit EZ Key.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB
+eagle_board_file_src: Adafruit EZ-Link Shield.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB
+eagle_board_file_src: Adafruit Bluefruit LE Micro Rev B.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-Micro-PCB
+eagle_board_file_src: Adafruit Bluefruit LE nRF8001 v2.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB
+eagle_board_file_src: Adafruit Bluefruit LE Shield.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB
+eagle_board_file_src: Adafruit Bluefruit LE SPI Friend.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB
+eagle_board_file_src: Adafruit Bluefruit LE UART Friend.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB
+eagle_board_file_src: Adafrruit Bluefruit LE USB Friend CP2102N.brd
+github: https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
+eagle_board_file_src: Adafruit BME280.brd
+github: https://github.com/adafruit/Adafruit-BME280-Breakout-PCB
+eagle_board_file_src: Adafruit BME680 Original.brd
+github: https://github.com/adafruit/Adafruit-BME680-PCB
+eagle_board_file_src: Adafruit_BMP085.brd
+github: https://github.com/adafruit/Adafruit-BMP085-PCB
+eagle_board_file_src: Adafruit BMP180.brd
+github: https://github.com/adafruit/Adafruit-BMP180-PCB
+eagle_board_file_src: Adafruit BMP183 Breakout.brd
+github: https://github.com/adafruit/Adafruit-BMP183-Breakout-PCB
+eagle_board_file_src: Adafruit BMP280 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB
+eagle_board_file_src: Adafruit BMP388 QT.brd
+github: https://github.com/adafruit/Adafruit-BMP3xx-PCB
+eagle_board_file_src: Adafruit BNO055 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB
+eagle_board_file_src: Adafruit_BNO08x.brd
+github: https://github.com/adafruit/Adafruit-BNO08x-PCB
+eagle_board_file_src: Adafruit Bonsai Buckaroo.brd
+github: https://github.com/adafruit/Adafruit-Bonsai-Buckaroo-PCB
+eagle_board_file_src: Adafruit_BQ24074.brd
+github: https://github.com/adafruit/Adafruit-BQ24074-PCB
+eagle_board_file_src: Adafruit BrainCraft HAT.brd
+github: https://github.com/adafruit/Adafruit-BrainCraft-HAT-PCB
+eagle_board_file_src: Adafruit CAN Bus FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-CAN-Bus-FeatherWing-PCB
+eagle_board_file_src: Adafruit CAN Pal Breakout.brd
+github: https://github.com/adafruit/Adafruit-CAN-Pal-PCB
+eagle_board_file_src: Adafruit CAP1188.brd
+github: https://github.com/adafruit/Adafruit-CAP1188-PCB
+eagle_board_file_src: Adafruit Capacitive Touch HAT.brd
+github: https://github.com/adafruit/Adafruit-Capacitive-Touch-HAT-PCB
+eagle_board_file_src: Adafruit CC3000 Breakout.brd
+github: https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB
+eagle_board_file_src: Adafruit CCS811 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB
+eagle_board_file_src: Adafruit LIPoly Charger BFF.brd
+github: https://github.com/adafruit/Adafruit-Charger-BFF-PCB
+eagle_board_file_src: Adafruit CharliePlex Bonnet.brd
+github: https://github.com/adafruit/Adafruit-CharliePlex-Bonnet-PCBs
+eagle_board_file_src: Adafruit Circuit Playground Bluefruit.brd
+github: https://github.com/adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB
+eagle_board_file_src: Adafruit Circuit Playground Express.brd
+github: https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB
+eagle_board_file_src: Adafruit Circuit Playground.brd
+github: https://github.com/adafruit/Adafruit-Circuit-Playground-PCB
+eagle_board_file_src: Circuit Playground Tri-color E-Ink Gizmo.brd
+github: https://github.com/adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB
+eagle_board_file_src: Adafruit CLUE nRF52840 Express.brd
+github: https://github.com/adafruit/Adafruit-CLUE-PCB
+eagle_board_file_src: Adafruit CP2102N Friend.brd
+github: https://github.com/adafruit/Adafruit-CP2102N-Friend-PCB
+eagle_board_file_src: Adafruit CP2104 Friend.brd
+github: https://github.com/adafruit/Adafruit-CP2104-Friend-PCB
+eagle_board_file_src: DSI CSI Extender.brd
+github: https://github.com/adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi
+eagle_board_file_src: Adafruit Cupcade.brd
+github: https://github.com/adafruit/Adafruit-Cupcade-Adapter-PCB
+eagle_board_file_src: Adafruit CyberDeck Bonnet.brd
+github: https://github.com/adafruit/Adafruit-CYBERDECK-PCB
+eagle_board_file_src: Adafruit DC+Stepper Wing.brd
+github: https://github.com/adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB
+eagle_board_file_src: Adafruit Motor Bonnet Rev A.brd
+github: https://github.com/adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB
+eagle_board_file_src: Adafruit DotStar Wing.brd
+github: https://github.com/adafruit/Adafruit-DotStar-FeatherWing-PCB
+eagle_board_file_src: Adafruit DPI Kippah.brd
+github: https://github.com/adafruit/Adafruit-DPI-Kippah-PCB
+eagle_board_file_src: Adafruit DPS310.brd
+github: https://github.com/adafruit/Adafruit-DPS310-PCB
+eagle_board_file_src: Adafruit DragonTail.brd
+github: https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB
+eagle_board_file_src: Adafruit DRV2605L STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-DRV2605-PCB
+eagle_board_file_src: Adafruit DRV8833.brd
+github: https://github.com/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB
+eagle_board_file_src: Adafruit DRV8871.brd
+github: https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB
+eagle_board_file_src: DS1841 rev A.brd
+github: https://github.com/adafruit/Adafruit-DS1841-PCB
+eagle_board_file_src: Adafruit DS2413.brd
+github: https://github.com/adafruit/Adafruit-DS2413-PCB
+eagle_board_file_src: Adafruit DS3231 RTC Breakout.brd
+github: https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB
+eagle_board_file_src: Adafruit DS3231 RTC FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB
+eagle_board_file_src: Adafruit DS3502.brd
+github: https://github.com/adafruit/Adafruit-DS3502-PCB
+eagle_board_file_src: Adafruit DVI Breakout board.brd
+github: https://github.com/adafruit/Adafruit-DVI-Breakout-Board-PCB
+eagle_board_file_src: Adafruit 1.54in eInk Breakout.brd
+github: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
+eagle_board_file_src: Adafruit_EMC2101.brd
+github: https://github.com/adafruit/Adafruit-EMC2101-PCB
+eagle_board_file_src: Adafruit ENS160.brd
+github: https://github.com/adafruit/Adafruit-ENS160-PCB
+eagle_board_file_src: Adafruit ESP32 Feather V2.brd
+github: https://github.com/adafruit/Adafruit-ESP32-Feather-V2-PCB
+eagle_board_file_src: Adafruit ESP32 Huzzah Breakout.brd
+github: https://github.com/adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB
+eagle_board_file_src: Adafruit Feather ESP32-S2 Reverse TFT.brd
+github: https://github.com/adafruit/Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB
+eagle_board_file_src: Adafruit ESP32-S2 TFT Feather.brd
+github: https://github.com/adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB
+eagle_board_file_src: Adafruit ESP32-S3 Reverse TFT Feather.brd
+github: https://github.com/adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB
+eagle_board_file_src: Adafruit ESP32-S3 TFT Feather.brd
+github: https://github.com/adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB
+eagle_board_file_src: Adafruit Ethernet FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Ethernet-FeatherWing-PCB
+eagle_board_file_src: Adafruit EyeLights LED Glasses Driver.brd
+github: https://github.com/adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB
+eagle_board_file_src: Adafruit EYESPI BFF PCB.brd
+github: https://github.com/adafruit/Adafruit-EYESPI-BFF-PCB
+eagle_board_file_src: Adafruit EYESPI Breakout Board.brd
+github: https://github.com/adafruit/Adafruit-EYESPI-PCB
+eagle_board_file_src: Adafruit Feather 328P.brd
+github: https://github.com/adafruit/Adafruit-Feather-328P-PCB
+eagle_board_file_src: Adafruit Feather 32u4 Adalogger.brd
+github: https://github.com/adafruit/Adafruit-Feather-32u4-Adalogger-PCB
+eagle_board_file_src: Adafruit Feather 32u4 Basic rev B.brd
+github: https://github.com/adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB
+eagle_board_file_src: Adafruit Feather 32u4 Bluefruit LE.brd
+github: https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB
+eagle_board_file_src: Adafruit Feather 32u4 FONA.brd
+github: https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB
+eagle_board_file_src: Adafruit Feather 32u4 RFMxx.brd
+github: https://github.com/adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB
+eagle_board_file_src: Adafruit Feather ESP32-S2 Rev C.brd
+github: https://github.com/adafruit/Adafruit-Feather-ESP32-S2-PCB
+eagle_board_file_src: Adafruit ESP32-S3 8MB No PSRAM.brd
+github: https://github.com/adafruit/Adafruit-Feather-ESP32-S3-PCB
+eagle_board_file_src: Adafruit ESP8266 Feather rev E.brd
+github: https://github.com/adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB
+eagle_board_file_src: Adafruit Feather M0 Adalogger.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-Adalogger-PCB
+eagle_board_file_src: Adafruit Feather M0 Basic rev C.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
+eagle_board_file_src: Adafruit Feather Zero BLE rev A.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB
+eagle_board_file_src: Adafruit Feather M0 Express.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-Express-PCB
+eagle_board_file_src: Adafruit Feather M0 RFMxx.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
+eagle_board_file_src: Adafruit Feather M0 WiFi.brd
+github: https://github.com/adafruit/Adafruit-Feather-M0-WiFi-WINC1500-PCB
+eagle_board_file_src: Adafruit Feather M4 Express CAN.brd
+github: https://github.com/adafruit/Adafruit-Feather-M4-CAN-PCB
+eagle_board_file_src: Adafruit Feather M4 Express.brd
+github: https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB
+eagle_board_file_src: Adafruit Feather nRF52840 Sense.brd
+github: https://github.com/adafruit/Adafruit-Feather-nRF52840-Sense-PCB
+eagle_board_file_src: Adafruit Feather RP2040 DVI.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-DVI-PCB
+eagle_board_file_src: Adafruit Feather RP2040 Original.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-PCB
+eagle_board_file_src: Adafruit Feather RP2040 RFM.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-RFM-PCB
+eagle_board_file_src: Adafruit Feather RP2040 Scorpio.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-SCORPIO-PCB
+eagle_board_file_src: Adafruit Feather RP2040 ThinkInk.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-ThinkInk
+eagle_board_file_src: Adafruit Feather RP2040 USB Host.brd
+github: https://github.com/adafruit/Adafruit-Feather-RP2040-USB-Host-PCB
+eagle_board_file_src: Adafruit Feather STM32F405 Express.brd
+github: https://github.com/adafruit/Adafruit-Feather-STM32F405-Express-PCB
+eagle_board_file_src: DoubleWing.brd
+github: https://github.com/adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad
+eagle_board_file_src: Adafruit Flora BLE Friend.brd
+github: https://github.com/adafruit/Adafruit-Flora-Bluefruit-LE-PCB
+eagle_board_file_src: Adafruit Flora LSM303.brd
+github: https://github.com/adafruit/Adafruit-Flora-LSM303-PCB
+eagle_board_file_src: Adafruit Flora LSM9DS0 9DoF.brd
+github: https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB
+eagle_board_file_src: adafruit flora mainboard 2.brd
+github: https://github.com/adafruit/Adafruit-Flora-Mainboard
+eagle_board_file_src: Adafruit Flora 3JST.brd
+github: https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB
+eagle_board_file_src: Adafruit Flora Si1145.brd
+github: https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB
+eagle_board_file_src: adafruit flora neopixel.brd
+github: https://github.com/adafruit/Adafruit-Flora-Smart-NeoPixel
+eagle_board_file_src: Adafruit Flora TCS34725.brd
+github: https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB
+eagle_board_file_src: Adafruit Flora TSL2561 Lux.brd
+github: https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB
+eagle_board_file_src: Adafruit Flora_GPS.brd
+github: https://github.com/adafruit/Adafruit-Flora-Ultimate-GPS
+eagle_board_file_src: Adafruit-FONA-800-GSM-Breakout.brd
+github: https://github.com/adafruit/Adafruit-FONA-800-GSM-Breakout-PCB
+eagle_board_file_src: Adafruit FONA 800 Shield.brd
+github: https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB
+eagle_board_file_src: Adafruit SIM808 Breakout.brd
+github: https://github.com/adafruit/Adafruit-FONA-808-Breakout-PCB
+eagle_board_file_src: Adafruit FONA SIM5320 3G Breakout.brd
+github: https://github.com/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB
+eagle_board_file_src: Adafruit SIM808 Shield.brd
+github: https://github.com/adafruit/Adafruit-FONA808-Shield-PCB
+eagle_board_file_src: 1.0mm + 0.5mm FPC stick.brd
+github: https://github.com/adafruit/Adafruit-FPC-SMT-Adapter-PCBs
+eagle_board_file_src: Adafruit I2C FRAM.brd
+github: https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB
+eagle_board_file_src: Adafruit FT232H Original.brd
+github: https://github.com/adafruit/Adafruit-FT232H-Breakout-PCB
+eagle_board_file_src: Adafruit FunHouse.brd
+github: https://github.com/adafruit/Adafruit-FunHouse-PCB
+eagle_board_file_src: Adafruit FXOS8700 FXAS21002 9 DoF Breakout.brd
+github: https://github.com/adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB
+eagle_board_file_src: GA1A1S202WP-REV-B.brd
+github: https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB
+eagle_board_file_src: Adafruit Gemma M0.brd
+github: https://github.com/adafruit/Adafruit-Gemma-M0-PCB
+eagle_board_file_src: Adafruit Gemma rev B.brd
+github: https://github.com/adafruit/Adafruit-Gemma-PCB
+eagle_board_file_src: Adafruit GPIO Expander Bonnet.brd
+github: https://github.com/adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs
+eagle_board_file_src: Adafruit GPS Logger Shield.brd
+github: https://github.com/adafruit/Adafruit-GPS-Logger-Shield-PCB
+eagle_board_file_src: Adafruit Grand Central M4 Express rev B.brd
+github: https://github.com/adafruit/Adafruit-Grand-Central-PCB
+eagle_board_file_src: Adafruit Grayscale 1.5-inch 128x128 OLED.brd
+github: https://github.com/adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB
+eagle_board_file_src: Adafruit GUVA UV Sensor Breakout.brd
+github: https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit Hallowing M0 Express.brd
+github: https://github.com/adafruit/Adafruit-Hallowing-M0-PCB
+eagle_board_file_src: Adafruit Hallowing M4.brd
+github: https://github.com/adafruit/Adafruit-Hallowing-M4-PCB
+eagle_board_file_src: Adafruit HDC1008.brd
+github: https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB
+eagle_board_file_src: IR STEMMA LED Emitter.brd
+github: https://github.com/adafruit/Adafruit-High-Power-Infrared-LED-Emitter-PCB
+eagle_board_file_src: Adafruit HMC5883L Compass.brd
+github: https://github.com/adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB
+eagle_board_file_src: Adafruit_HTS221.brd
+github: https://github.com/adafruit/Adafruit-HTS221-PCB
+eagle_board_file_src: Adafruit HTU21D-F STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB
+eagle_board_file_src: Adafruit HTU31D.brd
+github: https://github.com/adafruit/Adafruit-HTU31-PCB
+eagle_board_file_src: Adafruit HUZZAH ESP8266 Basic Breakout.brd
+github: https://github.com/adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
+eagle_board_file_src: Adafruit HUZZAH32 ESP32 Feather.brd
+github: https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB
+eagle_board_file_src: Adafruit I2C QT Rotary Encoder.brd
+github: https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB
+eagle_board_file_src: Adafruit I2C Quad Rotary Encoder Breakout.brd
+github: https://github.com/adafruit/Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB
+eagle_board_file_src: Adafruit I2C SPI LCD STEMMA backpack.brd
+github: https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB
+eagle_board_file_src: Adafruit I2S Amplifier BFF.brd
+github: https://github.com/adafruit/Adafruit-I2S-Amplifier-BFF-PCB
+eagle_board_file_src: Adafruit I2S Audio UDA1334 Bonnet.brd
+github: https://github.com/adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB
+eagle_board_file_src: Adafruit I2S Mic SPK0415HM4H.brd
+github: https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB
+eagle_board_file_src: Adaruit ICM20649.brd
+github: https://github.com/adafruit/Adafruit-ICM20649-PCB
+eagle_board_file_src: Adafruit ICM20948.brd
+github: https://github.com/adafruit/Adafruit-ICM20948-PCB
+eagle_board_file_src: Adafruit INA169 CurPowerMonitor.brd
+github: https://github.com/adafruit/Adafruit-INA169-Breakout-PCB
+eagle_board_file_src: Adafruit INA219 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB
+eagle_board_file_src: Adafruit INA260.brd
+github: https://github.com/adafruit/Adafruit-INA260-PCB
+eagle_board_file_src: Adafruit Infineon Trust M.brd
+github: https://github.com/adafruit/Adafruit-Infineon-Trust-M-PCB
+eagle_board_file_src: IoT Button with NeoPixel BFF.brd
+github: https://github.com/adafruit/Adafruit-IoT-Button-with-NeoPixel-BFF-PCB
+eagle_board_file_src: Adafruit IS31FL3731 Breakout.brd
+github: https://github.com/adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB
+eagle_board_file_src: Adafruit IS31FL3741 Matrix.brd
+github: https://github.com/adafruit/Adafruit-IS31FL3741-PCB
+eagle_board_file_src: Adafruit ISM330DHCX + LIS3MDL FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB
+eagle_board_file_src: Adafruit ISO1540.brd
+github: https://github.com/adafruit/Adafruit-ISO1540-PCB
+eagle_board_file_src: Adafruit 6-ISP AVR.brd
+github: https://github.com/adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs
+eagle_board_file_src: Itsy Bitsy 32u4 3V.brd
+github: https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB
+eagle_board_file_src: Adafruit ItsyBitsy M0.brd
+github: https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB
+eagle_board_file_src: Adafruit ItsyBitsy M4.brd
+github: https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
+eagle_board_file_src: Adafruit ItsyBitsy nRF52840 Express.brd
+github: https://github.com/adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB
+eagle_board_file_src: Adafruit ItsyBitsy RP2040.brd
+github: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+eagle_board_file_src: Adafruit Joy Bonnet.brd
+github: https://github.com/adafruit/Adafruit-Joy-Bonnet-PCB
+eagle_board_file_src: Joypad FeatherWing rev C.brd
+github: https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB
+eagle_board_file_src: Adafruit KB2040.brd
+github: https://github.com/adafruit/Adafruit-KB2040-PCB
+eagle_board_file_src: Adafruit L3GD20H Breakout.brd
+github: https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB
+eagle_board_file_src: Adafruit LC709203F LiPoly LiIon Fuel Gauge and Battery Monitor.brd
+github: https://github.com/adafruit/Adafruit-LC709203F-PCB
+eagle_board_file_src: Adafruit LED Arcade Button 1x4.brd
+github: https://github.com/adafruit/Adafruit-LED-Arcade-Button-1x4-PCB
+eagle_board_file_src: 16x8 mono LED FeatherWing rev A.brd
+github: https://github.com/adafruit/Adafruit-LED-Backpack-FeatherWing-PCB
+eagle_board_file_src: Adafruit 0.54 Alphanumeric STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-LED-Backpacks
+eagle_board_file_src: Adafruit LED Sequin.brd
+github: https://github.com/adafruit/Adafruit-LED-Sequin-PCB
+eagle_board_file_src: Adafruit LIS2MDL.brd
+github: https://github.com/adafruit/Adafruit-LIS2MDL-PCB
+eagle_board_file_src: Adafruit_LIS331.brd
+github: https://github.com/adafruit/Adafruit-LIS331-PCB
+eagle_board_file_src: Adafruit LIS3DH Original.brd
+github: https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB
+eagle_board_file_src: Adafruit LIS3MDL.brd
+github: https://github.com/adafruit/Adafruit-LIS3MDL-PCB
+eagle_board_file_src: Adafruit LM3671 Buck.brd
+github: https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB
+eagle_board_file_src: Adafruit LM4040.brd
+github: https://github.com/adafruit/Adafruit-LM4040-Voltage-Reference-PCB
+eagle_board_file_src: Adafruit Pi SD Card Adapter.brd
+github: https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB
+eagle_board_file_src: Adafruit-LPS22-Rev-A.brd
+github: https://github.com/adafruit/Adafruit-LPS2X-PCB
+eagle_board_file_src: Adafruit LPS35HW.brd
+github: https://github.com/adafruit/Adafruit-LPS3X-PCB
+eagle_board_file_src: Adafruit_LSM303DLHC.brd
+github: https://github.com/adafruit/Adafruit-LSM303-PCB
+eagle_board_file_src: Adafruit_LSM303AGR.brd
+github: https://github.com/adafruit/Adafruit-LSM303AGR-PCB
+eagle_board_file_src: Adafruit LIS3MDL + LSM6DS33.brd
+github: https://github.com/adafruit/Adafruit-LSM6DS33-LIS3MDL-PCB
+eagle_board_file_src: Adfruit LSM6DS33.brd
+github: https://github.com/adafruit/Adafruit-LSM6DS33-PCB
+eagle_board_file_src: LIS3MDL + LSM6DS3 rev A.brd
+github: https://github.com/adafruit/Adafruit-LSM6DS3TR-C-LIS3MDL-PCB
+eagle_board_file_src: Adafruit_LSM6DS3.brd
+github: https://github.com/adafruit/Adafruit-LSM6DS3TR-C-PCB
+eagle_board_file_src: Adafruit LIS3MDL + LSM6DSOX FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB
+eagle_board_file_src: Adafruit_LSM6DSOX.brd
+github: https://github.com/adafruit/Adafruit-LSM6DSOX-PCB
+eagle_board_file_src: Adafruit LSM9DS0 PCB.brd
+github: https://github.com/adafruit/Adafruit-LSM9DS0-PCB
+eagle_board_file_src: Adafruit LSM9DS1 Rev A.brd
+github: https://github.com/adafruit/Adafruit-LSM9DS1-Breakout-PCB
+eagle_board_file_src: Adafruit LTC4311 I2C Extender.brd
+github: https://github.com/adafruit/Adafruit-LTC4311-PCB
+eagle_board_file_src: Adafruit LTR-303.brd
+github: https://github.com/adafruit/Adafruit-LTR-329-LTR-303-PCB
+eagle_board_file_src: Adafruit_LTR390.brd
+github: https://github.com/adafruit/Adafruit-LTR390-PCB
+eagle_board_file_src: Adafruit MacroPad 2040.brd
+github: https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB
+eagle_board_file_src: Adafruit MatrixPortal M4.brd
+github: https://github.com/adafruit/Adafruit-MatrixPortal-M4-PCB
+eagle_board_file_src: Adafruit MatrixPortal S3.brd
+github: https://github.com/adafruit/Adafruit-MatrixPortal-S3-PCB
+eagle_board_file_src: Adafruit-MAX17048-STEMMA.brd
+github: https://github.com/adafruit/Adafruit-MAX17048-PCB
+eagle_board_file_src: Adafruit MAX31850.brd
+github: https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board
+eagle_board_file_src: Adafruit_MAX31855 v2.brd
+github: https://github.com/adafruit/Adafruit-MAX31855-breakout-board
+eagle_board_file_src: Adafruit MAX31856.brd
+github: https://github.com/adafruit/Adafruit-MAX31856-PCB
+eagle_board_file_src: Adafruit MAX31865.brd
+github: https://github.com/adafruit/Adafruit-MAX31865-PCB
+eagle_board_file_src: Adafruit MAX4466 Mic Amp.brd
+github: https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs
+eagle_board_file_src: max6675.brd
+github: https://github.com/adafruit/Adafruit-MAX6675-Breakout-Board-PCB
+eagle_board_file_src: Adafruit MAX9744.brd
+github: https://github.com/adafruit/Adafruit-MAX9744-Amplifier-PCB
+eagle_board_file_src: Adafruit MAX9814.brd
+github: https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB
+eagle_board_file_src: Adafruit MAX98306.brd
+github: https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB
+eagle_board_file_src: Adafruit MAX98357 Breakout.brd
+github: https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout
+eagle_board_file_src: Adafruit MCP2221.brd
+github: https://github.com/adafruit/Adafruit-MCP2221-PCB
+eagle_board_file_src: Adafruit MCP23017 GPIO Expander.brd
+github: https://github.com/adafruit/Adafruit-MCP23017-PCB
+eagle_board_file_src: Adafruit MCP4725 Original.brd
+github: https://github.com/adafruit/Adafruit-MCP4725-PCB
+eagle_board_file_src: Adafruit MCP4728.brd
+github: https://github.com/adafruit/Adafruit-MCP4728-PCB
+eagle_board_file_src: Adafruit MCP9600.brd
+github: https://github.com/adafruit/Adafruit-MCP9600-PCB
+eagle_board_file_src: Adafruit MCP9601.brd
+github: https://github.com/adafruit/Adafruit-MCP9601-PCB
+eagle_board_file_src: Adafruit MCP9808 Breakout.brd
+github: https://github.com/adafruit/Adafruit-MCP9808-Breakout-PCB
+eagle_board_file_src: menta.brd
+github: https://github.com/adafruit/Adafruit-Menta-PCB
+eagle_board_file_src: Metro Mini 328 V2 - STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-METRO-328-PCB
+eagle_board_file_src: Adafruit Metro ESP32-S2.brd
+github: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
+eagle_board_file_src: Adafruit Metro M0 Express.brd
+github: https://github.com/adafruit/Adafruit-Metro-M0-Express-PCB
+eagle_board_file_src: Metro M4 Express AirLift.brd
+github: https://github.com/adafruit/Adafruit-Metro-M4-Express-AirLift-PCB
+eagle_board_file_src: Adafruit Metro M4 Express.brd
+github: https://github.com/adafruit/Adafruit-Metro-M4-Express-PCB
+eagle_board_file_src: Adafruit Metro M7 iMX RT1011 with AirLift.brd
+github: https://github.com/adafruit/Adafruit-Metro-M7-with-AirLift-PCB
+eagle_board_file_src: Adafruit MicroLipo Charger v2.brd
+github: https://github.com/adafruit/Adafruit-MicroLipo-PCB
+eagle_board_file_src: Adafruit microSD BFF.brd
+github: https://github.com/adafruit/Adafruit-microSD-Card-BFF-PCB
+eagle_board_file_src: Adafruit SDIO microSD.brd
+github: https://github.com/adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB
+eagle_board_file_src: Adafruit MICS-5524.brd
+github: https://github.com/adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit MIDI FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-MIDI-FeatherWing-PCB
+eagle_board_file_src: Adafruit Mini Analog Thumbstick.brd
+github: https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB
+eagle_board_file_src: Gamepad Seesaw QT rev A.brd
+github: https://github.com/adafruit/Adafruit-Mini-I2C-Gamepad-PCB
+eagle_board_file_src: Adafruit Mini PiTFT - 135x240 Color TFT.brd
+github: https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB
+eagle_board_file_src: Adafruit Mini TFT Wing.brd
+github: https://github.com/adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB
+eagle_board_file_src: Hardware/Adafruit MiniPOV4 Kit.brd
+github: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
+eagle_board_file_src: Adafruit MLX90393 QT.brd
+github: https://github.com/adafruit/Adafruit-MLX90393-PCB
+eagle_board_file_src: Adafruit MLX90640 IR Thermal Camera.brd
+github: https://github.com/adafruit/Adafruit-MLX90640-PCB
+eagle_board_file_src: Adafruit MMA8451.brd
+github: https://github.com/adafruit/Adafruit-MMA8451-Breakout-PCB
+eagle_board_file_src: MMC56x3 rev A.brd
+github: https://github.com/adafruit/Adafruit-MMC5603-PCB
+eagle_board_file_src: Adafruit MONSTER M4SK.brd
+github: https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB
+eagle_board_file_src: Adafruit MOSFET Driver STEMMA Breakout.brd
+github: https://github.com/adafruit/Adafruit-MOSFET-Driver-STEMMA-PCB
+eagle_board_file_src: Adafruit Motor Shield v2.3.brd
+github: https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB
+eagle_board_file_src: Adafruit MPL115A2 Breakout.brd
+github: https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB
+eagle_board_file_src: MPL3115A2_v0.2.brd
+github: https://github.com/adafruit/Adafruit-MPL3115A2-PCB
+eagle_board_file_src: Adafruit MPM3610.brd
+github: https://github.com/adafruit/Adafruit-MPM3610-PCB
+eagle_board_file_src: Adafruit MPR121 Capacitive Touch Shield Original.brd
+github: https://github.com/adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB
+eagle_board_file_src: Adafruit MPR121 Breakout.brd
+github: https://github.com/adafruit/Adafruit-MPR121-PCB
+eagle_board_file_src: Adafruit MPR pressure sensor.brd
+github: https://github.com/adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit MPU6050.brd
+github: https://github.com/adafruit/Adafruit-MPU6050-PCB
+eagle_board_file_src: Adafruit MS8607.brd
+github: https://github.com/adafruit/Adafruit-MS8607-PCB
+eagle_board_file_src: Adafruit MSA301.brd
+github: https://github.com/adafruit/Adafruit-MSA301-PCB
+eagle_board_file_src: Adafruit VS1053 Amp FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB
+eagle_board_file_src: Adafruit-Music-Maker-MP3-Shield.brd
+github: https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB
+eagle_board_file_src: Adafruit NAU7802 Breakout.brd
+github: https://github.com/adafruit/Adafruit-NAU7802-PCB
+eagle_board_file_src: Adafruit Neo Trinkey.brd
+github: https://github.com/adafruit/Adafruit-Neo-Trinkey-PCB
+eagle_board_file_src: Adafruit NeoDriver STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-NeoDriver-STEMMA-QT-PCB
+eagle_board_file_src: Adafruit NeoKey 1x4 QT I2C.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-1x4-PCB
+eagle_board_file_src: Adafruit NeoKey BFF.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-BFF-PCB
+eagle_board_file_src: Adafruit NeoKey Breakout.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
+eagle_board_file_src: Adafruit NeoKey CHOC Socket Breakout.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-CHOC-Breakout-PCB
+eagle_board_file_src: Adafruit NeoKey FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-FeatherWing-PCB
+eagle_board_file_src: NeoKey 5x6 Ortho Snap-Apart.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-Snap-Apart-PCB
+eagle_board_file_src: Adafruit NeoKey Trinkey.brd
+github: https://github.com/adafruit/Adafruit-NeoKey-Trinkey-PCB
+eagle_board_file_src: Adafruit_NeoMatrix_8x8 v2.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-8x8-Matrix
+eagle_board_file_src: Adafruit_NeoPixel_Driver_BFF.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-Driver-BFF-PCB
+eagle_board_file_src: Adafruit NeoPixel FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-FeatherWing-PCB
+eagle_board_file_src: Adafruit NeoJewel 7.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-Jewel-7
+eagle_board_file_src: Adafruit NeoPixel Ring 12.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-Ring
+eagle_board_file_src: Adafruit NeoPixel Shield v2.brd
+github: https://github.com/adafruit/Adafruit-NeoPixel-Shield-PCB
+eagle_board_file_src: Adafruit NeoPXL8 Friend.brd
+github: https://github.com/adafruit/Adafruit-NeoPXL8-PCBs
+eagle_board_file_src: Adafruit NeoSlider.brd
+github: https://github.com/adafruit/Adafruit-NeoSlider-PCB
+eagle_board_file_src: Adafruit NeoTrellis 4x4.brd
+github: https://github.com/adafruit/Adafruit-NeoTrellis-4x4-PCB
+eagle_board_file_src: Adafruit NeoTrellis M4.brd
+github: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
+eagle_board_file_src: Adafruit nRF52 Bluefruit Feather rev G.brd
+github: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
+eagle_board_file_src: Adafruit 128x64 OLED FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-OLED-FeatherWing-PCB
+eagle_board_file_src: Adafruit OV5640 Breakout.brd
+github: https://github.com/adafruit/Adafruit-OV5640-Camera-Breakout-PCB
+eagle_board_file_src: Adafruit PA1010D Mini GPS.brd
+github: https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB
+eagle_board_file_src: Adafruit PAM8302.brd
+github: https://github.com/adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB
+eagle_board_file_src: Adafruit_NeoParticle24.brd
+github: https://github.com/adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB
+eagle_board_file_src: Adafruit PB86 Breakout.brd
+github: https://github.com/adafruit/Adafruit-PB86-Breakout-PCB
+eagle_board_file_src: PCA9546 Breakout.brd
+github: https://github.com/adafruit/Adafruit-PCA9546-PCB
+eagle_board_file_src: PCA9548A QT Board.brd
+github: https://github.com/adafruit/Adafruit-PCA9548-PCB
+eagle_board_file_src: Adafruit PCB Reference Ruler.brd
+github: https://github.com/adafruit/Adafruit-PCB-Ruler
+eagle_board_file_src: Adafrruit PCF8523 QT.brd
+github: https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB
+eagle_board_file_src: Adafruit PCF8574 QT.brd
+github: https://github.com/adafruit/Adafruit-PCF8574-PCB
+eagle_board_file_src: Adafruit PCF8575.brd
+github: https://github.com/adafruit/Adafruit-PCF8575-PCB
+eagle_board_file_src: Adafruit_PCF8591.brd
+github: https://github.com/adafruit/Adafruit-PCF8591-PCB
+eagle_board_file_src: Adafruit_PCT2075.brd
+github: https://github.com/adafruit/Adafruit-PCT2075-PCB
+eagle_board_file_src: Adafruit Perma Proto Bonnet.brd
+github: https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB
+eagle_board_file_src: Adafruit HaD Proto HAT rev A.brd
+github: https://github.com/adafruit/Adafruit-Perma-Proto-HAT-PCB
+eagle_board_file_src: adafruit minty permaproto.brd
+github: https://github.com/adafruit/Adafruit-Perma-Proto-PCB
+eagle_board_file_src: Adafruit Perma Proto Pi - Full Size.brd
+github: https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs
+eagle_board_file_src: Adafruit Cobbler Plus.brd
+github: https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs
+eagle_board_file_src: Adafruit PiCowbell Adalogger.brd
+github: https://github.com/adafruit/Adafruit-PiCowbell-Adalogger-PCB
+eagle_board_file_src: Adafruit PiCowbell CAN Bus.brd
+github: https://github.com/adafruit/Adafruit-PiCowbell-CAN-Bus-PCB
+eagle_board_file_src: Adafruit PiCowbell DVI Output for Pico.brd
+github: https://github.com/adafruit/Adafruit-PiCowbell-DVI-Output
+eagle_board_file_src: PiGRRL-ButtonPCB.brd
+github: https://github.com/adafruit/Adafruit-PiGRRL-PCB
+eagle_board_file_src: Adafruit 128x32 Pi OLED.brd
+github: https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB
+eagle_board_file_src: Adafruit pIRkeyboard.brd
+github: https://github.com/adafruit/Adafruit-pIRKey-PCB
+eagle_board_file_src: Adafruit DS3231 PiRTC.brd
+github: https://github.com/adafruit/Adafruit-PiRTC-DS3231-PCB
+eagle_board_file_src: Adafruit PiRTC PCF8523.brd
+github: https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB
+eagle_board_file_src: Adafruit 2.2in TFT HAT rev A.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB
+eagle_board_file_src: Adafruit PiTFT 2.4in HAT.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB
+eagle_board_file_src: Adafruit PiTFT 2.8inch Resistive PCB.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB
+eagle_board_file_src: Adafruit PiTFT Plus 3.5in.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-3.5-Plus-PCB
+eagle_board_file_src: Adafruit PiTFT+ 2.8in.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB
+eagle_board_file_src: Adafruit PiTFT+ 3.2in.brd
+github: https://github.com/adafruit/Adafruit-PiTFT-Plus-3.2-PCB
+eagle_board_file_src: Adafruit PiUART USB C.brd
+github: https://github.com/adafruit/Adafruit-PiUART-PCB
+eagle_board_file_src: Adafruit PMSA003I.brd
+github: https://github.com/adafruit/Adafruit-PMSA003I-PCB
+eagle_board_file_src: Adafruit PN532_Breakout_v1.6.brd
+github: https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Breakout
+eagle_board_file_src: Adafruit_PN532_Shield_v1.0.brd
+github: https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Shield
+eagle_board_file_src: Adafruit PowerRelay Wing.brd
+github: https://github.com/adafruit/Adafruit-Power-Relay-FeatherWing-PCB
+eagle_board_file_src: Adafruit PowerBoost 1000 Basic.brd
+github: https://github.com/adafruit/Adafruit-PowerBoost-1000-PCB
+eagle_board_file_src: Adafruit PowerBoost 1000C Rev B.brd
+github: https://github.com/adafruit/Adafruit-PowerBoost-1000C
+eagle_board_file_src: Adafruit PowerBoost 500 Basic.brd
+github: https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB
+eagle_board_file_src: Adafruit PowerBoost 500C.brd
+github: https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB
+eagle_board_file_src: Adafruit PowerBoost Shield.brd
+github: https://github.com/adafruit/Adafruit-PowerBoost-500-Shield-PCB
+eagle_board_file_src: Adafruit Pro Trinket 3v3.brd
+github: https://github.com/adafruit/Adafruit-Pro-Trinket-PCBs
+eagle_board_file_src: Adafruit Prop Maker FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Prop-Maker-FeatherWing-PCB
+eagle_board_file_src: Adafruit Proto PiCowbell.brd
+github: https://github.com/adafruit/Adafruit-Proto-PiCowbell-PCB
+eagle_board_file_src: wings20.brd
+github: https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB
+eagle_board_file_src: Adafruit Proto Shield.brd
+github: https://github.com/adafruit/Adafruit-Proto-Shield-PCB
+eagle_board_file_src: Adafruit proto pi plate.brd
+github: https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB
+eagle_board_file_src: Adafruit Proximity Trinkey.brd
+github: https://github.com/adafruit/Adafruit-Proximity-Trinkey-PCB
+eagle_board_file_src: Adafruit Power Switch.brd
+github: https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB
+eagle_board_file_src: PWMServo Featherwing rev B.brd
+github: https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB
+eagle_board_file_src: Adafruit PyBadge.brd
+github: https://github.com/adafruit/Adafruit-PyBadge-PCB
+eagle_board_file_src: Adafruit PyGamer.brd
+github: https://github.com/adafruit/Adafruit-PyGamer-PCB
+eagle_board_file_src: Adafruit PyPortal Pynt.brd
+github: https://github.com/adafruit/Adafruit-PyPortal-PCB
+eagle_board_file_src: Adafruit_PyRuler.brd
+github: https://github.com/adafruit/Adafruit-PyRuler-PCB
+eagle_board_file_src: Adafruit QSPI DIP Breakout.brd
+github: https://github.com/adafruit/Adafruit-QSPI-DIP-Breakout-PCB
+eagle_board_file_src: Adafruit STEMMA QT Booster Breakout.brd
+github: https://github.com/adafruit/Adafruit-QT-3V-to-5V-Level-Booster-PCB
+eagle_board_file_src: Adafruit QT 5-3V Shifter.brd
+github: https://github.com/adafruit/Adafruit-QT-5-3V-Shifter-PCB
+eagle_board_file_src: Adafruit QT Py ESP32-C3.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-ESP32-C3-PCB
+eagle_board_file_src: Adafruit QT Py ESP32 Pico.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB
+eagle_board_file_src: Adafruit QT Py ESP32-S2 Rev C.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-ESP32-S2-PCB
+eagle_board_file_src: Adafruit QT Py ESP32-S3.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-ESP32-S3-PCB
+eagle_board_file_src: Adafruit QT Py.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-PCB
+eagle_board_file_src: Adafruit QT Py RP2040.brd
+github: https://github.com/adafruit/Adafruit-QT-Py-RP2040-PCB
+eagle_board_file_src: Adafruit Qualia Driver.brd
+github: https://github.com/adafruit/Adafruit-Qualia-Driver-PCB
+eagle_board_file_src: Adafruit Stemma QT 5 Port Hub.brd
+github: https://github.com/adafruit/Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB
+eagle_board_file_src: Adafruit RA8875 TFT Breakout.brd
+github: https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB
+eagle_board_file_src: Adafruit LoRa Radio Bonnet with OLED.brd
+github: https://github.com/adafruit/Adafruit-Radio-Bonnet-PCB
+eagle_board_file_src: Adafruit Radio FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB
+eagle_board_file_src: Adafruit Latching Relay FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs
+eagle_board_file_src: Adafruit RFM+LoRa Breakout.brd
+github: https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+eagle_board_file_src: adafruit_rgblcdshield.brd
+github: https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB
+eagle_board_file_src: Adafruit RGB Matrix Bonnet.brd
+github: https://github.com/adafruit/Adafruit-RGB-Matrix-Bonnet-PCB
+eagle_board_file_src: Adafruit RGB Matrix FeatherWing nRF52.brd
+github: https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB
+eagle_board_file_src: Adafruit RGB Matrix HAT.brd
+github: https://github.com/adafruit/Adafruit-RGB-Matrix-HAT-PCB
+eagle_board_file_src: Adafruit RGB Matrix Shield.brd
+github: https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB
+eagle_board_file_src: Adafruit Rotary Trinkey.brd
+github: https://github.com/adafruit/Adafruit-Rotary-Trinkey-PCB
+eagle_board_file_src: Adafruit RP2040 CAN Bus Feather.brd
+github: https://github.com/adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB
+eagle_board_file_src: Adafruit Feather RP2040 Prop-Maker.brd
+github: https://github.com/adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB
+eagle_board_file_src: ATSAMD09D14 Breakout rev B.brd
+github: https://github.com/adafruit/Adafruit-SAMD09-Breakout-PCB
+eagle_board_file_src: Adafruit SCD30.brd
+github: https://github.com/adafruit/Adafruit-SCD-30-PCB
+eagle_board_file_src: Adafruit SCD-41.brd
+github: https://github.com/adafruit/Adafruit-SCD-4x-PCB
+eagle_board_file_src: Adafruit Servo HAT rev A.brd
+github: https://github.com/adafruit/Adafruit-Servo-HAT-Bonnet-PCB
+eagle_board_file_src: SGP30 Rev C.brd
+github: https://github.com/adafruit/Adafruit-SGP30-PCB
+eagle_board_file_src: Adafruit SGP40.brd
+github: https://github.com/adafruit/Adafruit-SGP40-PCB
+eagle_board_file_src: Adafruit 2.7in Sharp Memory Display.brd
+github: https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs
+eagle_board_file_src: Adafruit SHT31 Breakout.brd
+github: https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit SHT40.brd
+github: https://github.com/adafruit/Adafruit-SHT40-PCB
+eagle_board_file_src: Adafruit_SHTC3.brd
+github: https://github.com/adafruit/Adafruit-SHTC3-PCB
+eagle_board_file_src: Adafruit Si1145 Breakout.brd
+github: https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB
+eagle_board_file_src: Adafruit Si471x PCB.brd
+github: https://github.com/adafruit/Adafruit-Si4713-PCB
+eagle_board_file_src: Adafruit Si5351A.brd
+github: https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB
+eagle_board_file_src: Si5351 STEMMA QT Board.brd
+github: https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB
+eagle_board_file_src: Adafruit Si7021 Original.brd
+github: https://github.com/adafruit/Adafruit-Si7021-PCB
+eagle_board_file_src: Adafruit Slider Trinkey.brd
+github: https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB
+eagle_board_file_src: 0.5mm 4-pin.brd
+github: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+eagle_board_file_src: SPI Flash Rev E.brd
+github: https://github.com/adafruit/Adafruit-SPI-Flash-Breakout-PCB
+eagle_board_file_src: Adafruit SPI Flash SD Card.brd
+github: https://github.com/adafruit/Adafruit-SPI-Flash-SD-Card-PCB
+eagle_board_file_src: SPW2430-Silicon-Mic_Rev-B.brd
+github: https://github.com/adafruit/Adafruit-SPW2430-PCB
+eagle_board_file_src: Adafruit ST25DV16.brd
+github: https://github.com/adafruit/Adafruit-ST25DV16-PCB
+eagle_board_file_src: Adafruit AT42QT1010 Breakout.brd
+github: https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB
+eagle_board_file_src: Adafruit STEMMA Audio Amp.brd
+github: https://github.com/adafruit/Adafruit-STEMMA-Audio-Amp-PCB
+eagle_board_file_src: Adafruit Non-Latching Relay Breakout.brd
+github: https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB
+eagle_board_file_src: Adafruit STEMMA Soil Sensor.brd
+github: https://github.com/adafruit/Adafruit-STEMMA-Soil-Sensor-PCB
+eagle_board_file_src: Adafruit STEMMA Speaker.brd
+github: https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB
+eagle_board_file_src: Adafruit Speaker Bonnet Original.brd
+github: https://github.com/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB
+eagle_board_file_src: Adafruit STMPE610.brd
+github: https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB
+eagle_board_file_src: Adafruit TB6612.brd
+github: https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB
+eagle_board_file_src: Adafruit TCA4307.brd
+github: https://github.com/adafruit/Adafruit-TCA4307-PCB
+eagle_board_file_src: Adafruit TCA8418.brd
+github: https://github.com/adafruit/Adafruit-TCA8418-PCB
+eagle_board_file_src: Adafruit TCA9548A.brd
+github: https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB
+eagle_board_file_src: Adafruit Flora TCS34725.brd
+github: https://github.com/adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB
+eagle_board_file_src: Adafruit Feather Teensy3 Adapter Original.brd
+github: https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB
+eagle_board_file_src: Adafruit Terminal FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Terminal-Block-FeatherWing-PCB
+eagle_board_file_src: Adafruit TFP401 to 40pin TFT.brd
+github: https://github.com/adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB
+eagle_board_file_src: Adafruit Circuit Playground TFT Gizmo.brd
+github: https://github.com/adafruit/Adafruit-TFT-Gizmo-PCB
+eagle_board_file_src: Adafruit TLC5947.brd
+github: https://github.com/adafruit/Adafruit-TLC5947-PCB
+eagle_board_file_src: adafruit tlc59711 v1.brd
+github: https://github.com/adafruit/Adafruit-TLC59711-Breakout-PCB
+eagle_board_file_src: Adafruit_TLV493D.brd
+github: https://github.com/adafruit/Adafruit-TLV493D-PCB
+eagle_board_file_src: TMP006.brd
+github: https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB
+eagle_board_file_src: Adafruit_TMP117.brd
+github: https://github.com/adafruit/Adafruit-TMP117-PCB
+eagle_board_file_src: TMP235 Rev A.brd
+github: https://github.com/adafruit/Adafruit-TMP235-PCB
+eagle_board_file_src: Adafruit TS2012 TPA2012 Class D Audio Amp.brd
+github: https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB
+eagle_board_file_src: Adafruit TPA2016D2.brd
+github: https://github.com/adafruit/Adafruit-TPA2016-PCB
+eagle_board_file_src: Adafruit TPL5110.brd
+github: https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB
+eagle_board_file_src: Adafruit TPL5111 Reset Enable Timer.brd
+github: https://github.com/adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB
+eagle_board_file_src: Adafruit TPS61023.brd
+github: https://github.com/adafruit/Adafruit-TPS61023-PCB
+eagle_board_file_src: TPS62827 3.3V Buck Converter.brd
+github: https://github.com/adafruit/Adafruit-TPS62827-PCB
+eagle_board_file_src: Trinket M0 rev D.brd
+github: https://github.com/adafruit/Adafruit-Trinket-M0-PCB
+eagle_board_file_src: Adafruit Trinket 3.3V.brd
+github: https://github.com/adafruit/Adafruit-Trinket-PCB
+eagle_board_file_src: Adafruit QT2040 Trinkey.brd
+github: https://github.com/adafruit/Adafruit-Trinkey-QT2040-PCB
+eagle_board_file_src: Adafruit TRRS Jack Breakout.brd
+github: https://github.com/adafruit/Adafruit-TRRS-Jack-Breakout-PCB
+eagle_board_file_src: Adafruit TSC2007.brd
+github: https://github.com/adafruit/Adafruit-TSC2007-PCB
+eagle_board_file_src: Adafruit TSL2591 Original.brd
+github: https://github.com/adafruit/Adafruit-TSL2591-Breakout-PCB
+eagle_board_file_src: Adafruit TXB0104.brd
+github: https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB
+eagle_board_file_src: Adafruit TXB0108.brd
+github: https://github.com/adafruit/Adafruit-TXB0108-PCB
+eagle_board_file_src: Adafruit UDA1334 I2S DAC.brd
+github: https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB
+eagle_board_file_src: Adafruit Ultimate GPS Featherwing.brd
+github: https://github.com/adafruit/Adafruit-Ultimate-GPS
+eagle_board_file_src: Adafruit Ultimate GPS FeatherWing.brd
+github: https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB
+eagle_board_file_src: Adafruit Ultimate GPS HAT.brd
+github: https://github.com/adafruit/Adafruit-Ultimate-GPS-HAT-PCB
+eagle_board_file_src: Adafruit USB Type C Downstream Breakout rev B.brd
+github: https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout
+eagle_board_file_src: Adafruit_MCP7386x.brd
+github: https://github.com/adafruit/Adafruit-USB-DC-LiPoly-Charger
+eagle_board_file_src: Adafruit USB Isolator.brd
+github: https://github.com/adafruit/Adafruit-USB-Isolator-PCB
+eagle_board_file_src: Adafruit USB LiIon-LiPoly Charger.brd
+github: https://github.com/adafruit/Adafruit-USB-LiIon-LiPoly-Charger-PCB
+eagle_board_file_src: Adafruit USB Power Gauge.brd
+github: https://github.com/adafruit/Adafruit-USB-Power-Gauge-PCB
+eagle_board_file_src: Adafruit USB Serial Char LCD.brd
+github: https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB
+eagle_board_file_src: Adafruit VCNL4040.brd
+github: https://github.com/adafruit/Adafruit-VCNL4040-PCB
+eagle_board_file_src: Adafruit VCNL4010.brd
+github: https://github.com/adafruit/Adafruit-VCNL40X0-PCB
+eagle_board_file_src: Adafruit VEML6070.brd
+github: https://github.com/adafruit/Adafruit-VEML6070-PCB
+eagle_board_file_src: Adafruit VEML6075.brd
+github: https://github.com/adafruit/Adafruit-VEML6075-UV-Sensor-PCB
+eagle_board_file_src: Adafruit VEML7700 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-VEML7700-PCB
+eagle_board_file_src: Adafruit Verter TPS63060 2A BoostBuck.brd
+github: https://github.com/adafruit/Adafruit-Verter-PCB
+eagle_board_file_src: Adafruit VL530X STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB
+eagle_board_file_src: Adafruit VL53L1X.brd
+github: https://github.com/adafruit/Adafruit-VL53L1X-PCB
+eagle_board_file_src: Adafruit VL53L4CD.brd
+github: https://github.com/adafruit/Adafruit-VL53L4CD-PCB
+eagle_board_file_src: Adafruit VL53L4CX.brd
+github: https://github.com/adafruit/Adafruit-VL53L4CX-PCB
+eagle_board_file_src: Adafruit VL6180 Time of Flight Sensor.brd
+github: https://github.com/adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB
+eagle_board_file_src: Adafruit Voice Bonnet.brd
+github: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
+eagle_board_file_src: Adafruit VS1053 Breakout.brd
+github: https://github.com/adafruit/Adafruit-VS1053-Breakout-PCB
+eagle_board_file_src: Adafruit CH9102F.brd
+github: https://github.com/adafruit/Adafruit-WCH-CH9102F-Friend-PCB
+eagle_board_file_src: Adafruit WICED WiFi Feather.brd
+github: https://github.com/adafruit/Adafruit-WICED-WiFi-Feather-PCB
+eagle_board_file_src: Adafruit Wii Nunchuck Breakout Adapter.brd
+github: https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB
+eagle_board_file_src: Adafruit Winc1500 Shield.brd
+github: https://github.com/adafruit/Adafruit-WINC1500-Shield-PCB
+eagle_board_file_src: jdt1800-bob.brd
+github: https://github.com/adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB
+eagle_board_file_src: tfttouchshield.brd
+github: https://github.com/adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB
+eagle_board_file_src: Adafruit ADXL343 STEMMA QT.brd
+github: https://github.com/adafruit/Adafruit_ADXL343_PCB
+eagle_board_file_src: Adafruit ADXL345 Triple-Axis Accelerometer.brd
+github: https://github.com/adafruit/Adafruit_ADXL345_PCB
+eagle_board_file_src: Adafruit ADXL375.brd
+github: https://github.com/adafruit/Adafruit_ADXL375_PCB
+eagle_board_file_src: atmega32u4bb.brd
+github: https://github.com/adafruit/Adafruit_Atmega32u4_Breakout_Board
+eagle_board_file_src: pcb/brain.brd
+github: https://github.com/adafruit/Adafruit_Brain-Machine-Kit
+eagle_board_file_src: Adafruit_Breadboard_NeoPixel.brd
+github: https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB
+eagle_board_file_src: Adafruit CC3000 shield REV-B.brd
+github: https://github.com/adafruit/Adafruit_CC3000_Shield_PCB
+eagle_board_file_src: pcb/GoL 1.3.brd
+github: https://github.com/adafruit/Adafruit_Conway-Game-of-Life-Kit
+eagle_board_file_src: Adafruit Crickit FeatherWing.brd
+github: https://github.com/adafruit/Adafruit_Crickit_PCBs
+eagle_board_file_src: Adafruit Floppy FeatherWing.brd
+github: https://github.com/adafruit/Adafruit_Floppy_FeatherWing_PCB
+eagle_board_file_src: floppy featherwing rev A.brd
+github: https://github.com/adafruit/Adafruit_Floppy_PCB
+eagle_board_file_src: ftdifriend.brd
+github: https://github.com/adafruit/Adafruit_FTDI-Friend-PCB
+eagle_board_file_src: PCB/cuff.brd
+github: https://github.com/adafruit/Adafruit_iCufflinks
+eagle_board_file_src: BLE_Client_Server/Eagle/CP_Solenoid3.brd
+github: https://github.com/adafruit/Adafruit_Learning_System_Guides
+eagle_board_file_src: Adafruit MagTag 2.9in.brd
+github: https://github.com/adafruit/Adafruit_MagTag_PCBs
+eagle_board_file_src: MCP73833_QFN_v1.0.brd
+github: https://github.com/adafruit/Adafruit_MCP73833_PCB
+eagle_board_file_src: PCB/microtouch.brd
+github: https://github.com/adafruit/Adafruit_Microtouch
+eagle_board_file_src: mintyboostv2.brd
+github: https://github.com/adafruit/Adafruit_MintyBoost_PCB
+eagle_board_file_src: AF_mshield-v11.brd
+github: https://github.com/adafruit/Adafruit_Motor-Shield-v1
+eagle_board_file_src: Adafruit MSA311.brd
+github: https://github.com/adafruit/Adafruit_MSA311_PCB
+eagle_board_file_src: AHT20.brd
+github: https://github.com/adafruit/Adafruit_Pinguin
+eagle_board_file_src: Adafruit Trellis 4x4 3mm HT16K33.brd
+github: https://github.com/adafruit/Adafruit_Trellis
+eagle_board_file_src: usbboarduino20.brd
+github: https://github.com/adafruit/Adafruit_USB_Boarduino_PCB
+eagle_board_file_src: Adafruit ADS1015 ADC STEMMA QT.brd
+github: https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs
+eagle_board_file_src: BLM Badge rev B.brd
+github: https://github.com/adafruit/BLM-Badge-PCB
+eagle_board_file_src: final_versions/PYCON_2018/Gemma M0 rev D PyCon.brd
+github: https://github.com/adafruit/CircuitPython_Badge_README
+eagle_board_file_src: Adafruit Datalogger Shield.brd
+github: https://github.com/adafruit/Data-Logger-shield
+eagle_board_file_src: Adafruit DotStar 2020 8x8 Matrix .brd
+github: https://github.com/adafruit/DotStar-2020-8x8-Matrix-PCB
+eagle_board_file_src: DS1307 Rev B.brd
+github: https://github.com/adafruit/DS1307-breakout-board
+eagle_board_file_src: pcb/icetube.brd
+github: https://github.com/adafruit/Ice-Tube-Clock
+eagle_board_file_src: hardware/LittleWireISP.brd
+github: https://github.com/adafruit/LittleWireISP
+eagle_board_file_src: microsd.brd
+github: https://github.com/adafruit/MicroSD-breakout-board
+eagle_board_file_src: pcb/ratt.brd
+github: https://github.com/adafruit/monochron
+eagle_board_file_src: Adafruit NeoPixel 8 Stick v2.brd
+github: https://github.com/adafruit/NeoPixel-Sticks
+eagle_board_file_src: Pixie.brd
+github: https://github.com/adafruit/Pixie-3W-Smart-LED-PCB
+eagle_board_file_src: Adafruit RP2040 Tester Brains rev A.brd
+github: https://github.com/adafruit/RP2040-Based-Tester-Brains-PCB
+eagle_board_file_src: Adafruit_TIMESQUARE.brd
+github: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
+eagle_board_file_src: TSL2561 Stemma.brd
+github: https://github.com/adafruit/TSL2561-breakout-board-PCB
+eagle_board_file_src: pcb/tvbgone3.brd
+github: https://github.com/adafruit/TV-B-Gone-kit
+eagle_board_file_src: Adafruit MCP73871 Solar Charger v4.brd
+github: https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger

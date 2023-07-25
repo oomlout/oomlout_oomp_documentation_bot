@@ -1,0 +1,16 @@
+### Footprint positions - created on Mon Jul 24 15:17:06 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                                                     PosX       PosY       Rot  Side
+C1        1.0uF                          0603                                                    150.9141  -109.6772    0.0000  top
+C3        1.0uF                          0603                                                    151.3713  -104.1146    0.0000  top
+FD1       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO                                          148.5011   -98.6282  180.0000  top
+FD2       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO                                          144.0307  -110.3122  180.0000  top
+FRAME1    FRAME-LETTER                   CREATIVE_COMMONS                                        131.9911  -125.9586    0.0000  top
+J1        Qwiic_Right_Angle              1X04_1MM_RA                                             148.3995  -106.4006  -90.0000  top
+J9                                       SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS   147.2311  -100.5586    0.0000  top
+U$3                                      QWIIC_5MM                                               146.8501  -110.8456    0.0000  top
+U$4       SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS                                   111.6711  -127.2286    0.0000  top
+U2        3.3V/600mA                     SOT23-5                                                 151.3967  -106.9340    0.0000  top
+## End

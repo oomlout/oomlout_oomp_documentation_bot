@@ -1,0 +1,36 @@
+### Footprint positions - created on Mon Jul 24 10:29:00 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                 PosX       PosY       Rot  Side
+C1        0.1uF                   0603                139.6111  -122.1486  -90.0000  top
+C2        4.7pF                   0603                148.5011  -111.9886    0.0000  top
+D1        RED                     LED-0603            156.1211  -111.9886    0.0000  top
+FD2       FIDUCIAL1X2             FIDUCIAL-1X2        134.0231   -83.5406    0.0000  top
+FD4       FIDUCIAL1X2             FIDUCIAL-1X2        162.9791  -126.4666    0.0000  top
+FRAME1    FRAME-LETTERNO_PACKAGE  DUMMY               133.2611  -127.2286    0.0000  top
+H1        STAND-OFF               STAND-OFF           135.8011   -85.3186    0.0000  top
+H2        STAND-OFF               STAND-OFF           161.2011   -85.3186    0.0000  top
+H3        STAND-OFF               STAND-OFF           135.8011  -124.6886    0.0000  top
+H4        STAND-OFF               STAND-OFF           161.2011  -124.6886    0.0000  top
+J1        Qwiic                   JST04_1MM_RA        158.6611  -117.0686   90.0000  top
+J2        Qwiic                   JST04_1MM_RA        138.3411  -117.0686  -90.0000  top
+J3                                1X06_NO_SILK        142.1511  -125.9586    0.0000  top
+L1        PCB_4UH_INDUCTOR        PCB_4UH_INDUCTOR    148.5011  -109.4486    0.0000  top
+LOGO3     QWIIC_LOGO_7MM          QWIIC_7MM           137.0711  -111.9886    0.0000  top
+R1        2.2k                    0603                143.4211  -117.0686  180.0000  top
+R2        2.2k                    0603                143.4211  -119.6086    0.0000  top
+R3        1k                      0603                153.5811  -117.0686  180.0000  top
+R4        10k                     0603                153.5811  -119.6086    0.0000  top
+U$1       SPARKX-LOGO5            SPARKX-LARGE        148.5011   -98.0186    0.0000  top
+U$3                               #3#3V#0             144.6911  -125.4506   90.0000  top
+U$4                               #GND#4              142.1511  -125.4506   90.0000  top
+U$5                               #SDA#5              147.2311  -125.4506   90.0000  top
+U$6                               #SCL#6              149.7711  -125.4506   90.0000  top
+U$7                               ##GPO##8            152.3111  -125.4506   90.0000  top
+U$8                               #VEH#7              154.8511  -125.4506   90.0000  top
+U$9                               PWR11               159.9311  -111.9886    0.0000  top
+U$10                              DYNAMIC_RFID_TAG0   148.5011   -86.5886    0.0000  top
+U$13                              ST25DV64KC5984      148.5011   -84.5566    0.0000  top
+U1        ST25DV64KC              SO08                148.5011  -117.0686  180.0000  top
+## End

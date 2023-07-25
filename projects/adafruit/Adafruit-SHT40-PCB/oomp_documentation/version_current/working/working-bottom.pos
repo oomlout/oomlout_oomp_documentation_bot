@@ -1,0 +1,14 @@
+### Footprint positions - created on Mon Jul 24 11:02:42 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+PLABEL8             PLABEL8            148.5011   -97.5106  180.0000  bottom
+PLABEL9             PLABEL9            148.5011   -99.1616  180.0000  bottom
+PLABEL10            PLABEL10           148.5011  -113.0046  180.0000  bottom
+PLABEL11            PLABEL11           148.5011  -108.8136  180.0000  bottom
+PLABEL12            PLABEL12           148.5011  -100.8126  180.0000  bottom
+U$25                PCBFEAT-REV-040    141.8971   -97.3836  180.0000  bottom
+U$30                STEMMAQT           158.2801  -109.4486   90.0000  bottom
+U$31                STEMMAQT           138.7221  -100.5586  -90.0000  bottom
+## End

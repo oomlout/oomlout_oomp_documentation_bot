@@ -44,8 +44,8 @@ def document_project(**kwargs):
     ######
 
     #create a /oomp directory in the project directory
-    if not os.path.exists(f'{directory}/oomp'):
-        os.makedirs(f'{directory}/oomp')
+    if not os.path.exists(f'{directory}/oomp_documentation'):
+        os.makedirs(f'{directory}/oomp_documentation')
     #if oomp_documentation/src doesn't exist create it
     if not os.path.exists(f'{directory}/oomp_documentation/src'):
         os.makedirs(f'{directory}/oomp_documentation/src')

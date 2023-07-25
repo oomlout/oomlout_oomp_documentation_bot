@@ -1,0 +1,45 @@
+### Footprint positions - created on Mon Jul 24 13:30:19 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+C1        1.0uF                         0603                           145.3261  -124.6886  -90.0000  top
+C2        2.2uF                         0603                           151.6761  -124.6886  -90.0000  top
+C3        0.1uF                         0402                           145.9611  -100.5586   90.0000  top
+C4        DNP                           0402                           147.4851   -89.1286  -90.0000  top
+C5        100pF                         0402                           146.1135   -89.1286  -90.0000  top
+C6        1.0uF                         0402                           144.6911   -97.3836  -90.0000  top
+C7        180pF                         0603                           145.3261  -106.9086   90.0000  top
+C8        180pF                         0603                           152.3111  -106.9086   90.0000  top
+C9        6pF                           0402                           144.0561   -87.8586  180.0000  top
+C10       6pF                           0402                           144.0561   -91.5670  180.0000  top
+C11       0.8pF                         0402                           149.1361   -90.7288    0.0000  top
+C12       DNP                           0402                           149.1361   -86.5886  180.0000  top
+C13       15pF                          0402                           147.7391  -101.1936  180.0000  top
+C14       15pF                          0402                           150.2029  -101.1936    0.0000  top
+C15       0.1uF                         0402                           153.5811   -98.2726  -90.0000  top
+C16       0.1uF                         0402                           144.0561   -92.9386  180.0000  top
+C17       4.7uF                         0603                           144.6911  -100.5586  -90.0000  top
+D1        RED                           LED-0603                       145.9611  -114.5286    0.0000  top
+D2        BLUE                          LED-0603                       151.0411  -114.5286    0.0000  top
+E1        ANT                           TRACE_ANTENNA_2.4GHZ_15.2MM    144.0561   -84.0486    0.0000  top
+FD1       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 153.2001  -127.8636    0.0000  top
+FD2       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 140.5001   -84.6836    0.0000  top
+FRAME1    FRAME-LETTER                  CREATIVE_COMMONS               129.4511  -148.8186    0.0000  top
+J1                                      1X06                           142.1511  -129.7686    0.0000  top
+J2                                      1X02                           149.7711  -105.6386  180.0000  top
+J3                                      1X17                           140.8811  -127.2286   90.0000  top
+J4                                      1X17                           156.1211  -127.2286   90.0000  top
+J5        CORTEX_DEBUGPTH               2X5-PTH-1.27MM                 148.5011  -111.4806    0.0000  top
+L1        3.9nH                         0402                           149.7161   -88.4936  -90.0000  top
+LOGO1     OSHW-LOGOMINI                 OSHW-LOGO-MINI                 148.5011  -116.6876    0.0000  top
+LOGO2     SFE_LOGO_NAME.1_INCH          SFE_LOGO_NAME_.1               142.5321   -82.7786    0.0000  top
+R1        1k                            0603                           151.0411  -115.7986    0.0000  top
+R2        1k                            0603                           145.9611  -115.7986    0.0000  top
+SW1       TACTILE_SWITCH_SMD_4_6X2_8MM  TACTILE_SWITCH_SMD_4.6X2.8MM   145.9611  -119.6086   90.0000  top
+SW2       TACTILE_SWITCH_SMD_4_6X2_8MM  TACTILE_SWITCH_SMD_4.6X2.8MM   151.0411  -119.6086   90.0000  top
+U1        AP2112K-3.3V                  SOT23-5                        148.5011  -124.6886  -90.0000  top
+U2        NRF52832                      QFN48-6X6MM                    149.1361   -95.4786   90.0000  top
+Y1        32MHz                         CRYSTAL-SMD-2.0X1.6MM          144.0561   -89.7636   90.0000  top
+Y2        32.768kHz                     CRYSTAL-SMD-3.2X1.5MM          148.5011  -103.0986  180.0000  top
+## End

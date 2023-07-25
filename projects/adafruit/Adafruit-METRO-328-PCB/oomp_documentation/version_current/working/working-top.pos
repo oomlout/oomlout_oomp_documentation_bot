@@ -1,0 +1,74 @@
+### Footprint positions - created on Mon Jul 24 10:51:29 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                    Package                              PosX       PosY       Rot  Side
+@HOLE0                                                             180.2511   -96.1136    0.0000  top
+@HOLE1                                                             180.2511  -124.0536    0.0000  top
+@HOLE2                                                             129.4511   -80.8736    0.0000  top
+@HOLE3                                                             128.1811  -129.1336    0.0000  top
+AD0        20609                  1X06_OVAL                        171.3611  -129.1336    0.0000  top
+C1         10uF                   0805-NO                          130.9751   -98.1456  -90.0000  top
+C2         0.1uF                  0805-NO                          132.8801  -127.2286    0.0000  top
+C3         10uF                   0805-NO                          138.8491  -125.9586  180.0000  top
+C4         0.1uF                  0805-NO                          140.8811   -89.1286  180.0000  top
+C5         0.1uF                  0805-NO                          134.2771   -92.1766   90.0000  top
+C6         0.1uF                  0805-NO                          173.9011   -98.1456  -135.0000  top
+C7         10uF                   0805-NO                          130.8735   -94.7928    0.0000  top
+C9         0.1uF                  0805-NO                          127.4191   -98.1456  -90.0000  top
+C10        0.1uF                  0805_10MGAP                      162.8739  -109.2382  135.0000  top
+C12        0.1uF                  0805-NO                          133.0071  -109.0676    0.0000  top
+C13        0.1uF                  0805-NO                          138.7221  -123.6726    0.0000  top
+C15        0.1uF                  0805-NO                          129.1971   -98.1456  -90.0000  top
+D1         MBR120                 SOD-123                          127.9525  -118.2878  180.0000  top
+D2         1N4148                 SOD-323                          176.5681   -93.1926  180.0000  top
+F2         500mA                  1206-NO                          122.7201   -88.4936    0.0000  top
+FB1        FERRITE                0805-NO                          160.3121  -106.6546  -45.0000  top
+FB2        FERRITE                0805-NO                          115.9891   -86.8426  -90.0000  top
+FD1        FIDUCIAL_1MM           FIDUCIAL_1MM                     127.5461   -85.8266    0.0000  top
+FD2        FIDUCIAL_1MM           FIDUCIAL_1MM                     180.2431  -120.1396    0.0000  top
+FD3        FIDUCIAL_1MM           FIDUCIAL_1MM                     115.9091  -130.0416    0.0000  top
+ICSP0      3x2_M                  2X03_ROUND_70MIL                 178.9811  -103.7336  -90.0000  top
+IOH0       20611                  1X10_OVAL                        144.4371   -80.8736    0.0000  top
+IOL0       20610                  1X08_OVAL                        168.8211   -80.8736    0.0000  top
+JP1                               1X01_ROUND                       119.7991  -117.9576    0.0000  top
+L0         RED                    CHIPLED_0805_NOOUTLINE           117.8941  -100.0506   90.0000  top
+ON0        GREEN                  CHIPLED_0805_NOOUTLINE           117.7671  -107.0356  -90.0000  top
+PC1        47uF/25V               PANASONIC_D                      133.2865  -121.3866   90.0000  top
+PC2        47uF+/6.3V+            PANASONIC_D                      135.8011  -113.4110  180.0000  top
+POWER0     20610                  1X08_OVAL                        151.0411  -129.1336    0.0000  top
+R1         1K                     0805-NO                          121.8311  -104.6226    0.0000  top
+R3         1K                     0805-NO                          121.8311  -102.2096    0.0000  top
+R6         1K                     0805-NO                          121.8311  -107.0356  180.0000  top
+R7         10K                    0805-NO                          128.0541  -124.0536    0.0000  top
+R8         10K                    _0805MP                          176.4411   -91.2876    0.0000  top
+R9         1K                     0805-NO                          121.8311  -100.0506    0.0000  top
+R10        1K                     0805-NO                          136.0551   -92.1766  -90.0000  top
+R11        1K                     0805-NO                          130.3401   -89.6366  180.0000  top
+R12        1K                     0805-NO                          130.3401   -91.6686  180.0000  top
+R13        10K                    0805-NO                          136.8171  -108.1786  -90.0000  top
+R14        10K                    0805-NO                          135.0391  -105.5116    0.0000  top
+R15        10K                    0805-NO                          127.2921  -102.5906  -90.0000  top
+R16        10K                    0805-NO                          129.0701  -102.5906   90.0000  top
+RESET-EN0                         SOLDERJUMPER_CLOSEDWIRE          134.5311   -89.2556    0.0000  top
+RESET0     6mm                    EVQ-Q2                           120.5611   -82.2706  180.0000  top
+RXLED0     YELLOW                 CHIPLED_0805_NOOUTLINE           117.7671  -102.2096  -90.0000  top
+SW2                               SPDT_SMT_SSSS811101              117.1321  -113.3856  -90.0000  top
+T1         DMP3098L               SOT-23                           130.5941  -106.5276    0.0000  top
+T2         DMP3098L               SOT-23                           128.0541  -121.3866  180.0000  top
+TXLED0     YELLOW                 CHIPLED_0805_NOOUTLINE           117.7671  -104.6226  -90.0000  top
+U$4                               METROSILK_CP2104_TOP             114.2111  -131.6736    0.0000  top
+U$14                              METROSILK_BOT                    114.2111  -131.6736    0.0000  top
+U$15                              PCBFEAT-REV-040                  131.7371  -129.6416    0.0000  top
+U$16                              SYMBOL_FCC_TINY                  178.1175  -115.5192    0.0000  top
+U$17                              SYMBOL_CE_TINY                   177.8635  -111.7600    0.0000  top
+U1         NCP1117ST50T3G         SOT223-R                         127.0889  -113.2332   90.0000  top
+U3         CP2104                 QFN24_4MM_SMSC                   125.3363   -92.8624    0.0000  top
+U4         AP2112-3.3             SOT23-5                          136.6901  -128.8796  -90.0000  top
+U5         LMV358IDGKR            MSOP08                           133.1341  -102.8446   90.0000  top
+VSELECT0                          SOLDERJUMPER_2WAY_OPEN_NOPASTE   138.0871  -119.3546   90.0000  top
+X2                                DCJACK_2MM_PTH                   110.9091  -123.9266    0.0000  top
+X3         20329                  4UCONN_20329_V2                  118.5291   -93.5736  -90.0000  top
+Y2         CSTCE16M0V53-R0_16MHZ  RESONATOR                        171.1071   -97.1296  -45.0000  top
+ZU4        ATMEGA328P-AU          TQFP32-08                        168.0692  -103.7054  -135.0000  top
+## End

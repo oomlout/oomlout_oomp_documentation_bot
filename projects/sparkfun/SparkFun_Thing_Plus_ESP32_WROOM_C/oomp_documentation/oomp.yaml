@@ -1,0 +1,10 @@
+directory: projects/sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun_Thing_Plus_ESP32_WROOM_C.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun_Thing_Plus_ESP32_WROOM_C.sch
+github: https://github.com/sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C
+github_project: SparkFun_Thing_Plus_ESP32_WROOM_C
+github_user: sparkfun
+oomp_in_output: true

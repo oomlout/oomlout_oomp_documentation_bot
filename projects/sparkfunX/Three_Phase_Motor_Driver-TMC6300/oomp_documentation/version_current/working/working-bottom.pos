@@ -1,0 +1,34 @@
+### Footprint positions - created on Sun Jul 23 23:46:33 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                PosX       PosY       Rot  Side
+D1        RED                LED-0603           148.5011  -113.8936  180.0000  bottom
+D3        BLUE               LED-0603           148.5011   -97.3836  180.0000  bottom
+D4        GREEN              LED-0603           148.5011   -99.1616  180.0000  bottom
+FD3       FIDUCIALUFIDUCIAL  FIDUCIAL-MICRO     153.4795  -114.6556    0.0000  bottom
+FD4       FIDUCIALUFIDUCIAL  FIDUCIAL-MICRO     141.4399   -97.2820    0.0000  bottom
+LOGO1     OSHW-LOGONO_SILK   DUMMY              143.4211  -117.7036  180.0000  bottom
+U$1                          #GND#1             144.6911   -98.6536  180.0000  bottom
+U$2                          #SEN#0             144.5641  -108.8136  180.0000  bottom
+U$3                          #DIAG#0            145.1991  -111.3536  180.0000  bottom
+U$9                          #U#6               143.9291  -101.1936  180.0000  bottom
+U$12                         #VCP#0             152.0571  -113.8936  180.0000  bottom
+U$13                         #VIO#1             152.5651   -96.1136  180.0000  bottom
+U$15                         63001              148.5011  -109.7026  180.0000  bottom
+U$18                         D0                 148.5011  -100.5586  180.0000  bottom
+U$19                         S1                 148.5011   -96.1136  180.0000  bottom
+U$20                         V2                 148.5011  -112.7506  180.0000  bottom
+U$21                         #UH#5              152.8191  -101.1936  180.0000  bottom
+U$22                         #UL#4              152.6921   -98.6536  180.0000  bottom
+U$23                         TMC0               148.5011  -108.5596  180.0000  bottom
+U$24                         #VIN#0             144.6911   -96.1136  180.0000  bottom
+U$25                         #V#7               143.6751  -103.7336  180.0000  bottom
+U$28                         #GND#1             144.6911  -113.8936  180.0000  bottom
+U$30                         #VH#2              152.8191  -106.2736  180.0000  bottom
+U$31                         #VL#3              152.5651  -103.7336  180.0000  bottom
+U$32                         #W#8               144.0561  -106.2736  180.0000  bottom
+U$33                         #WH#1              152.5651  -111.3536  180.0000  bottom
+U$34                         #WL#0              152.4381  -108.8136  180.0000  bottom
+U$37      SPARKX-LOGO2       SPARKX-TINY        148.5011  -102.0826  180.0000  bottom
+## End

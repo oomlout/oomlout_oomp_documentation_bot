@@ -1,0 +1,10 @@
+directory: projects/sparkfunX/Qwiic_RFID_Tag/
+eagle_board_file_src:
+  version_current: Hardware/Qwiic_RFID_Tag.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/Qwiic_RFID_Tag.sch
+github: https://github.com/sparkfunX/Qwiic_RFID_Tag
+github_project: Qwiic_RFID_Tag
+github_user: sparkfunX
+oomp_in_output: true

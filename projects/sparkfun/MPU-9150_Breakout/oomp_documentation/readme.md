@@ -1,0 +1,28 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | JP5,JP6 | SFE-LOGO-FLAME | 2 | LOGO-SFESK |  |  |
+| 2 | JP2,JP3 | STAND-OFF | 2 | STAND-OFF |  |  |
+| 3 | SJ1 | SJ_3_PASTE2&3 | 1 |  |  |  |
+| 4 | C1,C4 | 0402-CAP | 2 | 0.1uF |  |  |
+| 5 | C2 | 0402-CAP | 1 | 2.2nF |  |  |
+| 6 | JP8,JP7 | MICRO-FIDUCIAL | 2 | FIDUCIALUFIDUCIAL |  |  |
+| 7 | JP1 | 1X11 | 1 | M11PTH |  |  |
+| 8 | R1,R2 | 0402-RES | 2 | 10k |  |  |
+| 9 | C3 | 0402-CAP | 1 | 10nF |  |  |
+| 10 | U1 | QFN-24-NP | 1 | MPU-9150 |  |  |
+| 11 | SJ3**0,SJ2**0 | SJ_2S-TRACE | 2 | SOLDERJUMPERTRACE |  |  |
+| 12 | JP4 | SFE-NEW-WEB | 1 | LOGO-SFENW2 |  |  |
+| 13 | U$1 | OSHW-LOGO-S | 1 | OSHW-LOGOS |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

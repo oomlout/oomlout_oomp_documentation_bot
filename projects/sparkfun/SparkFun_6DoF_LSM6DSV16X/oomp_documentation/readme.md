@@ -1,0 +1,75 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | R5,R3,R6 | 0603 | 3 | 10k |  |  |
+| 2 | FID2,FID1,FD1,FD2 | FIDUCIAL-MICRO | 4 | FIDUCIALUFIDUCIAL |  |  |
+| 3 | C5,P2,P1,C6 | 0603 | 4 | 110pF |  |  |
+| 4 | STANDOFF4,STANDOFF1,<br>STANDOFF2,STANDOFF3 | STAND-OFF-TIGHT | 4 | STAND-OFFTIGHT |  |  |
+| 5 | J2,J1 | JST04_1MM_RA | 2 | QWIIC_RIGHT_ANGLE |  |  |
+| 6 | U$28 | PWR8 | 1 |  |  |  |
+| 7 | U$40 | #INT2#3 | 1 |  |  |  |
+| 8 | LOGO3 | BLANK | 1 | SFE_LOGO_NAME_FLAMEB<br>LANK |  |  |
+| 9 | U$34,U$37 | X2114 | 2 |  |  |  |
+| 10 | U$18 | #POCI#12 | 1 |  |  |  |
+| 11 | U$11 | SDX19 | 1 |  |  |  |
+| 12 | U$7 | INT16 | 1 |  |  |  |
+| 13 | C4,C3 | 0603 | 2 | 0.1uF |  |  |
+| 14 | JP3,JP1 | 1X06_NO_SILK | 2 | IO |  |  |
+| 15 | U$29 | SFE_LOGO_FLAME_.1 | 1 |  |  |  |
+| 16 | R4 | 0603 | 1 | 4.7k |  |  |
+| 17 | R1,R2 | 0603 | 2 | 2.2k |  |  |
+| 18 | LOGO1 | QWIIC_4MM | 1 | QWIIC_LOGO_4MM |  |  |
+| 19 | U$35,U$38 | Y2115 | 2 |  |  |  |
+| 20 | U$2,U$17 | #GND#0 | 2 |  |  |  |
+| 21 | U$36,U$39 | Z2116 | 2 |  |  |  |
+| 22 | U$9 | OCS17 | 1 |  |  |  |
+| 23 | U$3 | ##CS##7 | 1 |  |  |  |
+| 24 | U$1,U$15 | #3V3#1 | 2 |  |  |  |
+| 25 | U$5 | #SCL#5 | 1 |  |  |  |
+| 26 | U1 | LGA-14L | 1 | LSM6DSV16X |  |  |
+| 27 | U$24 | #POCIX#8 | 1 |  |  |  |
+| 28 | U$4 | #SDA#4 | 1 |  |  |  |
+| 29 | D1 | LED-0603 | 1 | RED |  |  |
+| 30 | U$10 | SCX18 | 1 |  |  |  |
+| 31 | U$47,U$46 | LSM6DSV16X37 | 2 |  |  |  |
+| 32 | R7,R8 | 0603 | 2 | 0 |  |  |
+| 33 | FRAME2 | CREATIVE_COMMONS | 1 | FRAME-LEDGER |  |  |
+| 34 | U$49,U$45 | #0#4 | 2 |  |  |  |
+| 35 | U$6 | #POCI#11 | 1 |  |  |  |
+| 36 | U$32 | #1#729 | 1 |  |  |  |
+| 37 | ADDR0,PAD1,PAD2 | SMT-JUMPER_3_1-NC_TR<br>ACE_SILK | 3 | JUMPER-SMT_3_1-NC_TR<br>ACE_SILK |  |  |
+| 38 | U$19 | #AH2#32 | 1 |  |  |  |
+| 39 | U$33 | #POCIX#7 | 1 |  |  |  |
+| 40 | U$48 | #SCLK#4 | 1 |  |  |  |
+| 41 | U$12 | #AH1#32 | 1 |  |  |  |
+| 42 | U$23 | #PAD1#4 | 1 |  |  |  |
+| 43 | U$21 | #INT1#25 | 1 |  |  |  |
+| 44 | U$26 | #PICO#13 | 1 |  |  |  |
+| 45 | U$42 | #SDX#20 | 1 |  |  |  |
+| 46 | U$25 | #I2C#11 | 1 |  |  |  |
+| 47 | LOGO2 | OSHW-LOGO-MINI | 1 | OSHW-LOGOMINI |  |  |
+| 48 | SDX0,LED0,SCX0 | SMT-JUMPER_2_NC_TRAC<br>E_SILK | 3 | JUMPER-SMT_2_NC_TRAC<br>E_SILK |  |  |
+| 49 | U$44 | SFE_LOGO_FLAME_.2 | 1 |  |  |  |
+| 50 | U$14 | #0X6B#11 | 1 |  |  |  |
+| 51 | U$41 | #1#4 | 1 |  |  |  |
+| 52 | U$20 | #OCS#32 | 1 |  |  |  |
+| 53 | U$8 | #INT2#2 | 1 |  |  |  |
+| 54 | I2C_PU0 | SMT-JUMPER_3_2-NC_TR<br>ACE_SILK | 1 | S_MODE |  |  |
+| 55 | U$43 | #SCX#19 | 1 |  |  |  |
+| 56 | U$27 | ##CS##8 | 1 |  |  |  |
+| 57 | U$13 | #0X6A#11 | 1 |  |  |  |
+| 58 | U$30 | #PAD2#4 | 1 |  |  |  |
+| 59 | U$16 | #LED#4 | 1 |  |  |  |
+| 60 | U$31 | 6DOF12 | 1 |  |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

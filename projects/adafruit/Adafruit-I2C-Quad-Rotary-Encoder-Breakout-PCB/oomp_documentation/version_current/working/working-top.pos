@@ -1,0 +1,59 @@
+### Footprint positions - created on Mon Jul 24 11:25:07 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                       PosX       PosY       Rot  Side
+A0                         SOLDERJUMPER_CLOSEDWIRE   143.8021   -99.3521   90.0000  top
+A1                         SOLDERJUMPER_CLOSEDWIRE   147.1041   -99.4156   90.0000  top
+A2                         SOLDERJUMPER_CLOSEDWIRE   150.4061   -99.4156   90.0000  top
+C1        1uF              0603-NO                   172.3136  -110.1471  -90.0000  top
+C2        10uF             0805-NO                   181.3941  -100.4316  180.0000  top
+C3        10uF             0805-NO                   153.3271  -102.1461  180.0000  top
+C4        0.1uF            0603-NO                   153.2636  -105.3846  180.0000  top
+C5        1uF              0603-NO                   153.2636  -103.7971  180.0000  top
+C6        1uF              0603-NO                   135.2296  -104.9401  -90.0000  top
+C7        1uF              0603-NO                   160.6931  -106.7816   90.0000  top
+CONN3     STEMMA_I2C_QTRA  JST_SH4_RA                116.1161  -105.1306  -90.0000  top
+CONN4     STEMMA_I2C_QTRA  JST_SH4_RA                180.7591  -105.1306   90.0000  top
+D1        RED              CHIPLED_0603_NOOUTLINE    133.7691  -113.8936   90.0000  top
+D2        GREEN            CHIPLED_0603_NOOUTLINE    183.3626  -110.7821  -90.0000  top
+FID1      FIDUCIAL_1MM     FIDUCIAL_1MM              174.0281   -95.8596    0.0000  top
+FID2      FIDUCIAL_1MM     FIDUCIAL_1MM              111.9886  -111.0361    0.0000  top
+IC1       ATTINY8X7-MU     QFN24_4MM                 143.6751  -105.0036  -135.0000  top
+JP1                        1X06_ROUND_70             148.5011   -96.1136  180.0000  top
+PLABEL0                    PLABEL0                   154.5971  -111.6076   90.0000  top
+PLABEL1                    PLABEL1                   152.3746  -112.3696    0.0000  top
+PLABEL2                    PLABEL2                   149.7711  -112.2426   90.0000  top
+PLABEL3                    PLABEL3                   147.1041  -112.2426   90.0000  top
+PLABEL4                    PLABEL4                   144.8181  -112.3061    0.0000  top
+PLABEL5                    PLABEL5                   182.5371  -114.0206    0.0000  top
+PLABEL6                    PLABEL6                   119.1006   -95.6056    0.0000  top
+PLABEL7                    PLABEL7                   119.1006  -100.6856    0.0000  top
+PLABEL8                    PLABEL8                   152.4381   -97.4471    0.0000  top
+PLABEL9                    PLABEL9                   157.3911   -96.1136    0.0000  top
+PLABEL10                   PLABEL10                  148.6281   -97.1931   90.0000  top
+PLABEL11                   PLABEL11                  146.0881   -97.1296   90.0000  top
+PLABEL12                   PLABEL12                  143.6751   -97.1296   90.0000  top
+PLABEL13                   PLABEL13                  152.1206   -99.2886   90.0000  top
+PLABEL14                   PLABEL14                  148.1836  -101.9556   90.0000  top
+PLABEL15                   PLABEL15                  142.0241  -100.3681   90.0000  top
+PLABEL16                   PLABEL16                  134.0231  -114.9731    0.0000  top
+R1        10K              0603-NO                   183.4896  -112.2426  180.0000  top
+R2        10K              0603-NO                   173.2026  -101.0666    0.0000  top
+R3        10K              0603-NO                   180.8861  -111.3536   90.0000  top
+R4        10K              0603-NO                   124.4981  -111.7346  -90.0000  top
+R5        10K              0603-NO                   133.8961  -112.4966    0.0000  top
+R6        10K              0603-NO                   153.3271   -99.5426  -90.0000  top
+R7        10K              0603-NO                   138.9761  -114.1476  180.0000  top
+R8        10K              0603-NO                   148.7551   -99.2886   90.0000  top
+R9        10K              0603-NO                   145.4531   -99.2886   90.0000  top
+U$2                        ADAFRUIT_3.5MM            131.7371   -98.6536    0.0000  top
+U$3       MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   167.5511   -96.7486    0.0000  top
+U$9                        ADAFRUIT_3.5MM            161.3281   -98.6536    0.0000  top
+U$17      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   129.4511   -96.7486    0.0000  top
+U$19      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   167.5511  -113.2586    0.0000  top
+U$21      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   129.4511  -113.2586    0.0000  top
+U$25                       PCBFEAT-REV-040           112.4966   -97.9551    0.0000  top
+U$30                       STEMMAQT                  111.5441  -115.5446    0.0000  top
+U$31                       STEMMAQT                  175.9331   -97.2566    0.0000  top
+## End

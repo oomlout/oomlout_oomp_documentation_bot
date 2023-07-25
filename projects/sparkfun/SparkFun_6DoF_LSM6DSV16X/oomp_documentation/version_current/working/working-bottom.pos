@@ -1,0 +1,46 @@
+### Footprint positions - created on Mon Jul 24 14:53:18 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+ADDR0     JUMPER-SMT_3_1-NC_TRACE_SILK  SMT-JUMPER_3_1-NC_TRACE_SILK   153.5811  -105.0036   90.0000  bottom
+FD1       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 140.2461   -93.3196  180.0000  bottom
+FD2       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 157.0355  -112.1156  180.0000  bottom
+I2C_PU0   S_MODE                        SMT-JUMPER_3_2-NC_TRACE_SILK   148.5011  -107.5436    0.0000  bottom
+LED0      JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     137.8839   -99.9236  180.0000  bottom
+LOGO2     OSHW-LOGOMINI                 OSHW-LOGO-MINI                 158.9405   -98.6218  180.0000  bottom
+PAD1      JUMPER-SMT_3_1-NC_TRACE_SILK  SMT-JUMPER_3_1-NC_TRACE_SILK   154.7241  -101.0666  180.0000  bottom
+PAD2      JUMPER-SMT_3_1-NC_TRACE_SILK  SMT-JUMPER_3_1-NC_TRACE_SILK   142.1511  -101.0666    0.0000  bottom
+SCX0      JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     146.4691  -101.0666  180.0000  bottom
+SDX0      JUMPER-SMT_2_NC_TRACE_SILK    SMT-JUMPER_2_NC_TRACE_SILK     150.4061  -101.0666    0.0000  bottom
+U$6                                     #POCI#11                       152.3111  -113.4872  -90.0000  bottom
+U$8                                     #INT2#2                        142.1511   -96.4946  -90.0000  bottom
+U$12                                    #AH1#32                        152.3111   -96.1136  -90.0000  bottom
+U$13                                    #0X6A#11                       150.9141  -105.8418  180.0000  bottom
+U$14                                    #0X6B#11                       150.9903  -104.1654  180.0000  bottom
+U$15                                    #3V3#1                         144.6911  -113.7412  -90.0000  bottom
+U$16                                    #LED#4                         137.8331   -98.3996  180.0000  bottom
+U$17                                    #GND#0                         142.1765  -113.7158  -90.0000  bottom
+U$19                                    #AH2#32                        149.7711   -96.2406  -90.0000  bottom
+U$20                                    #OCS#32                        147.2311   -96.2406  -90.0000  bottom
+U$21                                    #INT1#25                       144.6911   -96.3676  -90.0000  bottom
+U$23                                    #PAD1#4                        154.7241  -102.5906  180.0000  bottom
+U$25                                    #I2C#11                        148.5011  -109.1184  180.0000  bottom
+U$26                                    #PICO#13                       147.2311  -113.5380  -90.0000  bottom
+U$27                                    ##CS##8                        154.8765  -114.3508  -90.0000  bottom
+U$30                                    #PAD2#4                        142.0241  -102.5906  180.0000  bottom
+U$31                                    6DOF12                         138.8745  -107.2642  -90.0000  bottom
+U$32                                    #1#729                         156.9593  -101.0666  180.0000  bottom
+U$33                                    #POCIX#7                       154.8511   -96.9264  -90.0000  bottom
+U$37                                    X2114                          156.6291  -109.8296  180.0000  bottom
+U$38                                    Y2115                          159.9311  -110.7186  180.0000  bottom
+U$39                                    Z2116                          160.3121  -108.6866  180.0000  bottom
+U$41                                    #1#4                           139.8651  -101.0666  180.0000  bottom
+U$42                                    #SDX#20                        150.3807  -102.5652  180.0000  bottom
+U$43                                    #SCX#19                        146.4437  -102.5398  180.0000  bottom
+U$44                                    SFE_LOGO_FLAME_.2              143.4211  -107.5436  180.0000  bottom
+U$45                                    #0#4                           144.4371  -101.0666  180.0000  bottom
+U$46                                    LSM6DSV16X37                   137.1727  -107.6198  -90.0000  bottom
+U$48                                    #SCLK#4                        149.7711  -113.3856  -90.0000  bottom
+U$49                                    #0#4                           152.4381  -101.0666    0.0000  bottom
+## End

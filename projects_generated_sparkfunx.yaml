@@ -1,0 +1,296 @@
+- eagle_board_file_src: Hardware/Qwiic_1Wire_to_I2C_Bridge_DS28E17.brd
+  github: https://github.com/sparkfunX/1Wire_to_Qwiic_Bridge_DS28E17
+- eagle_board_file_src: Hardware/2DBarcodeScanner.brd
+  github: https://github.com/sparkfunX/2D_Barcode_Scanner
+- eagle_board_file_src: Hardware/A111_Pulsed_Radar_Breakout.brd
+  github: https://github.com/sparkfunX/A111_Pulsed_Radar_Breakout
+- eagle_board_file_src: Hardware/ARTIC_R2.brd
+  github: https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield
+- eagle_board_file_src: Hardware/Artemis_Global_Tracker.brd
+  github: https://github.com/sparkfunX/Artemis_Global_Tracker
+- eagle_board_file_src: Hardware/ARTIC_R2_Module_Breakout.brd
+  github: https://github.com/sparkfunX/ARTIC_R2_Module_Breakout
+- eagle_board_file_src: Hardware/atto84.brd
+  github: https://github.com/sparkfunX/Atto84
+- eagle_board_file_src: Hardware/Bluetooth_Mate_4.0.brd
+  github: https://github.com/sparkfunX/Bluetooth_Mate_4.0
+- eagle_board_file_src: Hardware/BufferSaver.brd
+  github: https://github.com/sparkfunX/BufferSaver
+- eagle_board_file_src: Hardware/CSS811_CO2_TVOC_Breakout.brd
+  github: https://github.com/sparkfunX/CCS811_Air_Quality_Breakout
+- eagle_board_file_src: Hardware/Configurable_RC_Filter.brd
+  github: https://github.com/sparkfunX/Configurable_RC_Filter
+- eagle_board_file_src: Eagle-Conversion/Example_Board_To_Convert.brd
+  github: https://github.com/sparkfunX/Desktop-PickAndPlace-CHMT36VA
+- eagle_board_file_src: 1.54in display/hardware/1.54in.brd
+  github: https://github.com/sparkfunX/ePaper
+- eagle_board_file_src: Hardware/esp32_lora_gateway.brd
+  github: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
+- eagle_board_file_src: Hardware/esp8266_ir_blaster.brd
+  github: https://github.com/sparkfunX/ESP8266_WiFi_IR_Blaster
+- eagle_board_file_src: Hardware/1.81_Greyscale_OLED_Breakout.brd
+  github: https://github.com/sparkfunX/Flexible_Grayscale_OLED
+- eagle_board_file_src: Hardware/GNSS_Splitter.brd
+  github: https://github.com/sparkfunX/GNSS_Splitter
+- eagle_board_file_src: Hardware/Inline DC Panel Meter - Display Holder.brd
+  github: https://github.com/sparkfunX/Inline-DC-Panel-Meter
+- eagle_board_file_src: Hardware/ARTIC_R2_Module.brd
+  github: https://github.com/sparkfunX/IOTA-ARTIC-R2-Module
+- eagle_board_file_src: Hardware/Iridium 9603N Test Header.brd
+  github: https://github.com/sparkfunX/Iridium_9603N_Test_Header
+- eagle_board_file_src: LED_Brightness_Adjuster.brd
+  github: https://github.com/sparkfunX/LED_Brightness_Adjuster
+- eagle_board_file_src: Hardware/LoRa_1W_Breakout.brd
+  github: https://github.com/sparkfunX/LoRa_1W_Breakout
+- eagle_board_file_src: hardware/Magnetic-Imaging-Tile.brd
+  github: https://github.com/sparkfunX/Magnetic_Imaging_Tile
+- eagle_board_file_src: Hardware/MicroMod_CAN-Bus_Function_Board.brd
+  github: https://github.com/sparkfunX/MicroMod_CAN-Bus_Function_Board
+- eagle_board_file_src: Hardware/MicroMod-Big Display-Carrier.brd
+  github: https://github.com/sparkfunX/MicroMod_Carrier_Big_Display
+- eagle_board_file_src: Hardware/ThingPlus_Micromod.brd
+  github: https://github.com/sparkfunX/MicroMod_Thing_Plus
+- eagle_board_file_src: Hardware/SparkX_Micro_NFC_RFID_Tag.brd
+  github: https://github.com/sparkfunX/Micro_RFID_Tag_ST25DV64KC_Qwiic
+- eagle_board_file_src: Hardware/MLX90393_Magnetometer_Breakout.brd
+  github: https://github.com/sparkfunX/MLX90393_Magnetometer_Breakout
+- eagle_board_file_src: Hardware/MOSFET_Power_Switch.brd
+  github: https://github.com/sparkfunX/MOSFET_Power_Switch
+- eagle_board_file_src: Hardware/MP3 Breakout.brd
+  github: https://github.com/sparkfunX/MP3_Breakout_WT2003S
+- eagle_board_file_src: Hardware/Bottom_PCB.brd
+  github: https://github.com/sparkfunX/Nuclear_Battery_Kit
+- eagle_board_file_src: Hardware/POE_Power_Supply.brd
+  github: https://github.com/sparkfunX/PoE_Power_Supply
+- eagle_board_file_src: Hardware/Pro_RF.brd
+  github: https://github.com/sparkfunX/Pro_RF
+- eagle_board_file_src: Hardware/SGP30 Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic-SGP30-Breakout
+- eagle_board_file_src: Hardware/Qwiic_1.8V_Adapter.brd
+  github: https://github.com/sparkfunX/Qwiic_1.8V_Adapter
+- eagle_board_file_src: Hardware/Qwiic_Accelerometer-MMA8452Q.brd
+  github: https://github.com/sparkfunX/Qwiic_Accelerometer-MMA8452Q
+- eagle_board_file_src: Hardware/Qwiic_Accelerometer_LIS2DH12.brd
+  github: https://github.com/sparkfunX/Qwiic_Accelerometer_LIS2DH12
+- eagle_board_file_src: Hardware/SparkFun Qwiic Adapter.brd
+  github: https://github.com/sparkfunX/Qwiic_Adapter
+- eagle_board_file_src: Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.brd
+  github: https://github.com/sparkfunX/Qwiic_Air_Quality_Combo_Board-CCS811-BME280
+- eagle_board_file_src: Hardware/Qwiic_Alphanumeric_Display.brd
+  github: https://github.com/sparkfunX/Qwiic_Alphanumeric_Display
+- eagle_board_file_src: Hardware/Qwiic_VEML7700.brd
+  github: https://github.com/sparkfunX/Qwiic_Ambient_Light_Sensor_VEML7700
+- eagle_board_file_src: Hardware/Qwiic_AS3935_Lightning_Detector.brd
+  github: https://github.com/sparkfunX/Qwiic_AS3935_Lightning_Detector
+- eagle_board_file_src: Hardware/Qwiic_ATECC608A.brd
+  github: https://github.com/sparkfunX/Qwiic_ATECC608A
+- eagle_board_file_src: Hardware/qwiic_blower.brd
+  github: https://github.com/sparkfunX/Qwiic_Blower_Fan
+- eagle_board_file_src: Hardware/Qwiic-Bluetooth-HC1X.brd
+  github: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
+- eagle_board_file_src: Hardware/Qwiic_BMI270.brd
+  github: https://github.com/sparkfunX/Qwiic_BMI270
+- eagle_board_file_src: Hardware/Qwiic_BMP388_Pressure_Sensor.brd
+  github: https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor
+- eagle_board_file_src: Hardware/Qwiic_Boost.brd
+  github: https://github.com/sparkfunX/Qwiic_Boost
+- eagle_board_file_src: Hardware/Qwiic_Button.brd
+  github: https://github.com/sparkfunX/Qwiic_Button
+- eagle_board_file_src: Hardware/Qwiic-Cellular-Notepad.brd
+  github: https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier
+- eagle_board_file_src: Hardware/Qwiic_Chirp_101.brd
+  github: https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder
+- eagle_board_file_src: Hardware/Qwiic-CO2_Sensor-SCD40.brd
+  github: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+- eagle_board_file_src: Hardware/STC31 Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_CO2_Sensor-STC31
+- eagle_board_file_src: Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.brd
+  github: https://github.com/sparkfunX/Qwiic_Differential_Pressure_Sensor-SDP31
+- eagle_board_file_src: Hardware/Qwiic Distance Sensor - VL53L1X.brd
+  github: https://github.com/sparkfunX/Qwiic_Distance_VL53L1X
+- eagle_board_file_src: Hardware/Qwiic EEPROM.brd
+  github: https://github.com/sparkfunX/Qwiic_EEPROM
+- eagle_board_file_src: Hardware/Qwiic_GPIO.brd
+  github: https://github.com/sparkfunX/Qwiic_GPIO
+- eagle_board_file_src: Hardware/Qwiic GPS - Titan X1.brd
+  github: https://github.com/sparkfunX/Qwiic_GPS-TitanX1
+- eagle_board_file_src: Hardware/Qwiic GPS - Ublox SAM-M8Q.brd
+  github: https://github.com/sparkfunX/Qwiic_GPS_SAM-M8Q
+- eagle_board_file_src: Hardware/Qwiic_Grideye.brd
+  github: https://github.com/sparkfunX/Qwiic_GridEye
+- eagle_board_file_src: Hardware/Qwiic_High_Performance_Magnetometer_X01.brd
+  github: https://github.com/sparkfunX/Qwiic_High_Performance_Magnetometer_MMC5983MA
+- eagle_board_file_src: Hardware/QwiicHUD.brd
+  github: https://github.com/sparkfunX/Qwiic_HUD
+- eagle_board_file_src: Hardware/AK9750 Human Movement Sensor Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_Human_Presence_Sensor-AK9750
+- eagle_board_file_src: Hardware/Qwiic AHT20 Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_Humidity_AHT20
+- eagle_board_file_src: Hardware/SHTC3 Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_Humidity_SHTC3
+- eagle_board_file_src: Hardware/Qwiic_I2C_Capacitor.brd
+  github: https://github.com/sparkfunX/Qwiic_I2C_Capacitor
+- eagle_board_file_src: Hardware/Qwiic_IMU_Bonobo.brd
+  github: https://github.com/sparkfunX/Qwiic_IMU_BNO080
+- eagle_board_file_src: Hardware/Qwiic_Iridium_9603N.brd
+  github: https://github.com/sparkfunX/Qwiic_Iridium_9603N
+- eagle_board_file_src: Hardware/sparkfun-mlx90640-qwiic-breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_IR_Array_MLX90640
+- eagle_board_file_src: Hardware/Qwiic Joystick_Eagle/Qwiic Joystick.brd
+  github: https://github.com/sparkfunX/Qwiic_Joystiic
+- eagle_board_file_src: Hardware/Mounting_Plate.brd
+  github: https://github.com/sparkfunX/Qwiic_Keyboard_Explorer
+- eagle_board_file_src: Hardware/Qwiic_keypad.brd
+  github: https://github.com/sparkfunX/Qwiic_Keypad
+- eagle_board_file_src: Hardware/Qwiic LED Stick.brd
+  github: https://github.com/sparkfunX/Qwiic_LED_Stick
+- eagle_board_file_src: Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd
+  github: https://github.com/sparkfunX/Qwiic_Lidar_Lite
+- eagle_board_file_src: Hardware/Qwiic_MLX90393_Magnetometer.brd
+  github: https://github.com/sparkfunX/Qwiic_Magnetometer-MLX90393
+- eagle_board_file_src: Hardware/Qwiic_MCP9600.brd
+  github: https://github.com/sparkfunX/Qwiic_MCP9600_Thermocouple
+- eagle_board_file_src: Hardware/Qwiic_OLED_Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_Micro_OLED
+- eagle_board_file_src: Hardware/Qwiic Module for Tessel 2.brd
+  github: https://github.com/sparkfunX/Qwiic_Module_for_Tessel_2
+- eagle_board_file_src: Hardware/Qwiic Multi Distance Sensor - VL53L3CX.brd
+  github: https://github.com/sparkfunX/Qwiic_Multi_Distance_VL53L3CX
+- eagle_board_file_src: Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.brd
+  github: https://github.com/sparkfunX/Qwiic_Multi_Port_Board
+- eagle_board_file_src: Hardware/Qwiic Mux.brd
+  github: https://github.com/sparkfunX/Qwiic_Mux-PCA9548A
+- eagle_board_file_src: Hardware/Qwiic_Mux_PCA9846.brd
+  github: https://github.com/sparkfunX/Qwiic_Mux_PCA9846
+- eagle_board_file_src: Hardware/Qwiic Mux Shield for Arduino.brd
+  github: https://github.com/sparkfunX/Qwiic_Mux_Shield_for_Arduino
+- eagle_board_file_src: Hardware/Qwiic_NonContact_Thermo_MLX90632.brd
+  github: https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632
+- eagle_board_file_src: Hardware/Qwiic_4_Pin_Fan_Controller.brd
+  github: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
+- eagle_board_file_src: Hardware/Qwiic PHT Sensor - MS8607.brd
+  github: https://github.com/sparkfunX/Qwiic_PHT_MS8607
+- eagle_board_file_src: Hardware/Qwiic PL-N823 IR Breakout.brd
+  github: https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout
+- eagle_board_file_src: Hardware/Qwiic_Power_Meter-ACS37800.brd
+  github: https://github.com/sparkfunX/Qwiic_Power_Meter-ACS37800
+- eagle_board_file_src: Hardware/Qwiic Power Switch.brd
+  github: https://github.com/sparkfunX/Qwiic_Power_Switch
+- eagle_board_file_src: Hardware/Qwiic Pressure Sensor - LPS25HB.brd
+  github: https://github.com/sparkfunX/Qwiic_Pressure-LPS25HB
+- eagle_board_file_src: Hardware/Qwiic Pressure Sensor - MS5637.brd
+  github: https://github.com/sparkfunX/Qwiic_Pressure-MS5637
+- eagle_board_file_src: Hardware/Qwiic Proximity Sensor - VCNL4040.brd
+  github: https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040
+- eagle_board_file_src: Hardware/Qwiic_PT100.brd
+  github: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
+- eagle_board_file_src: Hardware/Qwiic_Quad_Relay.brd
+  github: https://github.com/sparkfunX/Qwiic_Quad_Relay
+- eagle_board_file_src: Hardware/Qwiic_Relay.brd
+  github: https://github.com/sparkfunX/Qwiic_Relay
+- eagle_board_file_src: Hardware/Qwiic_LoRa.brd
+  github: https://github.com/sparkfunX/Qwiic_RF
+- eagle_board_file_src: Hardware/Qwiic RFID - IDXXLA.brd
+  github: https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA
+- eagle_board_file_src: Hardware/Qwiic_RFID_Tag.brd
+  github: https://github.com/sparkfunX/Qwiic_RFID_Tag
+- eagle_board_file_src: Hardware/Qwiic RGB Sensor - BH1749.brd
+  github: https://github.com/sparkfunX/Qwiic_RGB_BH1749
+- eagle_board_file_src: Hardware/Qwiic-RTC.brd
+  github: https://github.com/sparkfunX/Qwiic_RTC
+- eagle_board_file_src: Hardware/Qwiic Shield for Arduino.brd
+  github: https://github.com/sparkfunX/Qwiic_Shield_for_Arduino
+- eagle_board_file_src: Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd
+  github: https://github.com/sparkfunX/Qwiic_Shield_for_ESP32
+- eagle_board_file_src: Hardware/Qwiic_Shield_for_Photon.brd
+  github: https://github.com/sparkfunX/Qwiic_Shield_for_Photon
+- eagle_board_file_src: Hardware/Qwiic Shield for RaspberryPi.brd
+  github: https://github.com/sparkfunX/Qwiic_Shield_for_RaspberryPi
+- eagle_board_file_src: Hardware/Qwiic Sound Trigger.brd
+  github: https://github.com/sparkfunX/Qwiic_Sound_Trigger
+- eagle_board_file_src: Hardware/Qwiic_Spectral_Sensor-AS726x.brd
+  github: https://github.com/sparkfunX/Qwiic_Spectral_Sensor-AS726x
+- eagle_board_file_src: Hardware/Qwiic_Spectral_Sensor_AS7341.brd
+  github: https://github.com/sparkfunX/Qwiic_Spectral_Sensor-AS7341
+- eagle_board_file_src: Hardware/Qwiic-Step.brd
+  github: https://github.com/sparkfunX/Qwiic_Step
+- eagle_board_file_src: Hardware/Qwiic_Switch.brd
+  github: https://github.com/sparkfunX/Qwiic_Switch
+- eagle_board_file_src: Hardware/Qwiic_TMF8801.brd
+  github: https://github.com/sparkfunX/Qwiic_Time-of-Flight-TMF8801
+- eagle_board_file_src: Hardware/Qwiic_TMP117.brd
+  github: https://github.com/sparkfunX/Qwiic_TMP117
+- eagle_board_file_src: Hardware/Qwiic-USB_Hub.brd
+  github: https://github.com/sparkfunX/Qwiic_USB_Hub-USB2514B
+- eagle_board_file_src: Hardware/Qwiic UV Sensor - ZOPT220x.brd
+  github: https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x
+- eagle_board_file_src: Hardware/Qwiic_UV_Sensor_VEML6075.brd
+  github: https://github.com/sparkfunX/Qwiic_UV_VEML6075
+- eagle_board_file_src: hardware/modified_eagle_files/RedBoard.brd
+  github: https://github.com/sparkfunX/RedBoard_Edge
+- eagle_board_file_src: Hardware/SparkFun_RFM97CW_Breakout.brd
+  github: https://github.com/sparkfunX/RFM97CW_Breakout
+- eagle_board_file_src: Hardware/RGB_PMOLED_0.6IN.brd
+  github: https://github.com/sparkfunX/RGB-OLED-Breakout-64x64-0.6
+  github: https://github.com/sparkfunX/RGBmatrixPanelHalfScan
+  github: https://github.com/sparkfunX/RGB_Panel_Arduino_Shield
+- eagle_board_file_src: Hardware/RGB 32x64 Shield for Arduino Mega.brd
+  github: https://github.com/sparkfunX/RGB_Panel_Mega_Shield
+- eagle_board_file_src: Hardware/Layout/Robotic_Finger_Sensor.brd
+  github: https://github.com/sparkfunX/Robotic_Finger_Sensor
+- eagle_board_file_src: Hardware/Plate/plate.brd
+  github: https://github.com/sparkfunX/Rotary_Dial
+- eagle_board_file_src: Hardware/Safe Cracker Shield.brd
+  github: https://github.com/sparkfunX/Safe_Cracker
+- eagle_board_file_src: Hardware/SAMD21_Pro_RF_1W.brd
+  github: https://github.com/sparkfunX/SAMD21_ProRF_1W
+- eagle_board_file_src: Hardware/Satellite_Transceiver_Breakout__Swarm_M138.brd
+  github: https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138
+- eagle_board_file_src: Hardware/Satellite_Transceiver_Function_Board__Swarm_M138.brd
+  github: https://github.com/sparkfunX/Satellite_Transceiver_Function_Board__Swarm_M138
+- eagle_board_file_src: Hardware/QSPI-Breakout.brd
+  github: https://github.com/sparkfunX/SerialFlash-Breakout
+- eagle_board_file_src: Hardware/Sno_Shoe.brd
+  github: https://github.com/sparkfunX/Sno_Shoe
+- eagle_board_file_src: Hardware/SparkFun Soft Power Switch.brd
+  github: https://github.com/sparkfunX/Soft_Power_Switch
+- eagle_board_file_src: Hardware/SparkFun ESP32 Thing Plus C.brd
+  github: https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C
+- eagle_board_file_src: Hardware/SparkFun Valve Control Shield.brd
+  github: https://github.com/sparkfunX/SparkFun_Valve_Control_Shield
+- eagle_board_file_src: Hardware/SparkX-Pi-Filter.brd
+  github: https://github.com/sparkfunX/SparkX-Pi-Filter-Breakout
+- eagle_board_file_src: Hardware/SGP40 Breakout.brd
+  github: https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40
+- eagle_board_file_src: Hardware/SparkX_smol_ARTIC_R2.brd
+  github: https://github.com/sparkfunX/SparkX_smol_ARTIC_R2
+- eagle_board_file_src: Hardware/SparkX_smol_Dynamic_NFC_RFID_Tag.brd
+  github: https://github.com/sparkfunX/SparkX_smol_Dynamic_NFC_RFID_Tag
+- eagle_board_file_src: Hardware/SparkX_smol_Environmental.brd
+  github: https://github.com/sparkfunX/SparkX_smol_Environmental
+- eagle_board_file_src: Hardware/SparkX_smol_ESP32.brd
+  github: https://github.com/sparkfunX/SparkX_smol_ESP32
+- eagle_board_file_src: Hardware/16_POS_0_5MM_PITCH_36MM_LENGTH.brd
+  github: https://github.com/sparkfunX/SparkX_smol_FPC_16-way_36mm
+- eagle_board_file_src: Hardware/SparkX_smol_Header.brd
+  github: https://github.com/sparkfunX/SparkX_smol_Header
+- eagle_board_file_src: Hardware/SparkX_smol_Display.brd
+  github: https://github.com/sparkfunX/SparkX_smol_OLED_Display
+- eagle_board_file_src: Hardware/SparkX_smol_Power_AAA.brd
+  github: https://github.com/sparkfunX/SparkX_smol_Power_Board_AAA
+- eagle_board_file_src: Hardware/SparkX_smol_LiPo_Power.brd
+  github: https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo
+- eagle_board_file_src: Hardware/SparkX_smol_ZOE-M8Q.brd
+  github: https://github.com/sparkfunX/SparkX_smol_ZOE-M8Q
+- eagle_board_file_src: Hardware/Thermostat_ADT6401_Breakout.brd
+  github: https://github.com/sparkfunX/Thermostat_ADT6401_Breakout
+- eagle_board_file_src: hardware/The_QwiicNES.brd
+  github: https://github.com/sparkfunX/The_QwiicNES_Controller_Breakout
+- eagle_board_file_src: Hardware/SparkFun_TMC6300_Breakout.brd
+  github: https://github.com/sparkfunX/Three_Phase_Motor_Driver-TMC6300
+- eagle_board_file_src: Hardware/ZED-F9P_NEO-D9S_Combo.brd
+  github: https://github.com/sparkfunX/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout
+- eagle_board_file_src: Hardware/RFID_Antenna.brd
+  github: https://github.com/sparkfunX/UHF_RFID_Ring_Antenna
+- eagle_board_file_src: Hardware/USB_Current_Sensor.brd
+  github: https://github.com/sparkfunX/USB_Current_Sensor

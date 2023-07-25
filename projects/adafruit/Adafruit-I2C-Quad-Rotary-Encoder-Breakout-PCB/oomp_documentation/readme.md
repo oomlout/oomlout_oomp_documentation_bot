@@ -1,0 +1,65 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | C3,C2 | 0805-NO | 2 | 10uF |  |  |
+| 2 | U$30,U$31 | STEMMAQT | 2 |  |  |  |
+| 3 | R1,R2,R3,R5,R9,R4,R8<br>,R6,R7 | 0603-NO | 9 | 10K |  |  |
+| 4 | FID1,FID2 | FIDUCIAL_1MM | 2 | FIDUCIAL_1MM |  |  |
+| 5 | A1,A0,A2 | SOLDERJUMPER_CLOSEDW<br>IRE | 3 |  |  |  |
+| 6 | PLABEL4 | PLABEL4 | 1 |  |  |  |
+| 7 | PLABEL3 | PLABEL3 | 1 |  |  |  |
+| 8 | PLABEL7 | PLABEL7 | 1 |  |  |  |
+| 9 | U$17,U$3,U$19,U$21 | MOUNTINGHOLE_2.5_PLA<br>TED | 4 | MOUNTINGHOLE2.5 |  |  |
+| 10 | D1 | CHIPLED_0603_NOOUTLI<br>NE | 1 | RED |  |  |
+| 11 | PLABEL9 | PLABEL9 | 1 |  |  |  |
+| 12 | U$25 | PCBFEAT-REV-040 | 1 |  |  |  |
+| 13 | PLABEL8 | PLABEL8 | 1 |  |  |  |
+| 14 | C5,C1,C7,C6 | 0603-NO | 4 | 1uF |  |  |
+| 15 | CONN4,CONN3 | JST_SH4_RA | 2 | STEMMA_I2C_QTRA |  |  |
+| 16 | PLABEL12 | PLABEL12 | 1 |  |  |  |
+| 17 | PLABEL0 | PLABEL0 | 1 |  |  |  |
+| 18 | PLABEL6 | PLABEL6 | 1 |  |  |  |
+| 19 | D2 | CHIPLED_0603_NOOUTLI<br>NE | 1 | GREEN |  |  |
+| 20 | PLABEL10 | PLABEL10 | 1 |  |  |  |
+| 21 | PLABEL13 | PLABEL13 | 1 |  |  |  |
+| 22 | C4 | 0603-NO | 1 | 0.1uF |  |  |
+| 23 | PLABEL2 | PLABEL2 | 1 |  |  |  |
+| 24 | U$9,U$2 | ADAFRUIT_3.5MM | 2 |  |  |  |
+| 25 | PLABEL14 | PLABEL14 | 1 |  |  |  |
+| 26 | IC1 | QFN24_4MM | 1 | ATTINY8X7-MU |  |  |
+| 27 | PLABEL1 | PLABEL1 | 1 |  |  |  |
+| 28 | PLABEL11 | PLABEL11 | 1 |  |  |  |
+| 29 | PLABEL16 | PLABEL16 | 1 |  |  |  |
+| 30 | PLABEL15 | PLABEL15 | 1 |  |  |  |
+| 31 | PLABEL5 | PLABEL5 | 1 |  |  |  |
+| 32 | JP1,JP5 | 1X06_ROUND_70 | 2 |  |  |  |
+| 33 | PLABEL18 | PLABEL18 | 1 |  |  |  |
+| 34 | PLABEL30 | PLABEL30 | 1 |  |  |  |
+| 35 | ENC1,ENC3,ENC2,ENC4 | PEC11+SWITCH | 4 |  |  |  |
+| 36 | LED1,LED2,LED3,LED4 | NEO3535_REVERSE | 4 | WS2812B_SK6812E |  |  |
+| 37 | PLABEL22 | PLABEL22 | 1 |  |  |  |
+| 38 | PLABEL31 | PLABEL31 | 1 |  |  |  |
+| 39 | PLABEL29 | PLABEL29 | 1 |  |  |  |
+| 40 | PLABEL23 | PLABEL23 | 1 |  |  |  |
+| 41 | PLABEL19 | PLABEL19 | 1 |  |  |  |
+| 42 | PLABEL27 | PLABEL27 | 1 |  |  |  |
+| 43 | PLABEL25 | PLABEL25 | 1 |  |  |  |
+| 44 | PLABEL21 | PLABEL21 | 1 |  |  |  |
+| 45 | PLABEL20 | PLABEL20 | 1 |  |  |  |
+| 46 | PLABEL26 | PLABEL26 | 1 |  |  |  |
+| 47 | PLABEL17 | PLABEL17 | 1 |  |  |  |
+| 48 | PLABEL24 | PLABEL24 | 1 |  |  |  |
+| 49 | PLABEL32 | PLABEL32 | 1 |  |  |  |
+| 50 | PLABEL28 | PLABEL28 | 1 |  |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

@@ -1,0 +1,10 @@
+directory: projects/sparkfun/MPU-9150_Breakout/
+eagle_board_file_src:
+  version_current: hardware/mpu-9150_breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: hardware/mpu-9150_breakout.sch
+github: https://github.com/sparkfun/MPU-9150_Breakout
+github_project: MPU-9150_Breakout
+github_user: sparkfun
+oomp_in_output: true

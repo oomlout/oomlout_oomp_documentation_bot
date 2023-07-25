@@ -1,0 +1,31 @@
+### Footprint positions - created on Mon Jul 24 11:25:07 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                PosX       PosY       Rot  Side
+ENC1                       PEC11+SWITCH       177.0761  -105.0036   90.0000  bottom
+ENC2                       PEC11+SWITCH       158.0261  -105.0036   90.0000  bottom
+ENC3                       PEC11+SWITCH       138.9761  -105.0036   90.0000  bottom
+ENC4                       PEC11+SWITCH       119.9261  -105.0036   90.0000  bottom
+JP5                        1X06_ROUND_70      148.5011  -113.8936  180.0000  bottom
+LED1      WS2812B_SK6812E  NEO3535_REVERSE    177.0761  -105.0036  -90.0000  bottom
+LED2      WS2812B_SK6812E  NEO3535_REVERSE    158.0261  -105.0036  -90.0000  bottom
+LED3      WS2812B_SK6812E  NEO3535_REVERSE    138.5951  -105.0036   90.0000  bottom
+LED4      WS2812B_SK6812E  NEO3535_REVERSE    119.9261  -105.0036  -90.0000  bottom
+PLABEL17                   PLABEL17           154.2161   -97.7646  180.0000  bottom
+PLABEL18                   PLABEL18           152.2476   -97.6376  180.0000  bottom
+PLABEL19                   PLABEL19           149.6441   -97.7646  180.0000  bottom
+PLABEL20                   PLABEL20           146.9771   -97.6376  180.0000  bottom
+PLABEL21                   PLABEL21           144.3101   -97.7011  180.0000  bottom
+PLABEL22                   PLABEL22           154.0891  -112.3696  180.0000  bottom
+PLABEL23                   PLABEL23           152.1206  -112.3696  180.0000  bottom
+PLABEL24                   PLABEL24           149.7711  -112.2426   90.0000  bottom
+PLABEL25                   PLABEL25           147.3581  -112.2426   90.0000  bottom
+PLABEL26                   PLABEL26           144.5641  -112.3061  180.0000  bottom
+PLABEL27                   PLABEL27           176.9491  -114.1476  180.0000  bottom
+PLABEL28                   PLABEL28           158.0261  -114.1476  180.0000  bottom
+PLABEL29                   PLABEL29           138.8491  -114.0206  180.0000  bottom
+PLABEL30                   PLABEL30           119.7991  -114.1476  180.0000  bottom
+PLABEL31                   PLABEL31           176.8221   -95.7326  180.0000  bottom
+PLABEL32                   PLABEL32           119.4181   -95.9866  180.0000  bottom
+## End

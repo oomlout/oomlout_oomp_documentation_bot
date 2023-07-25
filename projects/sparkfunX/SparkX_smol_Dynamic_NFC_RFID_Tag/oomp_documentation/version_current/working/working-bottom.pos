@@ -1,0 +1,16 @@
+### Footprint positions - created on Mon Jul 24 10:17:45 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                    PosX       PosY       Rot  Side
+FD2       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO         143.8021   -85.3186  180.0000  bottom
+FD4       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO         153.2001  -124.6886  180.0000  bottom
+IN0                             FPC_16_0.5MM           148.5011   -86.7791  180.0000  bottom
+JP1       JUMPER-SMT_3_NO_SILK  SMT-JUMPER_3_NO_SILK   148.5011  -113.2586   90.0000  bottom
+LOGO3     OSHW-LOGOMINI         OSHW-LOGO-MINI         145.7071  -105.0036  -90.0000  bottom
+U$4                             SM�L_NFC#RFID_TAG0   150.7871  -105.0036  -90.0000  bottom
+U$5                             #I�C#0               146.4056  -113.1951  -90.0000  bottom
+U$8                             IN0                    148.5011   -90.8431  180.0000  bottom
+U$9       SMOL_LOGOSMALL        SMOL_SMALL             148.5011   -89.5096  180.0000  bottom
+U$20      SPARKX-LOGO3          SPARKX-SMALL           148.5011  -105.0036  -90.0000  bottom
+## End

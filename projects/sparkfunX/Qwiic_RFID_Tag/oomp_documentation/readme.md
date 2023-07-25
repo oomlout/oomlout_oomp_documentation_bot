@@ -1,0 +1,45 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | FD4,FD2,FD3,FD1 | FIDUCIAL-1X2 | 4 | FIDUCIAL1X2 |  |  |
+| 2 | R2,R1 | 0603 | 2 | 2.2k |  |  |
+| 3 | FRAME1 | DUMMY | 1 | FRAME-LETTERNO_PACKA<br>GE |  |  |
+| 4 | C1 | 0603 | 1 | 0.1uF |  |  |
+| 5 | R3 | 0603 | 1 | 1k |  |  |
+| 6 | U$7,U$22 | ##GPO##8 | 2 |  |  |  |
+| 7 | H4,H2,H3,H1 | STAND-OFF | 4 | STAND-OFF |  |  |
+| 8 | U1 | SO08 | 1 | ST25DV64KC |  |  |
+| 9 | U$9 | PWR11 | 1 |  |  |  |
+| 10 | U$10,U$11 | DYNAMIC_RFID_TAG0 | 2 |  |  |  |
+| 11 | U$13,U$24 | ST25DV64KC5984 | 2 |  |  |  |
+| 12 | D1 | LED-0603 | 1 | RED |  |  |
+| 13 | R4 | 0603 | 1 | 10k |  |  |
+| 14 | U$4,U$18 | #GND#4 | 2 |  |  |  |
+| 15 | U$5,U$20 | #SDA#5 | 2 |  |  |  |
+| 16 | U$8,U$23 | #VEH#7 | 2 |  |  |  |
+| 17 | LOGO3 | QWIIC_7MM | 1 | QWIIC_LOGO_7MM |  |  |
+| 18 | J3 | 1X06_NO_SILK | 1 |  |  |  |
+| 19 | J2,J1 | JST04_1MM_RA | 2 | Qwiic |  |  |
+| 20 | U$6,U$21 | #SCL#6 | 2 |  |  |  |
+| 21 | U$3,U$19 | #3#3V#0 | 2 |  |  |  |
+| 22 | U$1,U$2 | SPARKX-LARGE | 2 | SPARKX-LOGO5 |  |  |
+| 23 | C2 | 0603 | 1 | 4.7pF |  |  |
+| 24 | L1 | PCB_4UH_INDUCTOR | 1 | PCB_4UH_INDUCTOR |  |  |
+| 25 | U$16 | ##GPO##9 | 1 |  |  |  |
+| 26 | LOGO1 | OSHW-LOGO-MINI | 1 | OSHW-LOGOMINI |  |  |
+| 27 | U$15 | #I2C#11 | 1 |  |  |  |
+| 28 | U$17 | #LED#10 | 1 |  |  |  |
+| 29 | JP1 | SMT-JUMPER_3_2-NC_TR<br>ACE_SILK | 1 | JUMPER-SMT_3_2-NC_TR<br>ACE_SILK |  |  |
+| 30 | JP3,JP2 | SMT-JUMPER_2_NC_TRAC<br>E_SILK | 2 | JUMPER-SMT_2_NC_TRAC<br>E_SILK |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

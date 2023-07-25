@@ -1,0 +1,62 @@
+### Footprint positions - created on Mon Jul 24 12:55:44 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                      PosX       PosY       Rot  Side
+C8        4.7uF                       0603                     130.5646   -54.7986  180.0000  bottom
+C9        4.7uF                       0603                     130.5646   -61.7986  180.0000  bottom
+C10       10uF                        0603                     161.5646   -60.7986  -90.0000  bottom
+C11       0.1uF                       0603                     159.5646   -60.7986  -90.0000  bottom
+C12       0.1uF                       0603                     161.5646   -64.7986  -90.0000  bottom
+C13       0.1uF                       0603                     132.5646   -63.7986    0.0000  bottom
+C14       10uF                        0603                     132.5646   -65.7986    0.0000  bottom
+C21       0.1uF                       0603                     160.5646   -72.7986    0.0000  bottom
+D7        3A/10V/280mV                SOD-323                  137.5646   -60.7986   90.0000  bottom
+J4        Qwiic_Right_Angle           JST04_1MM_RA             148.5646  -155.3286  180.0000  bottom
+J7                                    1X04_NO_SILK             177.0646   -74.8986   90.0000  bottom
+J10                                   1X02_NO_SILK             135.9166   -55.4046  -90.0000  bottom
+J16       MICRO-SD-PUSH-PUSH-EXT-PIN  MICROSD-EXTERNALPIN      168.1646  -156.7986  180.0000  bottom
+JP71      FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO           177.7746  -155.7886  180.0000  bottom
+JP81      FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO           119.5346   -54.9086  180.0000  bottom
+LOGO1     OSHW-LOGOMINI               OSHW-LOGO-MINI           116.8146   -85.2086  180.0000  bottom
+LOGO2     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1   148.5646  -103.7986  180.0000  bottom
+Q2        MBT3904DW1T1                SC70-6                   126.5646   -71.7986   90.0000  bottom
+R1        470                         0603                     171.5646   -59.7986  180.0000  bottom
+R5        0                           0603                     125.5646   -56.7986  180.0000  bottom
+R7        1k                          0603                     128.2446   -58.5386   90.0000  bottom
+R13       100k                        0603                     160.5646   -69.7986    0.0000  bottom
+R18       10k                         0603                     125.5646   -52.7986  180.0000  bottom
+R20       100k                        0603                     159.5646   -64.7986  -90.0000  bottom
+R23       10k                         0603                     126.5646   -74.7986    0.0000  bottom
+R29       10k                         0603                     126.5646   -68.7986  180.0000  bottom
+R30       150k                        0603                     125.5646   -54.7986  180.0000  bottom
+R33       10k                         0603                     160.5546   -77.2486  180.0000  bottom
+R34       3.3k                        0603                     160.5546   -79.7886    0.0000  bottom
+U$3                                   #TX_RDY#0                126.1646  -130.7986  180.0000  bottom
+U$7                                   RTK0                     148.5646  -106.7986  180.0000  bottom
+U$10                                  #RTK#1                   171.0956  -133.2556  180.0000  bottom
+U$11                                  #PPS#0                   130.0646  -140.9986  180.0000  bottom
+U$12                                  EXPRESS_PLUS0            148.5646  -109.7986  180.0000  bottom
+U$14                                  #RX#2                    116.8146  -128.8966  -90.0000  bottom
+U$16                                  ZED0                     118.5926  -129.2776   90.0000  bottom
+U$17                                  ##SAFE##5                130.0646  -138.3986  180.0000  bottom
+U$28                                  ##RST##4                 130.1646  -135.7986  180.0000  bottom
+U$30                                  QWIIC_4MM                148.5646  -153.4236  180.0000  bottom
+U$32                                  #FENCE#3                 171.0956  -135.7956  180.0000  bottom
+U$33                                  CHG2                     174.3646   -72.2986  180.0000  bottom
+U$34                                  GND3                     174.4646   -74.8986  180.0000  bottom
+U$41                                  PWR0                     174.2646   -67.2986  180.0000  bottom
+U$42                                  SETUP1                   173.4646   -69.8986  180.0000  bottom
+U$60                                  #ESP_RST#0               176.5046   -62.0946  180.0000  bottom
+U$70                                  #GND#2                   116.5046  -115.4986   90.0000  bottom
+U$72                                  #TX#1                    116.8146  -121.7846  -90.0000  bottom
+U$83                                  MICROSD0                 176.3026  -147.8606  -90.0000  bottom
+U$84                                  #GND#1                   176.5046   -64.6346  180.0000  bottom
+U$85                                  #3V3#2                   119.1046  -115.4986   90.0000  bottom
+U$86                                  #SCL#1                   124.2046  -115.2986   90.0000  bottom
+U$87                                  #SDA#0                   121.6046  -115.4986   90.0000  bottom
+U$88                                  #D_SEL#0                 126.9646  -133.3986  180.0000  bottom
+U5        ESP-WROOM-3232D             ESP-WROOM-32D            148.5646   -64.7986   90.0000  bottom
+U6        CH340C                      SO016                    132.5646   -71.7986  -90.0000  bottom
+U10       MCP73833                    DFN-10                   130.5646   -58.7986   90.0000  bottom
+## End

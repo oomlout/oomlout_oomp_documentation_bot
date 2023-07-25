@@ -1,0 +1,35 @@
+### Footprint positions - created on Mon Jul 24 11:13:56 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                       PosX       PosY       Rot  Side
+C1        0.1uF            0603-NO                   147.4851  -102.2096    0.0000  top
+C2        0.1uF            0603-NO                   143.6751   -97.3836    0.0000  top
+C3        0.1uF            0603-NO                   150.6601  -107.4166    0.0000  top
+C4        10uF             0805-NO                   146.0881  -109.3216  180.0000  top
+C5        220pF            0603-NO                   150.6601  -102.2096  180.0000  top
+C6        220pF            0603-NO                   152.8191  -109.4486  180.0000  top
+C7        10uF             0805-NO                   149.5171  -109.3216    0.0000  top
+D2        GREEN            CHIPLED_0603_NOOUTLINE    138.2141  -111.3536   90.0000  top
+FB1       Ferrite          0603-NO                   152.9461  -106.4006  -90.0000  top
+FB2       Ferrite          0603-NO                   152.9461  -103.0986   90.0000  top
+FID2      FIDUCIAL_1MM     FIDUCIAL_1MM              141.2621  -113.1316    0.0000  top
+FID3      FIDUCIAL_1MM     FIDUCIAL_1MM              155.8036   -97.3201    0.0000  top
+JP1       0.1"_Header      1X03_OVAL                 138.4681  -105.0036  -90.0000  top
+JP2                        1X05_ROUND_70             149.7711  -111.9886    0.0000  top
+PLABEL0                    PLABEL0                   137.1981  -113.1316    0.0000  top
+PLABEL1                    PLABEL1                   152.4381  -101.4476   90.0000  top
+PLABEL2                    PLABEL2                   137.8331   -98.0186    0.0000  top
+R1        30K              0603-NO                   143.6751   -98.9076    0.0000  top
+R2        30K              0603-NO                   147.4851  -107.4166  180.0000  top
+R3        10K              0603-NO                   141.2621  -111.3536    0.0000  top
+R4        10K_Trim         RTRIM3314J                148.7551   -99.1616   90.0000  top
+U$1       MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   158.6611  -111.3536    0.0000  top
+U$3                        SYMBOL_PLUS               155.9941  -109.7026    0.0000  top
+U$8       MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   158.6611   -98.6536    0.0000  top
+U$9                        SYMBOL_MINUS              155.9941  -100.1776    0.0000  top
+U$19                       ADAFRUIT_2.5MM            153.2001  -100.0506    0.0000  top
+U2        PAM8302          MSOP8_0.65MM              149.2631  -104.8766  -90.0000  top
+X2        3.5mm            TERMBLOCK_1X2-3.5MM       157.3911  -105.0036   90.0000  top
+X4        JST_PH_3         JSTPH3                    140.4366  -105.0036   90.0000  top
+## End

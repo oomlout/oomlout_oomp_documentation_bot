@@ -1,0 +1,10 @@
+directory: projects/sparkfun/OpenLog/
+eagle_board_file_src:
+  version_current: hardware/OpenLog.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: hardware/OpenLog.sch
+github: https://github.com/sparkfun/OpenLog
+github_project: OpenLog
+github_user: sparkfun
+oomp_in_output: true

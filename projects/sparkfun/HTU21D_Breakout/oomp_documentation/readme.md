@@ -1,0 +1,26 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | C1 | 0603-CAP | 1 | 0.1uF |  |  |
+| 2 | LOGO1 | SFE-LOGO-FLAME | 1 | LOGO-SFESK |  |  |
+| 3 | JP3,JP4 | MICRO-FIDUCIAL | 2 | FIDUCIALUFIDUCIAL |  |  |
+| 4 | JP1 | 1X04 | 1 |  |  |  |
+| 5 | STANDOFF1,STANDOFF2 | STAND-OFF | 2 | STAND-OFF |  |  |
+| 6 | FRAME2 | CREATIVE_COMMONS | 1 | FRAME-LETTER |  |  |
+| 7 | U1 | HTU21D | 1 | HTU21D |  |  |
+| 8 | R2,R1 | 0603-RES | 2 | 4.7k |  |  |
+| 9 | SJ1 | SJ_3_PASTE1&2&3 | 1 |  |  |  |
+| 10 | LOGO2 | OSHW-LOGO-S | 1 | OSHW-LOGOS |  |  |
+| 11 | JP2 | SFE-NEW-WEB | 1 | LOGO-SFENW2 |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

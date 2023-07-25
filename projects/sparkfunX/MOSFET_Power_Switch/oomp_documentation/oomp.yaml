@@ -1,0 +1,10 @@
+directory: projects/sparkfunX/MOSFET_Power_Switch/
+eagle_board_file_src:
+  version_current: Hardware/MOSFET_Power_Switch.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/MOSFET_Power_Switch.sch
+github: https://github.com/sparkfunX/MOSFET_Power_Switch
+github_project: MOSFET_Power_Switch
+github_user: sparkfunX
+oomp_in_output: true

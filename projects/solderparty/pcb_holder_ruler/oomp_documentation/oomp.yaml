@@ -1,0 +1,6 @@
+directory: projects/solderparty/pcb_holder_ruler/
+github: https://github.com/solderparty/pcb_holder_ruler
+github_project: pcb_holder_ruler
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

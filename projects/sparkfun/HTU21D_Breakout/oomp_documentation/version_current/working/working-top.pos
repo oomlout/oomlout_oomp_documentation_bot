@@ -1,0 +1,19 @@
+### Footprint positions - created on Mon Jul 24 15:28:42 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                Package                PosX       PosY       Rot  Side
+C1         0.1uF              0603-CAP           148.5011  -105.0036    0.0000  top
+FRAME2     FRAME-LETTER       CREATIVE_COMMONS   128.1811  -121.5136    0.0000  top
+JP1                           1X04               152.3111   -98.6536  180.0000  top
+JP3        FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL     142.1511   -98.6536    0.0000  top
+JP4        FIDUCIALUFIDUCIAL  MICRO-FIDUCIAL     154.8511  -107.5436    0.0000  top
+LOGO1      LOGO-SFESK         SFE-LOGO-FLAME     153.4223  -106.2101    0.0000  top
+LOGO2      OSHW-LOGOS         OSHW-LOGO-S        142.7861  -105.0036    0.0000  top
+R1         4.7k               0603-RES           152.3111  -102.4636  180.0000  top
+R2         4.7k               0603-RES           144.6911  -102.4636    0.0000  top
+SJ1                           SJ_3_PASTE1&2&3    148.5011  -102.4636    0.0000  top
+STANDOFF1  STAND-OFF          STAND-OFF          153.5811  -110.0836    0.0000  top
+STANDOFF2  STAND-OFF          STAND-OFF          143.4211  -110.0836    0.0000  top
+U1         HTU21D             HTU21D             148.5011  -108.8136    0.0000  top
+## End

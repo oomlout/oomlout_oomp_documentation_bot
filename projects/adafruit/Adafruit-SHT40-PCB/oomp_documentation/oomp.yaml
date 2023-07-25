@@ -1,0 +1,10 @@
+directory: projects/adafruit/Adafruit-SHT40-PCB/
+eagle_board_file_src:
+  version_current: Adafruit SHT45.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Adafruit SHT45.sch
+github: https://github.com/adafruit/Adafruit-SHT40-PCB
+github_project: Adafruit-SHT40-PCB
+github_user: adafruit
+oomp_in_output: true

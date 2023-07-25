@@ -1,0 +1,8 @@
+### Footprint positions - created on Mon Jul 24 11:47:33 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                PosX       PosY       Rot  Side
+J1        AVR_SPI_PRG_6PTH  2X3                125.0061  -103.7336  -90.0000  bottom
+LOGO2     LOGO-SFENEW       SFE-NEW-WEBLOGO    156.7561  -103.7336  180.0000  bottom
+## End

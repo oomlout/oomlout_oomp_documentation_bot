@@ -1,0 +1,4 @@
+- eagle_board_file_src: vocore-evk.brd
+  github: https://github.com/omerk/vocore-evk
+- eagle_board_file_src: Debug-Adapter/zzh-debug.brd
+  github: https://github.com/omerk/zig-a-zig-ah

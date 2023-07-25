@@ -1,0 +1,10 @@
+directory: projects/sparkfun/Solderable_Breadboard_Mini/
+eagle_board_file_src:
+  version_current: hardware/solderable_breadboard_mini.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: hardware/solderable_breadboard_mini.sch
+github: https://github.com/sparkfun/Solderable_Breadboard_Mini
+github_project: Solderable_Breadboard_Mini
+github_user: sparkfun
+oomp_in_output: true

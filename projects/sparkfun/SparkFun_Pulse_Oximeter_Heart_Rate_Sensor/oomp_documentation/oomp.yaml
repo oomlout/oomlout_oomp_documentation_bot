@@ -1,0 +1,10 @@
+directory: projects/sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun_Pulse_Oximeter_Heart-Rate_Sensor.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun_Pulse_Oximeter_Heart-Rate_Sensor.sch
+github: https://github.com/sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor
+github_project: SparkFun_Pulse_Oximeter_Heart_Rate_Sensor
+github_user: sparkfun
+oomp_in_output: true

@@ -1,8 +1,0 @@
-directory: projects/MeArm/MeArm_microbit_pcb/
-github: https://github.com/MeArm/MeArm_microbit_pcb
-github_project: MeArm_microbit_pcb
-github_user: MeArm
-kicad_directory: projects/MeArm/MeArm_microbit_pcb/oomp_documentation/src/version_current/working/
-kicad_src_directory:
-  version_current: /
-oomp_in_output: true

@@ -1,0 +1,32 @@
+### Footprint positions - created on Mon Jul 24 12:21:31 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                     PosX       PosY       Rot  Side
+C3        10uF                           0603                    156.1211   -99.9236  180.0000  top
+C4        22uF                           0805                    156.8831  -107.7976    0.0000  top
+C6        1.0uF                          0402-TIGHT              142.1816  -102.6109   90.0000  top
+C7        1.0uF                          0402-TIGHT              143.1671  -102.6160   90.0000  top
+FD2       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          144.4955   -99.2708    0.0000  top
+FD4       FIDUCIALUFIDUCIAL              FIDUCIAL-MICRO          160.4391  -110.5916    0.0000  top
+FRAME1    FRAME-LETTER                   CREATIVE_COMMONS        131.4831  -121.5136    0.0000  top
+J1        QWIIC_RIGHT_ANGLE              JST04_1MM_RA            148.5011  -103.5558  180.0000  top
+J2        QWIIC_RIGHT_ANGLE              JST04_1MM_RA            148.5011  -106.2736    0.0000  top
+J3                                       1X05_NO_SILK            137.0711  -110.0836   90.0000  top
+J4                                       1X01_NO_SILK            142.4051   -99.9236    0.0000  top
+L1        2.2μH                         0806                    159.4231  -100.6856  -90.0000  top
+LOGO1     SFE_LOGO_FLAME.1_INCH          SFE_LOGO_FLAME_.1       159.6771  -109.5756    0.0000  top
+LOGO2     OSHW-LOGOMINI                  OSHW-LOGO-MINI          156.8831  -109.8296    0.0000  top
+LOGO4     SPECIAL_INSTRUCTIONS-ORDERING  ORDERING_INSTRUCTIONS   174.4091   -60.5536    0.0000  top
+LOGO5     QWIIC_LOGO_4MM                 QWIIC_4MM               152.9461  -100.9396   90.0000  top
+R3        750K                           0603                    153.8351  -107.0356  -90.0000  top
+R4        100k                           0402-TIGHT              153.3322  -104.6632    0.0000  top
+U$2       PAM2401                        MSOP8                   156.3751  -103.9876  180.0000  top
+U$3                                      #GND#0                  139.7381  -110.0836    0.0000  top
+U$4                                      #SCL#7                  139.6111  -102.4636    0.0000  top
+U$6                                      #RST#32                 139.4841   -99.9236    0.0000  top
+U$7                                      3V338                   139.2301  -107.5436    0.0000  top
+U$8                                      #SDA#10                 139.7381  -105.1306    0.0000  top
+U2        MAX32664GWEA                   16_PIN_WLP              143.6751  -105.2576   90.0000  top
+Y1        32.768kHz                      CRYSTAL-SMD-3.2X1.5MM   142.3797  -107.5436  180.0000  top
+## End

@@ -1,0 +1,9 @@
+### Footprint positions - created on Mon Jul 24 11:58:46 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+LOGO1     SFE_LOGO_NAME.1_INCH   SFE_LOGO_NAME_.1    154.2161  -106.9086  180.0000  bottom
+LOGO2     OSHW-LOGOM             OSHW-LOGO-M         139.0711  -105.2576  180.0000  bottom
+LOGO4     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   157.1011  -106.1486  180.0000  bottom
+## End

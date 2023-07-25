@@ -1,0 +1,53 @@
+### Footprint positions - created on Mon Jul 24 14:53:18 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                       Package                 PosX       PosY       Rot  Side
+C3         0.1uF                     0603                145.4531  -103.0986   90.0000  top
+C4         0.1uF                     0603                148.5011  -102.4636  180.0000  top
+C5         110pF                     0603                147.4851   -98.7806  -90.0000  top
+C6         110pF                     0603                152.5651   -98.7806  -90.0000  top
+D1         RED                       LED-0603            137.1727   -99.3140  -90.0000  top
+FID1       FIDUCIALUFIDUCIAL         FIDUCIAL-MICRO      140.2461   -93.3196    0.0000  top
+FID2       FIDUCIALUFIDUCIAL         FIDUCIAL-MICRO      157.0355  -112.1156    0.0000  top
+FRAME2     FRAME-LEDGER              CREATIVE_COMMONS    118.0211  -140.5636    0.0000  top
+J1         QWIIC_RIGHT_ANGLE         JST04_1MM_RA        156.0957  -105.0036   90.0000  top
+J2         QWIIC_RIGHT_ANGLE         JST04_1MM_RA        140.8811  -105.0036  -90.0000  top
+JP1        IO                        1X06_NO_SILK        154.8511  -116.4336  180.0000  top
+JP3        IO                        1X06_NO_SILK        142.1511   -93.5736    0.0000  top
+LOGO1      QWIIC_LOGO_4MM            QWIIC_4MM           158.9151  -109.3724    0.0000  top
+LOGO3      SFE_LOGO_NAME_FLAMEBLANK  BLANK                97.7011  -141.8336    0.0000  top
+P1         110pF                     0603                149.5171   -98.7806   90.0000  top
+P2         110pF                     0603                144.4371   -98.7806   90.0000  top
+R1         2.2k                      0603                148.5011  -108.5596  -90.0000  top
+R2         2.2k                      0603                150.5331  -108.5596  -90.0000  top
+R3         10k                       0603                146.4691  -108.5469  -90.0000  top
+R4         4.7k                      0603                138.7729   -99.3648  -90.0000  top
+R5         10k                       0603                153.0731  -103.0986   90.0000  top
+R6         10k                       0603                153.0731  -108.5596   90.0000  top
+R7         0                         0603                151.0411   -98.7806   90.0000  top
+R8         0                         0603                145.9611   -98.7806   90.0000  top
+STANDOFF1  STAND-OFFTIGHT            STAND-OFF-TIGHT     138.3411   -94.8436    0.0000  top
+STANDOFF2  STAND-OFFTIGHT            STAND-OFF-TIGHT     138.3411  -115.1636    0.0000  top
+STANDOFF3  STAND-OFFTIGHT            STAND-OFF-TIGHT     158.6611  -115.1636    0.0000  top
+STANDOFF4  STAND-OFFTIGHT            STAND-OFF-TIGHT     158.6611   -94.8436    0.0000  top
+U$1                                  #3V3#1              144.6911  -113.7412   90.0000  top
+U$2                                  #GND#0              142.1765  -113.7158   90.0000  top
+U$3                                  ##CS##7             154.8765  -114.3508   90.0000  top
+U$4                                  #SDA#4              147.2311  -113.7412   90.0000  top
+U$5                                  #SCL#5              149.7965  -113.8936   90.0000  top
+U$7                                  INT16               144.6911   -95.8596   90.0000  top
+U$9                                  OCS17               147.2311   -95.8596   90.0000  top
+U$10                                 SCX18               149.7711   -95.8596   90.0000  top
+U$11                                 SDX19               152.4381   -95.8596   90.0000  top
+U$18                                 #POCI#12            152.3111  -113.4872   90.0000  top
+U$24                                 #POCIX#8            154.8511   -96.9264   90.0000  top
+U$28                                 PWR8                139.9159   -99.2886   90.0000  top
+U$29                                 SFE_LOGO_FLAME_.1   158.9913  -111.7346    0.0000  top
+U$34                                 X2114               137.4521  -111.3536    0.0000  top
+U$35                                 Y2115               140.6271  -112.2426    0.0000  top
+U$36                                 Z2116               141.0081  -110.0836    0.0000  top
+U$40                                 #INT2#3             142.1511   -96.4946   90.0000  top
+U$47                                 LSM6DSV16X37        142.5321  -105.0036   90.0000  top
+U1         LSM6DSV16X                LGA-14L             148.5011  -105.0036  180.0000  top
+## End

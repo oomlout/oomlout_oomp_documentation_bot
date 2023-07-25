@@ -1,0 +1,6 @@
+directory: projects/solderparty/rp2040_stamp_macropad_hw/
+github: https://github.com/solderparty/rp2040_stamp_macropad_hw
+github_project: rp2040_stamp_macropad_hw
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

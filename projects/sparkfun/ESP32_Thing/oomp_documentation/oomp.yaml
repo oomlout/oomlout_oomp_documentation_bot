@@ -1,0 +1,10 @@
+directory: projects/sparkfun/ESP32_Thing/
+eagle_board_file_src:
+  version_current: Hardware/esp32-thing.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/esp32-thing.sch
+github: https://github.com/sparkfun/ESP32_Thing
+github_project: ESP32_Thing
+github_user: sparkfun
+oomp_in_output: true

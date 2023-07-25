@@ -1,0 +1,30 @@
+### Footprint positions - created on Mon Jul 24 12:21:31 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+C1        10uF                          0603                           150.4239  -107.5919    0.0000  bottom
+C2        0.1uF                         0402-TIGHT                     147.4851  -107.5436  180.0000  bottom
+C5        1.0uF                         0603                           153.3271  -102.7176  180.0000  bottom
+FD1       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 144.4930   -99.2708  180.0000  bottom
+FD3       FIDUCIALUFIDUCIAL             FIDUCIAL-MICRO                 160.4391  -110.5916  180.0000  bottom
+I2C0      JUMPER-SMT_3_2-NC_TRACE_SILK  SMT-JUMPER_3_2-NC_TRACE_SILK   157.6451  -104.4956  180.0000  bottom
+LOGO3     SFE_LOGO_NAME.1_INCH          SFE_LOGO_NAME_.1               149.0091  -109.5756  180.0000  bottom
+R1        4.7k                          0603                           146.4691  -101.4476  180.0000  bottom
+R2        4.7k                          0603                           146.4691   -99.9236  180.0000  bottom
+R5        4.7k                          0603                           151.0411   -99.9236  180.0000  bottom
+R6        4.7k                          0603                           156.8577  -107.2896   90.0000  bottom
+R7        4.7k                          0603                           158.4833  -107.2896   90.0000  bottom
+U$1                                     #I2C#1348                      157.5181  -102.8446  180.0000  bottom
+U$5                                     #GND#0                         139.7381  -110.0836  180.0000  bottom
+U$9                                     #3V3#1                         139.7381  -107.5436  180.0000  bottom
+U$10                                    #SDA#9                         139.4841  -105.1306  180.0000  bottom
+U$11                                    #SCL#9                         139.6111  -102.4636  180.0000  bottom
+U$12                                    #RST#32                        139.4841   -99.9236  180.0000  bottom
+U$13                                    ##MFIO##12                     142.5321  -102.7176  -90.0000  bottom
+U$17                                    PULSE35                        159.1691   -99.4156  180.0000  bottom
+U$20                                    OXIMETER_AND36                 157.0101  -100.4316  180.0000  bottom
+U$21                                    HEART_RATE_MONITOR37           155.3591  -101.4476  180.0000  bottom
+U1        MAX30101EFD                   14_PIN_OESIP                   148.5011  -104.7496  -90.0000  bottom
+U3        1.8V/100mA                    SC70                           153.2255  -105.0036  180.0000  bottom
+## End

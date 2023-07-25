@@ -1,0 +1,6 @@
+directory: projects/solderparty/pmod_to_qwiic_adapter/
+github: https://github.com/solderparty/pmod_to_qwiic_adapter
+github_project: pmod_to_qwiic_adapter
+github_user: solderparty
+kicad_src_directory: ''
+oomp_in_output: true

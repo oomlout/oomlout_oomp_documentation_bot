@@ -1,0 +1,10 @@
+directory: projects/sparkfun/Qwiic_Pi_SHIM/
+eagle_board_file_src:
+  version_current: Hardware/Qwiic Pi SHIM.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/Qwiic Pi SHIM.sch
+github: https://github.com/sparkfun/Qwiic_Pi_SHIM
+github_project: Qwiic_Pi_SHIM
+github_user: sparkfun
+oomp_in_output: true

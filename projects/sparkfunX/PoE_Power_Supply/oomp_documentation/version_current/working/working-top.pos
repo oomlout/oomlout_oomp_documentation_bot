@@ -1,0 +1,39 @@
+### Footprint positions - created on Sun Jul 23 23:33:38 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                     PosX       PosY       Rot  Side
+C3        0.1uF                 0603                    157.3911  -117.0686    0.0000  top
+C7        10uF                  0805                    147.2311  -115.7986  -90.0000  top
+C8        100uF                 PANASONIC_D             139.6111  -118.3386   90.0000  top
+C13       0.22uF                0603                    157.3911  -114.5286    0.0000  top
+C19       1nF                   1206                    136.4361  -104.3686  -90.0000  top
+C24       1.0uF                 0603                    157.3911  -124.6886  180.0000  top
+C25       10uF                  0805                    144.6911  -115.7986  -90.0000  top
+C26       10uF                  0805                    152.3111  -115.7986   90.0000  top
+D1        3A/10V/280mV          SOD-323                 154.8511  -115.7986  -90.0000  top
+D5        RED                   LED-0603                138.3411  -124.6886    0.0000  top
+FD1       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO          161.8361  -132.9436   90.0000  top
+FD2       FIDUCIALUFIDUCIAL     FIDUCIAL-MICRO          135.1661   -77.0636   90.0000  top
+FRAME1    FRAME-LETTER          CREATIVE_COMMONS        125.6411  -153.8986    0.0000  top
+J1        MAGJACK-POE           MAGJACK-SYM_LED         148.5011   -82.7786  180.0000  top
+J2        USB_A_SMT_FEMALE_NS   USB-A-S-NOSILK-FEMALE   148.5011  -133.5786   90.0000  top
+J3                              1X04_NO_SILK            152.3111  -123.4186  180.0000  top
+L1        2.2uH                 0805-WIDE               149.7711  -115.7986  -90.0000  top
+R2        49.9OHM-1206-1/2W-1%  1206                    148.5011  -119.6086    0.0000  top
+R3        330                   0603                    159.9311  -120.8786  -90.0000  top
+R11       1k                    0603                    138.3411  -126.5936    0.0000  top
+U$3                             STAND-OFF               137.0711   -78.9686    0.0000  top
+U$4                             STAND-OFF               159.9311   -78.9686    0.0000  top
+U$5                             STAND-OFF               159.9311  -131.0386    0.0000  top
+U$6                             STAND-OFF               137.0711  -131.0386    0.0000  top
+U$7       SPARKX-LOGO4          SPARKX-MEDIUM           137.0711   -89.1286   90.0000  top
+U$14                            CAUTION#0               148.5011  -117.8306    0.0000  top
+U$15                            HOT1                    148.5011  -121.3866    0.0000  top
+U$16                            POE0                    138.3411  -123.2916    0.0000  top
+U$18                            #POE#0                  158.6611   -89.1286   90.0000  top
+U$20                            POWER0                  161.2011   -93.0656   90.0000  top
+U$21                            SUPPLY1                 161.2011   -85.3186   90.0000  top
+U1        POE_PSU-DP990X        DP990X                  148.5011  -104.3686    0.0000  top
+U4        3.3V                  SOT23-5                 157.3911  -120.8786  180.0000  top
+## End

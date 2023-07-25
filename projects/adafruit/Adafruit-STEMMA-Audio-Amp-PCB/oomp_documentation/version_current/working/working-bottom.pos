@@ -1,0 +1,19 @@
+### Footprint positions - created on Mon Jul 24 11:13:56 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                       PosX       PosY       Rot  Side
+PLABEL3             PLABEL3                   148.6281   -98.0186  180.0000  bottom
+PLABEL4             PLABEL4                   147.4851  -100.4316  180.0000  bottom
+PLABEL5             PLABEL5                   148.1201  -103.4796  180.0000  bottom
+PLABEL6             PLABEL6                   159.4231  -105.0036   90.0000  bottom
+PLABEL7             PLABEL7                   144.6911  -110.8456   90.0000  bottom
+PLABEL8             PLABEL8                   147.2311  -110.8456   90.0000  bottom
+PLABEL9             PLABEL9                   149.7711  -110.8456   90.0000  bottom
+PLABEL10            PLABEL10                  152.3111  -110.8456   90.0000  bottom
+PLABEL11            PLABEL11                  154.8511  -110.8456   90.0000  bottom
+PLABEL12            PLABEL12                  143.8021  -106.2736  180.0000  bottom
+SJ1                 SOLDERJUMPER_CLOSEDWIRE   142.4686  -108.6866   90.0000  bottom
+U$5                 PCBFEAT-REV-040           139.8651   -97.7646    0.0000  bottom
+U$12                ADAFRUIT_3.5MM            140.6271  -112.8776  180.0000  bottom
+## End

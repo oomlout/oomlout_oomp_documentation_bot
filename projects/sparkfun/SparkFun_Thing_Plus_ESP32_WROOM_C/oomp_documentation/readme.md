@@ -1,0 +1,102 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | H2,H1 | STAND-OFF-TIGHT | 2 | STAND-OFFTIGHT |  |  |
+| 2 | U$75 | GND1 | 1 |  |  |  |
+| 3 | FRAME1 | CREATIVE_COMMONS | 1 | FRAME-LEDGER |  |  |
+| 4 | C10,C7,C3 | 0402-TIGHT | 3 | 1.0uF |  |  |
+| 5 | U$76 | VU0 | 1 |  |  |  |
+| 6 | U$80 | RST0 | 1 |  |  |  |
+| 7 | U5,U3 | SOT23-5 | 2 | 3.3V |  |  |
+| 8 | R3,R4,R34 | 0402-TIGHT | 3 | 1k |  |  |
+| 9 | Q3 | SOT23-3 | 1 | 20V/4.2A/52mΩ/1.4W |  |  |
+| 10 | R8,R2,R17,R7,R18 | 0402-TIGHT | 5 | 10k |  |  |
+| 11 | C15,C2,C5 | 0402-TIGHT | 3 | 0.1uF |  |  |
+| 12 | U$23 | 3V30 | 1 |  |  |  |
+| 13 | U$12 | SFE_LOGO_FLAME_.1 | 1 |  |  |  |
+| 14 | C4,C1 | 0402-TIGHT | 2 | 10uF |  |  |
+| 15 | U$26 | STAT0 | 1 |  |  |  |
+| 16 | S3 | TACTILE_SWITCH_SMD_4<br>.6X2.8MM | 1 | Boot |  |  |
+| 17 | D1 | LED-0603 | 1 | Yellow |  |  |
+| 18 | J1 | USB-C-16P-2LAYER-PAD<br>S | 1 |  |  |  |
+| 19 | J5 | THING_PLUS | 1 | THING_PLUS_LOGICAL |  |  |
+| 20 | U$69 | A12 | 1 |  |  |  |
+| 21 | R6 | 0603 | 1 | 2.0k |  |  |
+| 22 | FD1,FD3,FD2,FD4 | FIDUCIAL-MICRO | 4 | FIDUCIALUFIDUCIAL |  |  |
+| 23 | U$68 | A03 | 1 |  |  |  |
+| 24 | U$79,U$109 | #RST#0 | 2 |  |  |  |
+| 25 | U$78 | BOOT0 | 1 |  |  |  |
+| 26 | U4 | DFN-8 | 1 | MAX17048 |  |  |
+| 27 | U1 | SOT23-5 | 1 | MCP73831 |  |  |
+| 28 | U$70 | A21 | 1 |  |  |  |
+| 29 | R10,R9 | 0402-TIGHT | 2 | 5.1k |  |  |
+| 30 | U2 | ESP-WROOM-32D-NARROW | 1 | ESP-WROOM-3232D-NARR<br>OW |  |  |
+| 31 | D4 | SOD-323 | 1 | 3A/10V/280mV |  |  |
+| 32 | D5 | WS2812-2020 | 1 | WS2812 |  |  |
+| 33 | U7 | SO016 | 1 | CH340C |  |  |
+| 34 | D3 | LED-0603 | 1 | BLUE |  |  |
+| 35 | J4 | JST-2-SMD | 1 |  |  |  |
+| 36 | U$25 | PWR2 | 1 |  |  |  |
+| 37 | U$74 | EN3 | 1 |  |  |  |
+| 38 | Q2 | SC70-6 | 1 | MBT3904DW1T1 |  |  |
+| 39 | U$71 | A30 | 1 |  |  |  |
+| 40 | U$77 | 130 | 1 |  |  |  |
+| 41 | J3 | JST04_1MM_RA | 1 | QWIIC_RA |  |  |
+| 42 | S4 | TACTILE_SWITCH_SMD_4<br>.6X2.8MM | 1 | Reset |  |  |
+| 43 | D12 | LED-0603 | 1 | RED |  |  |
+| 44 | U$107 | NC0 | 1 |  |  |  |
+| 45 | U$73 | VB1 | 1 |  |  |  |
+| 46 | U$24 | CHG1 | 1 |  |  |  |
+| 47 | LOGO4 | QWIIC_4MM | 1 | QWIIC_LOGO_4MM |  |  |
+| 48 | C6 | 0402-TIGHT | 1 | 4.7uF |  |  |
+| 49 | C19 | 0603 | 1 | 4.7uF |  |  |
+| 50 | U$11 | #_3V3#0 | 1 |  |  |  |
+| 51 | U$97 | #VBAT#0 | 1 |  |  |  |
+| 52 | U$72 | #17#TX#0 | 1 |  |  |  |
+| 53 | U$100 | #21#SDA#1 | 1 |  |  |  |
+| 54 | J2 | MICROSD_TINY | 1 | MICRO-SDFRICTION |  |  |
+| 55 | U$101 | #22#SCL#0 | 1 |  |  |  |
+| 56 | JP2,JP3,JP1 | SMT-JUMPER_2_NC_TRAC<br>E_SILK | 3 | JUMPER-SMT_2_NC_TRAC<br>E_SILK |  |  |
+| 57 | U$83 | #18#SCK#0 | 1 |  |  |  |
+| 58 | U$95 | #33#6 | 1 |  |  |  |
+| 59 | TP2,TP3,TP4,TP1 | PAD.03X.05 | 4 | TEST-POINT3X5 |  |  |
+| 60 | U$96 | #EN#1 | 1 |  |  |  |
+| 61 | U$98 | #VUSB#2 | 1 |  |  |  |
+| 62 | U$84 | #35#A5#0 | 1 |  |  |  |
+| 63 | U$9 | #_GND#0 | 1 |  |  |  |
+| 64 | U$90 | #12#4 | 1 |  |  |  |
+| 65 | U$4 | #4#FREE#0 | 1 |  |  |  |
+| 66 | U$86 | #25#A1#2 | 1 |  |  |  |
+| 67 | U$87 | #26#A0#3 | 1 |  |  |  |
+| 68 | LOGO1 | SFE_LOGO_NAME_FLAME_<br>.1 | 1 | SFE_LOGO_NAME_FLAME.<br>1_INCH |  |  |
+| 69 | U$5 | #CHG_LED#0 | 1 |  |  |  |
+| 70 | U$89 | #39#A3#0 | 1 |  |  |  |
+| 71 | U$92 | #15#7 | 1 |  |  |  |
+| 72 | U$99 | #13#LED#0 | 1 |  |  |  |
+| 73 | U$93 | #27#5 | 1 |  |  |  |
+| 74 | U$2 | #23#PICO#0 | 1 |  |  |  |
+| 75 | U$1 | SFE_LOGO_FLAME_STOP_<br>.1 | 1 |  |  |  |
+| 76 | U$85 | #36#A4#0 | 1 |  |  |  |
+| 77 | U$94 | #32#8 | 1 |  |  |  |
+| 78 | U$8 | #SHLD#0 | 1 |  |  |  |
+| 79 | U$6 | ESP32#WROOM0 | 1 |  |  |  |
+| 80 | U$3 | #19#POCI#0 | 1 |  |  |  |
+| 81 | U$102 | #PWR#0 | 1 |  |  |  |
+| 82 | U$7 | THING_PLUS_C0 | 1 |  |  |  |
+| 83 | U$88 | #34#A2#1 | 1 |  |  |  |
+| 84 | LOGO2 | OSHW-LOGO-MINI | 1 | OSHW-LOGOMINI |  |  |
+| 85 | U$91 | #14#9 | 1 |  |  |  |
+| 86 | U$10 | #_NC#0 | 1 |  |  |  |
+| 87 | U$81 | #16#RX#0 | 1 |  |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

@@ -1,0 +1,33 @@
+### Footprint positions - created on Mon Jul 24 11:02:42 2023 ###
+### Printed by KiCad version 7.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                       PosX       PosY       Rot  Side
+C1        0.1uF            0603-NO                   146.8501  -108.3056    0.0000  top
+C2        10uF             0805-NO                   143.4211  -107.7976    0.0000  top
+C3        10uF             0805-NO                   143.8021  -101.0666    0.0000  top
+CONN3     STEMMA_I2C_QT    JST_SH4                   158.0261  -105.0036   90.0000  top
+CONN4     STEMMA_I2C_QT    JST_SH4                   138.9761  -105.0036  -90.0000  top
+D1        GREEN            CHIPLED_0603_NOOUTLINE    139.3571  -101.3206   90.0000  top
+FID3      FIDUCIAL_1MM     FIDUCIAL_1MM              140.8811  -109.3216    0.0000  top
+FID4      FIDUCIAL_1MM     FIDUCIAL_1MM              155.3591   -97.3836    0.0000  top
+JP2                        1X05_ROUND_70             148.5011  -111.3536    0.0000  top
+PLABEL0                    PLABEL0                   143.4211  -113.0046    0.0000  top
+PLABEL1                    PLABEL1                   145.9611  -109.7026    0.0000  top
+PLABEL2                    PLABEL2                   148.6281  -113.0046    0.0000  top
+PLABEL3                    PLABEL3                   151.0411  -109.7026    0.0000  top
+PLABEL4                    PLABEL4                   153.7081  -113.0046    0.0000  top
+PLABEL5                    PLABEL5                   148.5011   -97.3836    0.0000  top
+PLABEL6                    PLABEL6                   150.0251   -99.2886    0.0000  top
+PLABEL7                    PLABEL7                   136.1821  -101.4476    0.0000  top
+Q2        BSS138           SOT363                    152.8826  -107.7976   90.0000  top
+R1        10K              0603-NO                   141.3891  -101.4476  -90.0000  top
+R3        10K_Pack         RESPACK_4X0603            153.3271  -102.4636  180.0000  top
+U$1       MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   138.3411   -98.6536    0.0000  top
+U$17      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   158.6611   -98.6536    0.0000  top
+U$19      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   138.3411  -111.3536    0.0000  top
+U$21      MOUNTINGHOLE2.5  MOUNTINGHOLE_2.5_PLATED   158.6611  -111.3536    0.0000  top
+U$22                       ADAFRUIT_3.5MM            140.3731  -100.1776    0.0000  top
+U2        AP2127K-3.3      SOT23-5                   143.6751  -104.3686    0.0000  top
+X1        SHT4X_           SHT4X                     148.5011  -105.0036  180.0000  top
+## End
