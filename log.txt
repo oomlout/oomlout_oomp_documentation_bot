@@ -1,0 +1,12 @@
+{'eagle_board_file_src': 'Hardware/32U4_Breakout.brd', 'github': 'https://github.com/sparkfun/32U4_Breakout_Board'}
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\GH\\oomlout_oomp_documentation_bot\\projects/sparkfun/32U4_Breakout_Board//oomp_documentation/version_current/working/tmp/working.plt'
+
+
+{'eagle_board_file_src': 'Hardware/2DBarcodeScanner.brd', 'github': 'https://github.com/sparkfun/2D_Barcode_Scanner_Breakout'}
+[WinError 3] The system cannot find the path specified: 'C:\\GH\\oomlout_oomp_documentation_bot\\projects/sparkfun/2D_Barcode_Scanner_Breakout//oomp_documentation/version_current/working/tmp/'
+
+
+{'eagle_board_file_src': 'Hardware/sparkfun-9dof-razor-imu.brd', 'github': 'https://github.com/sparkfun/9DOF_Razor_IMU'}
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\GH\\oomlout_oomp_documentation_bot\\projects/sparkfun/9DOF_Razor_IMU//oomp_documentation/version_current/working/tmp/working.plt'
+
+
