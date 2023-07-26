@@ -1,0 +1,25 @@
+### Footprint positions - created on Wed Jul 26 00:11:45 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                          PosX       PosY       Rot  Side
+BUZZ0     JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   152.5651  -105.1306  180.0000  bottom
+FD3       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               169.4561  -115.1636  180.0000  bottom
+FD4       FIDUCIALUFIDUCIAL           FIDUCIAL-MICRO               131.3561   -93.5736  180.0000  bottom
+LOGO1     OSHW-LOGOS                  OSHW-LOGO-S                  146.0881  -102.4636  180.0000  bottom
+LOGO3     SFE_LOGO_NAME.1_INCH        SFE_LOGO_NAME_.1             146.5961   -94.3356  180.0000  bottom
+PWR0      JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   133.8961   -97.3836  -90.0000  bottom
+PWR_LED0  JUMPER-SMT_2_NC_TRACE_SILK  SMT-JUMPER_2_NC_TRACE_SILK   152.5651  -107.9246  180.0000  bottom
+U$5                                   #BUZZ#0                      151.6761  -105.1306  180.0000  bottom
+U$6                                   #STAT_LED#0                  151.6761  -107.9246  180.0000  bottom
+U$7                                   ##TRIG##0                    142.7861  -111.2266  -90.0000  bottom
+U$9                                   #LED#0                       133.8961   -98.2726  -90.0000  bottom
+U$18                                  2D_BARCODE0                  151.1681   -97.7646  180.0000  bottom
+U$20                                  SCANNER_BREAKOUT0            153.7081   -99.1616  180.0000  bottom
+U$21                                  #STAT_#0                     145.3261  -110.5916  -90.0000  bottom
+U$27                                  #TX_#0                       135.1661  -112.6236  -90.0000  bottom
+U$29                                  #3#3V_#0                     140.2461  -111.3536  -90.0000  bottom
+U$31                                  #RX_#0                       137.7061  -112.6236  -90.0000  bottom
+U$33                                  #GND_#0                      132.6261  -111.6076  -90.0000  bottom
+U2        BARCODE_SCANNER_MOUNT       BARCODE_SCANNER_MOUNT        162.0901  -105.3846    0.0000  bottom
+## End

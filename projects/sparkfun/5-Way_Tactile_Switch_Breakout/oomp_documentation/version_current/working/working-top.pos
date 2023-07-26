@@ -1,0 +1,21 @@
+### Footprint positions - created on Wed Jul 26 10:53:49 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                PosX       PosY       Rot  Side
+JP2       FIDUCIALUFIDUCIAL     MICRO-FIDUCIAL     158.6611  -113.8936    0.0000  top
+JP3       STAND-OFF             STAND-OFF          157.3911   -97.3836    0.0000  top
+JP4       STAND-OFF             STAND-OFF          157.3911  -107.5436    0.0000  top
+JP5       STAND-OFF             STAND-OFF          139.6111   -97.3836    0.0000  top
+JP6       STAND-OFF             STAND-OFF          139.6111  -107.5436    0.0000  top
+JP7       FIDUCIALUFIDUCIAL     MICRO-FIDUCIAL     142.1511   -96.1136    0.0000  top
+JP9       LOGO-SFESK            SFE-LOGO-FLAME     138.8174  -103.7336    0.0000  top
+R1        10K                   0603-RES           143.4211  -109.7661   90.0000  top
+R2        10K                   0603-RES           145.9611  -109.7661   90.0000  top
+R3        10K                   0603-RES           148.5011  -109.7661   90.0000  top
+R4        10K                   0603-RES           151.0411  -109.7661   90.0000  top
+R5        10K                   0603-RES           153.5811  -109.7661   90.0000  top
+S1        5-WAY-TACTILE-SWITCH  JOYSTICK_MINI      148.5011  -102.4636  -45.0000  top
+U$1       OSHW-LOGOS            OSHW-LOGO-S        157.3911  -102.4636    0.0000  top
+U$2       CREATIVE_COMMONS      CREATIVE_COMMONS   118.0211  -127.8636    0.0000  top
+## End

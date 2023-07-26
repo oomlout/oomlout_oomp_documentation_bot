@@ -1,0 +1,10 @@
+directory: projects/sparkfun/9DOF_Sensor_Stick/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun_9DoF_Sensor_Stick.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun_9DoF_Sensor_Stick.sch
+github: https://github.com/sparkfun/9DOF_Sensor_Stick
+github_project: 9DOF_Sensor_Stick
+github_user: sparkfun
+oomp_in_output: true

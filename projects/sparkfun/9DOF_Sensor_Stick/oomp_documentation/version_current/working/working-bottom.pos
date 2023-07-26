@@ -1,0 +1,10 @@
+### Footprint positions - created on Wed Jul 26 11:38:10 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                                               PosX       PosY       Rot  Side
+JP1                      PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX   146.5961  -101.9556  180.0000  bottom
+JP2                      PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX   153.4541  -107.6706   90.0000  bottom
+JP3                      PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX   153.4541  -103.6828   90.0000  bottom
+LOGO3     OSHW-LOGOMINI  OSHW-LOGO-MINI                                    157.3911  -101.5746  180.0000  bottom
+## End

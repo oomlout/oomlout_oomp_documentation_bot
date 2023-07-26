@@ -1,0 +1,10 @@
+directory: projects/sparkfun/32U4_Breakout_Board/
+eagle_board_file_src:
+  version_current: Hardware/32U4_Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/32U4_Breakout.sch
+github: https://github.com/sparkfun/32U4_Breakout_Board
+github_project: 32U4_Breakout_Board
+github_user: sparkfun
+oomp_in_output: true

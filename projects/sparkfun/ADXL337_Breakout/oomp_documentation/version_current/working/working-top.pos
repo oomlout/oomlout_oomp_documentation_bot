@@ -1,0 +1,17 @@
+### Footprint positions - created on Wed Jul 26 12:34:11 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                    Package                 PosX       PosY       Rot  Side
+C1         10nF                   0603-CAP            148.5011  -107.5436    0.0000  top
+C2         10nF                   0603-CAP            144.6911  -105.0036   90.0000  top
+C3         10nF                   0603-CAP            144.6911  -101.1936  -90.0000  top
+C4         0.1uF                  0603-CAP            152.3111  -103.7336  -90.0000  top
+FID1       FIDUCIAL1X2            FIDUCIAL-1X2        152.3111   -97.3836    0.0000  top
+FID2       FIDUCIAL1X2            FIDUCIAL-1X2        140.8811  -110.0836    0.0000  top
+FRAME1     FRAME-LETTER           CREATIVE_COMMONS    128.1811  -130.4036    0.0000  top
+JP1                               1X06                142.1511  -112.6236    0.0000  top
+LOGO1      SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   151.8031   -99.5426   90.0000  top
+STANDOFF1  STAND-OFF              STAND-OFF           154.8511   -98.6536    0.0000  top
+U1         ADXL337                LFCSP_LQ-16         148.5011  -103.7336    0.0000  top
+## End

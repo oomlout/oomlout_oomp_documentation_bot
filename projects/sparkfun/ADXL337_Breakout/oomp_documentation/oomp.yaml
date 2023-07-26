@@ -1,0 +1,10 @@
+directory: projects/sparkfun/ADXL337_Breakout/
+eagle_board_file_src:
+  version_current: hardware/ADXL337 Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: hardware/ADXL337 Breakout.sch
+github: https://github.com/sparkfun/ADXL337_Breakout
+github_project: ADXL337_Breakout
+github_user: sparkfun
+oomp_in_output: true

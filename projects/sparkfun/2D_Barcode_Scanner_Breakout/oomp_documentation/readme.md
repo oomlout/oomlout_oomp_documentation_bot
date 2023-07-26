@@ -1,0 +1,53 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | R3,R2 | 0603 | 2 | 5.1k |  |  |
+| 2 | U$1,U$7 | ##TRIG##0 | 2 |  |  |  |
+| 3 | H2,H3 | STAND-OFF | 2 | STAND-OFF |  |  |
+| 4 | J4 | 1X06_NO_SILK | 1 |  |  |  |
+| 5 | J2 | USB-C-16P-2LAYER-PAD<br>S | 1 |  |  |  |
+| 6 | S2 | TACTILE_SWITCH_SMD_5<br>.2MM | 1 | MOMENTARY-SWITCH-SPS<br>T-SMD-5.2MM-TALL |  |  |
+| 7 | Q1,Q2 | SOT23-3 | 2 | 600mA/40V |  |  |
+| 8 | U$8 | PWR0 | 1 |  |  |  |
+| 9 | R1 | 0603 | 1 | 100 |  |  |
+| 10 | U$17,U$18 | 2D_BARCODE0 | 2 |  |  |  |
+| 11 | C2,C1 | 0603 | 2 | 1.0uF |  |  |
+| 12 | D1 | LED-0603 | 1 | RED |  |  |
+| 13 | FRAME1 | CREATIVE_COMMONS | 1 | FRAME-LETTER |  |  |
+| 14 | U$26,U$27 | #TX_#0 | 2 |  |  |  |
+| 15 | R7 | 0603 | 1 | 10 |  |  |
+| 16 | U$32,U$33 | #GND_#0 | 2 |  |  |  |
+| 17 | U$19 | SCANNER0 | 1 |  |  |  |
+| 18 | U$30,U$31 | #RX_#0 | 2 |  |  |  |
+| 19 | LS1 | BUZZER-CCV | 1 | BUZZER-SMD |  |  |
+| 20 | U$3 | STAT0 | 1 |  |  |  |
+| 21 | FD2,FD1,FD3,FD4 | FIDUCIAL-MICRO | 4 | FIDUCIALUFIDUCIAL |  |  |
+| 22 | U1 | SOT23-5 | 1 | 3.3V |  |  |
+| 23 | R9,R4,R11 | 0603 | 3 | 1k |  |  |
+| 24 | U$28,U$29 | #3#3V_#0 | 2 |  |  |  |
+| 25 | J3 | FPC_12_0.5MM | 1 |  |  |  |
+| 26 | R8,R10 | 0603 | 2 | 10k |  |  |
+| 27 | LOGO2 | SFE_LOGO_FLAME_.1 | 1 | SFE_LOGO_FLAME.1_INC<br>H |  |  |
+| 28 | U$2,U$21 | #STAT_#0 | 2 |  |  |  |
+| 29 | D2 | LED-0603 | 1 | GREEN |  |  |
+| 30 | C3 | 0603 | 1 | 0.1uF |  |  |
+| 31 | U$4 | #SCAN#0 | 1 |  |  |  |
+| 32 | BUZZ0,PWR0,PWR_LED0 | SMT-JUMPER_2_NC_TRAC<br>E_SILK | 3 | JUMPER-SMT_2_NC_TRAC<br>E_SILK |  |  |
+| 33 | U$9 | #LED#0 | 1 |  |  |  |
+| 34 | U$6 | #STAT_LED#0 | 1 |  |  |  |
+| 35 | LOGO1 | OSHW-LOGO-S | 1 | OSHW-LOGOS |  |  |
+| 36 | U$20 | SCANNER_BREAKOUT0 | 1 |  |  |  |
+| 37 | U2 | BARCODE_SCANNER_MOUN<br>T | 1 | BARCODE_SCANNER_MOUN<br>T |  |  |
+| 38 | U$5 | #BUZZ#0 | 1 |  |  |  |
+| 39 | LOGO3 | SFE_LOGO_NAME_.1 | 1 | SFE_LOGO_NAME.1_INCH |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

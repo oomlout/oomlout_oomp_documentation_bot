@@ -1,7 +1,7 @@
 import oomp_documentation_bot as oomp_bot
 import yaml
 
-github_users = ["solderparty", "sparkfun","adafruit","omerk","electrolama","sparkfunx","DangerousPrototypes","oomlout"]
+github_users = ["sparkfun","adafruit","omerk","electrolama","sparkfunx","DangerousPrototypes","oomlout","solderparty" ]
 
 #github_users = ["solderparty"]
 

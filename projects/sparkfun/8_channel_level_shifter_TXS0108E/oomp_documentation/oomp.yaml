@@ -1,0 +1,10 @@
+directory: projects/sparkfun/8_channel_level_shifter_TXS0108E/
+eagle_board_file_src:
+  version_current: Hardware/TXS0108 Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/TXS0108 Breakout.sch
+github: https://github.com/sparkfun/8_channel_level_shifter_TXS0108E
+github_project: 8_channel_level_shifter_TXS0108E
+github_user: sparkfun
+oomp_in_output: true

@@ -1,0 +1,10 @@
+directory: projects/sparkfun/74HC4051_8-Channel_Mux_Breakout/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun-74HC4051-8-Channel-Mux-Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun-74HC4051-8-Channel-Mux-Breakout.sch
+github: https://github.com/sparkfun/74HC4051_8-Channel_Mux_Breakout
+github_project: 74HC4051_8-Channel_Mux_Breakout
+github_user: sparkfun
+oomp_in_output: true

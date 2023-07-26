@@ -1,0 +1,10 @@
+directory: projects/sparkfun/AD8232_Heart_Rate_Monitor/
+eagle_board_file_src:
+  version_current: Hardware/AD8232_Heart_Rate_Monitor.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/AD8232_Heart_Rate_Monitor.sch
+github: https://github.com/sparkfun/AD8232_Heart_Rate_Monitor
+github_project: AD8232_Heart_Rate_Monitor
+github_user: sparkfun
+oomp_in_output: true

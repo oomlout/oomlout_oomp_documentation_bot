@@ -1,0 +1,10 @@
+directory: projects/sparkfun/AD5330_Breakout/
+eagle_board_file_src:
+  version_current: Hardware/SparkFun_AD5330_Breakout.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/SparkFun_AD5330_Breakout.sch
+github: https://github.com/sparkfun/AD5330_Breakout
+github_project: AD5330_Breakout
+github_user: sparkfun
+oomp_in_output: true

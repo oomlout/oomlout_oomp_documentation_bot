@@ -1,0 +1,34 @@
+### Footprint positions - created on Wed Jul 26 11:16:24 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+FD2       FIDUCIAL1X2            FIDUCIAL-1X2        161.2011   -99.9236  180.0000  bottom
+FD4       FIDUCIAL1X2            FIDUCIAL-1X2        137.0711  -105.0036  180.0000  bottom
+LOGO3     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   154.8511  -105.0036  180.0000  bottom
+LOGO4     OSHW-LOGOS             OSHW-LOGO-S         157.3911  -105.0036  -90.0000  bottom
+U$4                              #VA#0               138.3411  -106.0196  -90.0000  bottom
+U$23                             #VB#0               138.3411  -100.3046  -90.0000  bottom
+U$24                             #A1#2               140.8811  -106.5276  -90.0000  bottom
+U$25                             #A2#2               143.4211  -106.2736  -90.0000  bottom
+U$26                             #A3#3               145.9611  -106.2736  -90.0000  bottom
+U$27                             #A4#4               148.5011  -106.2736  -90.0000  bottom
+U$28                             #A5#5               151.0411  -106.4006  -90.0000  bottom
+U$29                             #A6#6               153.5811  -106.4006  -90.0000  bottom
+U$30                             #A7#8               156.1211  -106.2736  -90.0000  bottom
+U$31                             #A8#9               158.6611  -106.2736  -90.0000  bottom
+U$32                             #GND#0              135.8011  -100.3046  -90.0000  bottom
+U$34                             #GND#0              135.8011  -105.2576  -90.0000  bottom
+U$35                             #B8#9               158.6611  -100.3046  -90.0000  bottom
+U$36                             #B7#9               156.1211  -100.3046  -90.0000  bottom
+U$37                             #B6#9               153.5811  -100.3046  -90.0000  bottom
+U$38                             #B5#9               151.0411  -100.3046  -90.0000  bottom
+U$39                             #B4#9               148.5011  -100.3046  -90.0000  bottom
+U$40                             #B3#9               145.9611  -100.3046  -90.0000  bottom
+U$41                             #B2#9               143.4211  -100.3046  -90.0000  bottom
+U$42                             #B1#9               140.8811  -100.3046  -90.0000  bottom
+U$43                             TXS01080            153.8351  -105.0036  180.0000  bottom
+U$45                             #OE#1               161.2011  -106.2736  -90.0000  bottom
+U$47                             #0                  138.3411  -105.3084   90.0000  bottom
+U$48                             V0                  138.2649  -104.4702  180.0000  bottom
+## End

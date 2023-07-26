@@ -1,0 +1,9 @@
+### Footprint positions - created on Wed Jul 26 12:11:47 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                PosX       PosY       Rot  Side
+FRAME1               DUMMY              136.3345  -112.6236    0.0000  top
+HEADERS0             MOLEX-1X6          139.1031   -98.6536  -90.0000  top
+RJ11      RJ11-6PTH  RJ11-6             155.1051  -110.0836   90.0000  top
+## End

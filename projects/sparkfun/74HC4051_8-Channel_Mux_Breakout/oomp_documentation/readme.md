@@ -1,0 +1,27 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Schematic
+![None](version_current/working/working_schematic.png)
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | LOGO2 | OSHW-LOGO-MINI | 1 | OSHW-LOGOMINI |  |  |
+| 2 | U1 | DHVQFN-16-2.5X3.5MM | 1 |  |  |  |
+| 3 | LOGO1 | SFE_LOGO_FLAME_.1 | 1 | SFE_LOGO_FLAME.1_INC<br>H |  |  |
+| 4 | R1 | 0603 | 1 | 10k |  |  |
+| 5 | H2,H1 | STAND-OFF | 2 | STAND-OFF |  |  |
+| 6 | C1 | 0603 | 1 | 0.1uF |  |  |
+| 7 | FD2,FD1 | FIDUCIAL-1X2 | 2 | FIDUCIAL1X2 |  |  |
+| 8 | JP1 | PAD-JUMPER-2-NC_BY_P<br>ASTE_NO_SILK | 1 | VEE-GND |  |  |
+| 9 | FRAME1 | CREATIVE_COMMONS | 1 | FRAME-LETTER |  |  |
+| 10 | J1 | 1X11 | 1 |  |  |  |
+| 11 | LOGO3 | SFE_LOGO_NAME_.1 | 1 | SFE_LOGO_NAME.1_INCH |  |  |
+| 12 | J2 | 1X08_ROUND | 1 |  |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
+![version_current/working/working_schematic.png](version_current/working/working_schematic.png)

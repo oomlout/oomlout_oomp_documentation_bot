@@ -1,0 +1,10 @@
+directory: projects/sparkfun/2D_Barcode_Scanner_Breakout/
+eagle_board_file_src:
+  version_current: Hardware/2DBarcodeScanner.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: Hardware/2DBarcodeScanner.sch
+github: https://github.com/sparkfun/2D_Barcode_Scanner_Breakout
+github_project: 2D_Barcode_Scanner_Breakout
+github_user: sparkfun
+oomp_in_output: true

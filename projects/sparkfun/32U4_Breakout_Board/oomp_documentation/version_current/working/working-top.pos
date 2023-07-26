@@ -1,0 +1,31 @@
+### Footprint positions - created on Wed Jul 26 00:18:36 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                  PosX       PosY       Rot  Side
+C1        0.1uF            0603-CAP             147.6121   -97.7646  180.0000  top
+C2        18pF             0603-CAP             154.2161  -113.1316   90.0000  top
+C3        18pF             0603-CAP             146.0881  -113.1316  -90.0000  top
+C4        1uF              0603-CAP             141.1351  -105.3846  180.0000  top
+C5        1uF              0603-CAP             135.8011  -115.6716  -90.0000  top
+C6        0.1uF            0603-CAP             154.7241   -97.7646    0.0000  top
+C7        0.1uF            0603-CAP             157.3911  -109.4486  -90.0000  top
+C8        10uF             EIA3216              141.5161  -107.5436    0.0000  top
+C9        0.1uF            0603-CAP             142.7861  -112.6236  -90.0000  top
+F1        PTCSMD           PTC-1206             141.5161   -99.9236    0.0000  top
+J1        AVR_SPI_PRG      2X3                  161.8361  -107.5436   90.0000  top
+JP5       LOGO-SFESK       SFE-LOGO-FLAME       149.2631   -99.0346  -90.0000  top
+JP6       FIDUCIAL1X2      FIDUCIAL-1X2         136.9568   -93.4466    0.0000  top
+JP7       FIDUCIAL1X2      FIDUCIAL-1X2         166.9161  -113.3094    0.0000  top
+LED1      Power            LED-0603             131.3561  -111.3536  -90.0000  top
+R1        10k              0603-RES             140.2461   -97.3836    0.0000  top
+R2        22               0603-RES             141.1351  -103.6066    0.0000  top
+R3        22               0603-RES             141.1351  -101.9556    0.0000  top
+R4        1k               0603-RES             131.3561  -112.6236    0.0000  top
+S1        SWITCH-SMD       TACTILE_SWITCH_SMD   132.6261   -96.1136  180.0000  top
+SJ1       Power_Select     SJ_3_PASTE2&3        131.3561  -115.1636   90.0000  top
+U1        ATMEGA32U4       QFN-44-NOPAD_1_1     150.4061  -105.0036    0.0000  top
+U2        3.3V_REG_LDOSMD  SOT23-5              140.2461  -111.3536  180.0000  top
+X1        USBSMD           USB-MINIB            133.8961  -105.0036    0.0000  top
+Y1        16MHz            CRYSTAL-SMD-5X3      150.1521  -113.1316    0.0000  top
+## End

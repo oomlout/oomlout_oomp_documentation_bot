@@ -1,0 +1,28 @@
+### Footprint positions - created on Wed Jul 26 11:27:38 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                   PosX       PosY       Rot  Side
+C1        1.0uF                  0603                  141.8971  -108.0516    0.0000  bottom
+C2        2.2uF                  0603                  141.8971  -109.5756    0.0000  bottom
+C3        4.7uF                  0603                  150.1521  -108.5596    0.0000  bottom
+C4        4.7uF                  0603                  158.0261  -110.7694    0.0000  bottom
+D1        1A/23V/620mV           SOD-323               150.1521  -110.0836    0.0000  bottom
+D2        Yellow                 LED-0603              148.5011  -113.2586  -90.0000  bottom
+D3        RED                    LED-0603              138.9761  -113.2586  -90.0000  bottom
+D4        BLUE                   LED-0603              159.9311  -113.2586   90.0000  bottom
+F1        6V/0.5A                1206                  146.3421  -110.7186   90.0000  bottom
+FD1       FIDUCIAL1X2            FIDUCIAL-1X2          133.8961  -115.7986  180.0000  bottom
+FD3       FIDUCIAL1X2            FIDUCIAL-1X2          159.2961   -90.3986  180.0000  bottom
+J1        LiPo                   JST-2-SMD             154.5971  -117.4496    0.0000  bottom
+J2                               USB-B-MICRO-SMD_V03   142.7861  -118.5926   90.0000  bottom
+J3        USD_CONNECTOR          MICRO-SD-SOCKET-PP    141.5161  -106.5276  180.0000  bottom
+LOGO1     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1     140.3731   -94.0816  180.0000  bottom
+R3        1k                     0603                  138.9761  -109.3216   90.0000  bottom
+R4        2.2k                   0603                  154.2161  -107.3531    0.0000  bottom
+R5        1k                     0603                  148.5011  -116.6876   90.0000  bottom
+R9        1k                     0603                  161.2011  -113.2586   90.0000  bottom
+S1        SWITCH-SPST-SMD-A      SWITCH-SPST-SMD-A     135.5471  -109.9566  -90.0000  bottom
+U1        3.3V                   SOT23-5               142.7861  -111.9886  -90.0000  bottom
+U2        MCP73831               SOT23-5               154.2161  -109.7026  -90.0000  bottom
+## End

@@ -1,0 +1,45 @@
+### Footprint positions - created on Wed Jul 26 00:11:45 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                   Package                        PosX       PosY       Rot  Side
+C1        1.0uF                                 0603                       141.5161   -95.6056  180.0000  top
+C2        1.0uF                                 0603                       141.5161  -101.4476  180.0000  top
+C3        0.1uF                                 0603                       151.2951   -95.8596  180.0000  top
+D1        RED                                   LED-0603                   135.1661   -97.3836   90.0000  top
+D2        GREEN                                 LED-0603                   150.1521  -113.2586  180.0000  top
+FD1       FIDUCIALUFIDUCIAL                     FIDUCIAL-MICRO             131.3561   -93.5736    0.0000  top
+FD2       FIDUCIALUFIDUCIAL                     FIDUCIAL-MICRO             169.4561  -115.1636    0.0000  top
+FRAME1    FRAME-LETTER                          CREATIVE_COMMONS           127.5461  -127.8636    0.0000  top
+H2        STAND-OFF                             STAND-OFF                  128.8161  -115.1636    0.0000  top
+H3        STAND-OFF                             STAND-OFF                  128.8161   -94.8436    0.0000  top
+J2                                              USB-C-16P-2LAYER-PADS      132.6261  -105.0036  -90.0000  top
+J3                                              FPC_12_0.5MM               147.8661   -99.9236  -90.0000  top
+J4                                              1X06_NO_SILK               145.3261  -116.4336  180.0000  top
+LOGO2     SFE_LOGO_FLAME.1_INCH                 SFE_LOGO_FLAME_.1          140.8811  -106.0196    0.0000  top
+LS1       BUZZER-SMD                            BUZZER-CCV                 164.1221  -110.0836  180.0000  top
+Q1        600mA/40V                             SOT23-3                    162.8521   -97.3836  -90.0000  top
+Q2        600mA/40V                             SOT23-3                    156.7561   -97.3836  -90.0000  top
+R1        100                                   0603                       150.1521  -115.1636    0.0000  top
+R2        5.1k                                  0603                       135.6741  -107.5436   90.0000  top
+R3        5.1k                                  0603                       135.6741  -102.4636  -90.0000  top
+R4        1k                                    0603                       133.8961   -97.3836  -90.0000  top
+R7        10                                    0603                       160.0581  -100.8126   90.0000  top
+R8        10k                                   0603                       160.0581   -97.3836   90.0000  top
+R9        1k                                    0603                       160.9471   -94.9706    0.0000  top
+R10       10k                                   0603                       155.1051   -94.9706  180.0000  top
+R11       1k                                    0603                       154.2161   -97.3836   90.0000  top
+S2        MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL  TACTILE_SWITCH_SMD_5.2MM   154.0891  -105.1306  -90.0000  top
+U$1                                             ##TRIG##0                  142.7861  -111.2266  -90.0000  top
+U$2                                             #STAT_#0                   145.3261  -110.5916  -90.0000  top
+U$3                                             STAT0                      147.2311  -111.9886    0.0000  top
+U$4                                             #SCAN#0                    157.3911  -102.4636  -90.0000  top
+U$8                                             PWR0                       136.5631   -94.9706  -90.0000  top
+U$17                                            2D_BARCODE0                141.6431  -105.3846    0.0000  top
+U$19                                            SCANNER0                   142.7861  -106.7816    0.0000  top
+U$26                                            #TX_#0                     135.1661  -112.6236  -90.0000  top
+U$28                                            #3#3V_#0                   140.2461  -111.3536  -90.0000  top
+U$30                                            #RX_#0                     137.7061  -112.6236  -90.0000  top
+U$32                                            #GND_#0                    132.6261  -111.6076  -90.0000  top
+U1        3.3V                                  SOT23-5                    141.5161   -98.5266  180.0000  top
+## End

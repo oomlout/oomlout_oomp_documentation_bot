@@ -1,0 +1,48 @@
+### Footprint positions - created on Wed Jul 26 12:00:33 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                         Package                      PosX       PosY       Rot  Side
+C1         1.5nF                       0603-CAP                 156.7561  -109.5756  180.0000  top
+C2         1nF                         0603-CAP                 151.2951  -104.6226  -90.0000  top
+C3         10nF                        0603-CAP                 153.4541  -107.1626  180.0000  top
+C4         0.33uF                      0805                     151.2951  -100.1776   90.0000  top
+C5         0.1uF                       0603-CAP                 159.0421  -100.0506  -90.0000  top
+C6         0.33uF                      0805                     157.2641   -92.9386    0.0000  top
+C7         0.1uf                       0603-CAP                 158.9151   -97.3836    0.0000  top
+D1         RED                         LED-0603                 139.1031  -110.5916   90.0000  top
+FID1       FIDUCIAL1X2                 FIDUCIAL-1X2             135.8011   -96.1136    0.0000  top
+FID2       FIDUCIAL1X2                 FIDUCIAL-1X2             161.2011  -113.8936    0.0000  top
+FRAME1     FRAME-LETTER                CREATIVE_COMMONS         130.7211  -127.8636    0.0000  top
+JP1                                    1X03                     131.9911  -103.7336   90.0000  top
+JP2                                    AUDIO-JACK-3.5MM-SMD     141.2621   -91.2876  -90.0000  top
+JP3                                    1X06                     142.1511  -117.7036    0.0000  top
+LOGO1      OSHW-LOGOS                  OSHW-LOGO-S              163.8681   -98.9076   90.0000  top
+LOGO2      SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1   165.6461  -113.2586   90.0000  top
+R1         10M                         0603-RES                 147.6121  -100.0506    0.0000  top
+R2         10M                         0603-RES                 147.6121  -105.1306    0.0000  top
+R3         180k                        0603-RES                 147.6121  -101.7016    0.0000  top
+R4         180k                        0603-RES                 147.6121  -103.3526    0.0000  top
+R5         360k                        0603-RES                 147.6121  -106.9086  180.0000  top
+R6         1M                          0603-RES                 153.4541  -111.6076  180.0000  top
+R7         1M                          0603-RES                 153.4541  -109.5756  180.0000  top
+R8         100k                        0603-RES                 156.6926  -107.1626  180.0000  top
+R9         1M                          0603-RES                 159.6771  -107.1626  180.0000  top
+R10        10M                         0603-RES                 155.9306   -97.5106   90.0000  top
+R11        10M                         0603-RES                 151.2951   -97.1296   90.0000  top
+R12        1.4M                        0603-RES                 155.6131   -94.9706    0.0000  top
+R13        10M                         0603-RES                 152.5651   -94.9706    0.0000  top
+R14        10M                         0603-RES                 158.9151   -95.8596  180.0000  top
+R15        10K                         0603-RES                 157.8991  -117.7036    0.0000  top
+R16        1k                          0603-RES                 147.6121  -108.6866    0.0000  top
+R17        0                           0603                     152.4381   -92.9386    0.0000  top
+R18        DNP                         0603                     154.0891   -92.9386    0.0000  top
+R19        0                           0603                     161.4551  -102.4636   90.0000  top
+R20        DNP                         0603                     161.4551  -100.9396   90.0000  top
+SJ4        LED_DISABLE                 SJ_2S-TRACE              138.3411  -116.9416   90.0000  top
+STANDOFF1  STAND-OFF                   STAND-OFF                133.2611   -93.5736    0.0000  top
+STANDOFF2  STAND-OFF                   STAND-OFF                163.7411   -93.5736    0.0000  top
+STANDOFF3  STAND-OFF                   STAND-OFF                163.7411  -116.4336    0.0000  top
+STANDOFF4  STAND-OFF                   STAND-OFF                133.2611  -116.4336    0.0000  top
+U1         AD8232                      LFCSP_20                 155.1051  -102.8446    0.0000  top
+## End
